@@ -11,7 +11,7 @@ Whether you are writing a thesis, dissertation, or research paper it is a key ta
 | 6 | [ScienceDirect](https://www.sciencedirect.com/) | ScienceDirect is the gateway to the millions of academic articles published by Elsevier. 2,500 journals and more than 40,000 e-books can be searched via a single interface. |
 | 7 | [Directory of Open Access Journals (DOAJ)](https://doaj.org/) | The DOAJ is very special academic database since all the articles indexed are open access and can be accessed freely of charge. |
 
-## 📖 Phd Thesis
+## 📖 Phd Thesis: Social Science
 | No | Name | Title |  File |
 | ----- | ----- | ------ | ------ | 
 | 1 | Ernie Mazuin Mohd Yusof | Individual Level Determinants Model for Benefit Use of Business Intelligence in Malaysia Manufacturing Organizations| [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://drive.google.com/drive/u/1/folders/1qqIaFnxY4lwsh6BDsrFc45x8EtlGEYNK) |
