@@ -1,12 +1,15 @@
 # The top list of academic research databases
 Whether you are writing a thesis, dissertation, or research paper it is a key task to survey prior literature and research findings. More likely than not, you will be looking for trusted resources, most likely peer-reviewed research articles. Academic research databases make it easy to locate the literature you are looking for. We have compiled the top list of trusted academic resources to help you get started with your research:
 
-## 📖 Lab
 | No | Database | Description | 
 | ----- | ----- | ------ |
 | 1 | [Scopus](https://www.scopus.com) | Scopus is one of the two big commercial, bibliographic databases that cover scholarly literature from almost any discipline. Beside searching for research articles, Scopus also provides academic journal rankings, author profiles, and an h-index calculator. |
-| 2 | Web of Science| Web of Science also known as Web of Knowledge is the second big bibliographic database. Usually, academic institutions provide either access to Web of Science or Scopus on their campus network for free. |
-
+| 2 | [Web of Science](https://)| Web of Science also known as Web of Knowledge is the second big bibliographic database. Usually, academic institutions provide either access to Web of Science or Scopus on their campus network for free. |
+| 3 | [PubMed](https://)  | PubMed is the number one resource for anyone looking for literature in medicine or biological sciences. PubMed stores abstracts and bibliographic details of more than 30 million papers and provides full text links to the publisher sites or links to the free PDF on PubMed Central (PMC). |
+| 4 | [Web of Science](https://)  |   |
+| 5 | [Web of Science](https://)  |   |
+| 6 | [Web of Science](https://)  |   |
+| 7 | [Web of Science](https://)  |   |
 
 
 
