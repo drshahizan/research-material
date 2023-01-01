@@ -19,66 +19,18 @@ Today, there is a plethora of solutions in the market that were not available de
 | No | Name | Description | 
 | ----- | ----- | ------ | 
 | 1 | Mendeley Cite | Mendeley Cite is a plug-in for Microsoft Word that lets you cite sources without leaving your document. The plug-in appears in the References tab in Word which allows you to automatically add in-text citations and generate bibliographies. | 
-| 2 | Zotero | Zotero is a free, open-source research tool that lets you collect research material, organize them, and create references and bibliographies. Zotero has a downloadable desktop app for Mac and Windows. They also have Zotero Connector, a browser extension that allows you to save webpages online and sync it to the desktop app.
- | 
-| 3 | EndNote | Endnote is a complete reference management software that promises users to research smarter. Aside from your own library where you can gather, sort, and share your research, it also has a Cite-As-You-Write plug-in for Word and Mac. The plug-in bridges your EndNote library and Microsoft Word or Apple Pages so you can seamlessly cite sources without switching to different interfaces.
- | 
+| 2 | Zotero | Zotero is a free, open-source research tool that lets you collect research material, organize them, and create references and bibliographies. Zotero has a downloadable desktop app for Mac and Windows. They also have Zotero Connector, a browser extension that allows you to save webpages online and sync it to the desktop app. | 
+| 3 | EndNote | Endnote is a complete reference management software that promises users to research smarter. Aside from your own library where you can gather, sort, and share your research, it also has a Cite-As-You-Write plug-in for Word and Mac. The plug-in bridges your EndNote library and Microsoft Word or Apple Pages so you can seamlessly cite sources without switching to different interfaces. | 
 | 4 | Paperpile | Paperpile is a subscription-based reference management system that lets you store, organize, and share your research all from one place. The paid version includes beta version of Word plug-ins for Mac and Windows. However, Paperpile also offers a free reference manager for Google Docs. | 
 | 5 | Cite This For Me | Cite This For Me has a decent amount of tools that will make citation easier and faster. Though it can only support a moderate number of source types, it makes up for it in the array of citation styles available. While it has the usual download, export, and copy-and-paste tools that other citation generators have, its collaboration features make it unique. | 
 | 6 | Citation Machine | Citation Machine is a free online bibliography generator that’s also straightforward to use. Like most citation generators, users are asked to identify the source material, look for it via URL or search term, and supply any missing information to complete the citation. | 
 | 7 | EasyBib | EasyBib is another free, easy-to-use online bibliography maker. Like Citation Machine, EasyBib is part of the online learning platform Chegg Service. This probably explains why it has a similar interface and features to Citation Machine. | 
 | 8 | BibMe | BibMe is an online bibliography generator that makes the tedious task of citation more convenient. | 
-| 9 | CiteMaker | Touting itself as a best-in-class referencing tool, CiteMaker is a bibliography maker that promises fast output in three easy steps (CiteMaker, n.d.).
- | 
-| 10 |  |  | 
-| 11 |  |  | 
-| 12 |  |  | 
-| 13 |  |  | 
-
-
-
-
-10. Citefast
-Citefast is an online citation generator that promises not only a free tool but also a fast one. Citefast can automatically generate citations out of web page URLs, ISBNs, and more. You can also type in the information yourself. Fields for reference data have tips that you can hover over so you know how to properly format your sources.
-
-Citefast allows you to save your citations. However, if you don’t have an account, your citations will be deleted after four days of inactivity. You can save citations indefinitely when you create an account (Citefast, n.d.).
-
-Citefast Key Features:
-
-Supports 19 source types
-Supports three citation styles: APA 6 and 7, MLA 7 and 8, and Chicago
-Change citation style
-Copy and paste citations
-Export to Word
-
-
-11. KnightCite
-KnightCite is a free online citation generation service run by the Hekman Library at Calvin College. It was created by a student of the school with the aim of building a quick and reliable citation tool for other students (Calvin University, n.d.).
-
-KnightCite provides users with the standard elements included in a citation. It provides you with a short guide for the resource type you are trying to cite in your chosen citation style. The tool provides support for 26 resource types but only for MLA, APA, and Chicago formats. Anyone can use KnightCite, however, one can register for free to enjoy more features like saving and alphabetizing citations and exporting them to Word.
-
-KnightCite key Features:
-
-Support for more than 20 resource types, including print and electronic sources
-Support for MLA, APA, and Chicago citation styles
-Edit citation
-Copy and paste citations
-
-
-12. Citation Builder
-Citation Builder is a free online bibliography maker hosted by the North Carolina State University library. It has a rather simplistic interface with dropdowns for the resource type and citation style. You just have to choose the options from the dropdown and manually fill out the needed information for the resource type. Once you hit Submit, it will generate a citation for you which you can then copy and paste to a document (NC State University, n.d.).
-
-Citation Builder Key Features:
-
-Support for six resource types
-Support for four citation styles: APA, MLA, Chicago, and CSE/CBE
-Citation for both print and digital resources
-
-
-13. OttoBib
-OttoBib is a straightforward online citation generator that lets you cite books using their International Standard Book Number (ISBNs). You can cite multiple ISBNs as long as they are separated with commas. OttoBib supports MLA, APA, Chicago/Turabian, BibTeX, and Wikipedia (OttoBib, n.d.).
-
-Ironically, the strength of Ottobib is also its weakness. Though it is simple and easy-to-use, it lacks the citation editing and export tools that other generators have.
+| 9 | CiteMaker | Touting itself as a best-in-class referencing tool, CiteMaker is a bibliography maker that promises fast output in three easy steps (CiteMaker, n.d.). | 
+| 10 | Citefast | Citefast is an online citation generator that promises not only a free tool but also a fast one. Citefast can automatically generate citations out of web page URLs, ISBNs, and more. You can also type in the information yourself. Fields for reference data have tips that you can hover over so you know how to properly format your sources. | 
+| 11 | KnightCite | KnightCite is a free online citation generation service run by the Hekman Library at Calvin College. It was created by a student of the school with the aim of building a quick and reliable citation tool for other students (Calvin University, n.d.). | 
+| 12 | Citation Builder | Citation Builder is a free online bibliography maker hosted by the North Carolina State University library. It has a rather simplistic interface with dropdowns for the resource type and citation style. You just have to choose the options from the dropdown and manually fill out the needed information for the resource type. Once you hit Submit, it will generate a citation for you which you can then copy and paste to a document (NC State University, n.d.). | 
+| 13 | OttoBib | OttoBib is a straightforward online citation generator that lets you cite books using their International Standard Book Number (ISBNs). You can cite multiple ISBNs as long as they are separated with commas. OttoBib supports MLA, APA, Chicago/Turabian, BibTeX, and Wikipedia (OttoBib, n.d.). | 
 
 ## 📖 Phd Thesis: Computer Science
 | No | Name | Title |  File |
