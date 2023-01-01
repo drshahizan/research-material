@@ -30,5 +30,5 @@ Whether you are writing a thesis, dissertation, or research paper it is a key ta
 ## 📖 Phd: Proposal
 | No | Name | Title |  File |
 | ----- | ----- | ------ | ------ | 
-| 1 | Li Jing | Enhanced Attack Detection and Classification Techniques Based on Feature Manipulation of IOT Data for IOT Security | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://drive.google.com/drive/u/1/folders/1qqIaFnxY4lwsh6BDsrFc45x8EtlGEYNK) |
-| 2 | Saleh Dhekre Saber Saleh | Social Media Utilization Model for the Improvement of Academic Performance at Malaysian Higher Education Institutions | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://drive.google.com/drive/folders/1wplcR_e-xQ46Ya2eP7AaIXBX71nCvrF0) |
+| 1 | Li Jing | Enhanced Attack Detection and Classification Techniques Based on Feature Manipulation of IOT Data for IOT Security | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://drive.google.com/drive/u/1/folders/1htEHWofGPdG0_bB_OxUMkcLycj0pf5DZ) |
+| 2 | Saleh Dhekre Saber Saleh | A Predictive Analysis Framework of Thyroid Disease Using Machine Learning Approaches | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://drive.google.com/drive/u/1/folders/128OOMGs6TJEXIsu1Xetfx19ZKxeekUXS) |
