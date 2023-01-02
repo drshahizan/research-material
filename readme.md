@@ -1,4 +1,14 @@
-## 📖 Research Materials
+# List of Journal
+
+## Scopus
+1. [International Journal on Informatics Visualization](https://joiv.org/index.php/joiv/index)
+2. [International Journal of Computing and Digital Systems](https://journal.uob.edu.bh/handle/123456789/31?id=about)
+
+## WOS
+1. [IEEE ACCESS](https://ieeeaccess.ieee.org/)
+
+
+# 📖 Research Materials
 1. [Nasty PhD Viva Questions (Extract)](https://pages.cpsc.ucalgary.ca/~saul/wiki/uploads/Chapter1/NastyPhDQuestions.html)
 
 # The top list of academic research databases
