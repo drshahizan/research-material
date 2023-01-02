@@ -1,3 +1,6 @@
+## 📖 Research Materials
+1. [Nasty PhD Viva Questions (Extract)](https://pages.cpsc.ucalgary.ca/~saul/wiki/uploads/Chapter1/NastyPhDQuestions.html)
+
 # The top list of academic research databases
 Whether you are writing a thesis, dissertation, or research paper it is a key task to survey prior literature and research findings. More likely than not, you will be looking for trusted resources, most likely peer-reviewed research articles. Academic research databases make it easy to locate the literature you are looking for. We have compiled the top list of trusted academic resources to help you get started with your research:
 
