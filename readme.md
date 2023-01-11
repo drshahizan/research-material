@@ -3,6 +3,7 @@
 <a href="https://github.com/drshahizan/research-material/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/research-material" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/drshahizan/research-material/issues"><img src="https://img.shields.io/github/issues/drshahizan/research-material" alt="Issues Badge"/></a>
 <a href="https://github.com/drshahizan/research-material/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/research-material?color=2b9348"></a>
+![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
 
 Don't forget to hit the :star: if you like this repo.
 
