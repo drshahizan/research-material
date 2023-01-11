@@ -3,7 +3,7 @@
 <a href="https://github.com/drshahizan/research-material/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/research-material" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/drshahizan/research-material/issues"><img src="https://img.shields.io/github/issues/drshahizan/research-material" alt="Issues Badge"/></a>
 <a href="https://github.com/drshahizan/research-material/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/research-material?color=2b9348"></a>
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
+![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/research-material)
 
 Don't forget to hit the :star: if you like this repo.
 
@@ -83,3 +83,10 @@ Today, there is a plethora of solutions in the market that were not available de
 | 1 | Li Jing | Enhanced Attack Detection and Classification Techniques Based on Feature Manipulation of IOT Data for IOT Security | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://drive.google.com/drive/u/1/folders/1htEHWofGPdG0_bB_OxUMkcLycj0pf5DZ) |
 | 2 | Saleh Dhekre Saber Saleh | A Predictive Analysis Framework of Thyroid Disease Using Machine Learning Approaches | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://drive.google.com/drive/u/1/folders/128OOMGs6TJEXIsu1Xetfx19ZKxeekUXS) |
 | 3 | Anwar Said Salim Al Talaii | Artificial Intelligence to Enhance Development and Increase Harvest Production for Agriculture in Sultant of Oman using drones | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://) |
+
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+
+![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
