@@ -63,29 +63,28 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Financial Assistance and Scholarship
 ### Scholarship
-- [UTMNexus Scholarship]()
-- [International Doctoral Fellowship]()
-- [UTM National Postgraduate Fund]()
+- [UTMNexus Scholarship](https://sps.utm.my/scholarship/)
+- [International Doctoral Fellowship](https://sps.utm.my/scholarship/)
+- [UTM National Postgraduate Fund](https://sps.utm.my/scholarship/)
 
 ### Financial Aid
-- [Incentive Publication Claim]()
-- [UTM Young Scholars Grant]()
+- [Incentive Publication Claim](https://sps.utm.my/wp-content/uploads/2020/07/PUBLICATION-INCENTIVE-CLAIM-FORM-30.07.2020.pdf)
+- [UTM Young Scholars Grant](https://sps.utm.my/wp-content/uploads/2021/08/UTM-Young-Scholars-Grant-Application-Form-Final.pdf)
 
 ### Tuition Fees
-- [Mode of Payment for Mainstream Programmes]()
-- [Fees Exemption for UTM Staff]()
-- [Fees Reduction for UTM Staff Spouse]()
-- [Fees Reduction for UTM Staff Dependants]()
+- [Fees Exemption for UTM Staff](https://sps.utm.my/wp-content/uploads/2020/10/Borang-PENGECUALIAN-YURAN-PELAJARAN-STAF-UTM.pdf)
+- [Fees Reduction for UTM Staff Spouse](https://sps.utm.my/wp-content/uploads/2020/10/Borang-PENGURANGAN-YURAN-PELAJARAN-PASANGAN-STAF-UTM.pdf)
+- [Fees Reduction for UTM Staff Dependants](https://sps.utm.my/wp-content/uploads/2020/10/Borang-PENGURANGAN-YURAN-PELAJARAN-ANAK-STAF-UTM.pdf)
 
 ### Payment Guidelines
-- [Guideline for Payment using my.utm.my Web Portal]()
-- [Guideline for Payment using UTMSMART Mobile Application]()
+- [Guideline for Payment using my.utm.my Web Portal](https://sps.utm.my/wp-content/uploads/2020/10/BENDAHARI_GUIDELINE-PAYMENT-USING-MY.UTM_.MY_.pdf)
+- [Guideline for Payment using UTMSMART Mobile Application](https://sps.utm.my/wp-content/uploads/2020/10/BENDAHARI_GUIDELINE-PAYMENT-USING-UTMSMART.pdf)
 
 ### Other Financial Assistance
-- [Zakat assistance (tuition fees) for Muslim students]()
-- [Deaths and accidents charity fund for students]()
-- [UTM Hardship Fund]()
-- [Personal Bond Refund]()
+- [Zakat assistance (tuition fees) for Muslim students](https://islamiccentre.utm.my/bantuan-zakat-yuran-pengajian)
+- [Deaths and accidents charity fund for students](https://sps.utm.my/wp-content/uploads/2016/07/Tabung-Khairat.pdf)
+- [UTM Hardship Fund](https://sps.utm.my/wp-content/uploads/2021/04/APPLICATION-FORM-HARDSHIP-FUND.pdf)
+- [Personal Bond Refund](https://sps.utm.my/wp-content/uploads/2020/04/Personal-Bond-Refund-Form.pdf)
 
 
 ## Academic Tips
