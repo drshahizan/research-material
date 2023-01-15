@@ -30,6 +30,14 @@ Don't forget to hit the :star: if you like this repo.
 - [Thesis Submission Form 1](https://sps.utm.my/wp-content/uploads/2020/04/Borang-Penyerahan-Tesis-1-NEW-2018-converted.pdf)
 - [Thesis Submission Form 2](https://sps.utm.my/wp-content/uploads/2020/04/Borang-Penyerahan-Tesis-2-NEW-2018-converted.pdf)
 
+### Youtube Tutorial
+- [How to use the Template in Ms Word](https://youtu.be/V_eY0v6yb64)
+- [How to use Template dotx](https://youtu.be/Vat6q4MS8t8)
+- [How to remove School Name on Title Page](https://youtu.be/2RGTW_NU_-4)
+- [How to Format Chapter](https://youtu.be/XTo9zq5k1uk)
+- [How to Format Paragraph](https://youtu.be/BJlPZV8kk_M)
+- [How to Format Declaration and Title Page](https://youtu.be/c_-_99_ct_A)
+
 ## Academic Tips
 - [What Makes a Good Abstract](https://sps.utm.my/wp-content/uploads/2016/07/What-makes-a-Good-Abstract.pdf)
 - [Surviving VIVA – VOCE](https://sps.utm.my/wp-content/uploads/2020/06/surviving-viva-voce-17-July-2020.pdf)
