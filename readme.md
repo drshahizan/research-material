@@ -38,6 +38,13 @@ Don't forget to hit the :star: if you like this repo.
 - [How to Format Paragraph](https://youtu.be/BJlPZV8kk_M)
 - [How to Format Declaration and Title Page](https://youtu.be/c_-_99_ct_A)
 
+### Thesis Cover
+- [Full Thesis Cover](https://sps.utm.my/wp-content/uploads/2018/09/Full-PhD-in-A3-Printing.psd)
+- [Front Page *.psd format](https://sps.utm.my/wp-content/uploads/2018/09/Front-PhD-in-A4-Printing.psd)
+- [Spine *.psd format](https://sps.utm.my/wp-content/uploads/2018/07/Thesis-Spine-PhD-B5.psd)
+- [Back Cover [English] *.psd format](https://sps.utm.my/wp-content/uploads/2018/09/Back-PhD-in-A4-Printing-EN.psd)
+- [Back Cover [Malay]*.psd format](https://sps.utm.my/wp-content/uploads/2018/09/Back-PhD-in-A4-Printing-BM.psd)
+- 
 ## Academic Tips
 - [What Makes a Good Abstract](https://sps.utm.my/wp-content/uploads/2016/07/What-makes-a-Good-Abstract.pdf)
 - [Surviving VIVA – VOCE](https://sps.utm.my/wp-content/uploads/2020/06/surviving-viva-voce-17-July-2020.pdf)
