@@ -61,6 +61,33 @@ Don't forget to hit the :star: if you like this repo.
 - [Chairpersons guideline for conducting online oral examination](https://sps.utm.my/wp-content/uploads/2020/05/CHAIRMAN-GUIDELINE.pdf)
 - [WEBEX manual for conducting online oral examination](https://sps.utm.my/wp-content/uploads/2020/05/PROSES-KERJA-TEKNIKAL-PENGGUNAAN-WEBEX-BAGI-MENJALANKAN-VIVA-SECARA-DALAM-TALIAN.pdf)
 
+## Financial Assistance and Scholarship
+### Scholarship
+- [UTMNexus Scholarship]()
+- [International Doctoral Fellowship]()
+- [UTM National Postgraduate Fund]()
+
+### Financial Aid
+- [Incentive Publication Claim]()
+- [UTM Young Scholars Grant]()
+
+### Tuition Fees
+- [Mode of Payment for Mainstream Programmes]()
+- [Fees Exemption for UTM Staff]()
+- [Fees Reduction for UTM Staff Spouse]()
+- [Fees Reduction for UTM Staff Dependants]()
+
+### Payment Guidelines
+- [Guideline for Payment using my.utm.my Web Portal]()
+- [Guideline for Payment using UTMSMART Mobile Application]()
+
+### Other Financial Assistance
+- [Zakat assistance (tuition fees) for Muslim students]()
+- [Deaths and accidents charity fund for students]()
+- [UTM Hardship Fund]()
+- [Personal Bond Refund]()
+
+
 ## Academic Tips
 - [What Makes a Good Abstract](https://sps.utm.my/wp-content/uploads/2016/07/What-makes-a-Good-Abstract.pdf)
 - [Surviving VIVA – VOCE](https://sps.utm.my/wp-content/uploads/2020/06/surviving-viva-voce-17-July-2020.pdf)
