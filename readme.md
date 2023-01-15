@@ -44,7 +44,10 @@ Don't forget to hit the :star: if you like this repo.
 - [Spine *.psd format](https://sps.utm.my/wp-content/uploads/2018/07/Thesis-Spine-PhD-B5.psd)
 - [Back Cover [English] *.psd format](https://sps.utm.my/wp-content/uploads/2018/09/Back-PhD-in-A4-Printing-EN.psd)
 - [Back Cover [Malay]*.psd format](https://sps.utm.my/wp-content/uploads/2018/09/Back-PhD-in-A4-Printing-BM.psd)
-- 
+
+## Policy & Guidelines
+-[Amendments To The Publication Terms For Thesis Submission For The Doctor Philosophy Program](https://sps.utm.my/wp-content/uploads/2021/10/19.-220721-Pekeliling-Akademik-bil-4-2021-Pindaan-Syarat-Penerbitan-Menghantar-Tesis-Utk-PhD-Proofread.pdf)
+
 ## Academic Tips
 - [What Makes a Good Abstract](https://sps.utm.my/wp-content/uploads/2016/07/What-makes-a-Good-Abstract.pdf)
 - [Surviving VIVA – VOCE](https://sps.utm.my/wp-content/uploads/2020/06/surviving-viva-voce-17-July-2020.pdf)
