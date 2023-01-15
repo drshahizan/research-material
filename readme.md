@@ -86,13 +86,28 @@ Don't forget to hit the :star: if you like this repo.
 - [UTM Hardship Fund](https://sps.utm.my/wp-content/uploads/2021/04/APPLICATION-FORM-HARDSHIP-FUND.pdf)
 - [Personal Bond Refund](https://sps.utm.my/wp-content/uploads/2020/04/Personal-Bond-Refund-Form.pdf)
 
+### Financial Sponsorship for Malaysian students
+- [Biasiswa Sukan](https://biasiswa.mohe.gov.my/sukan/)
+- [Biasiswa MyBrainSc](https://biasiswa.mohe.gov.my/MyBrainSc/)
+- [Bantuan Kewangan OKU](https://biasiswa.mohe.gov.my/bk_oku/)
+- [Hadiah Latihan Persekutuan (HLP)](https://biasiswa.mohe.gov.my/hlp/semakan.php?program=HLP)
+- [Hadiah Latihan Persekutuan Separa Biasiswa (HLPSB)](https://biasiswa.mohe.gov.my/hlp/semakan.php?program=HLPSB)
+- [Hadiah Latihan Persekutuan Bagi Kakitangan Bukan Akademik (SLPP)](https://biasiswa.mohe.gov.my/hlp/semakan.php?program=SLPP)
+- [Perbadanan Tabung Pendidikan Tinggi Nasional (PTPTN)](https://www.ptptn.gov.my/)
+
+
+### Scholarships for International Students
+- [Islamic Development Bank (IDB)](https://extranet.isdb.org/irj/portal/anonymous?NavigationTarget=navurl://5ffaebd539e6818daffef7bff9d770cb)
+- [Commonwealth Scholarship and Fellowship Plan (CSFP)](http://www.portal.mohe.gov.my/portal/page/portal/ExtPortal/MarketSponsor/Sponsors_Mohe/International1)
+- [Malaysian Technical Cooperation Programme (MTCP)](http://www.portal.mohe.gov.my/portal/page/portal/ExtPortal/MarketSponsor/OtherMisc/Info/International2)
+- [Malaysian International Scholarship (MIS)](http://www.portal.mohe.gov.my/portal/page/portal/ExtPortal/MarketSponsor/OtherMisc/Info/MIS)
+- [Others Scholarship Opportunities](https://www.utm.my/international/scholarship-opportunities)
 
 ## Academic Tips
 - [What Makes a Good Abstract](https://sps.utm.my/wp-content/uploads/2016/07/What-makes-a-Good-Abstract.pdf)
 - [Surviving VIVA – VOCE](https://sps.utm.my/wp-content/uploads/2020/06/surviving-viva-voce-17-July-2020.pdf)
 - [What Examiners Do: What Thesis Student Should Know](https://sps.utm.my/wp-content/uploads/2016/07/what-examiners-do.pdf)
 - [How to Grad On Time](https://sps.utm.my/wp-content/uploads/2016/08/how-to-grad-on-time-1.pdf)
-
 
 # List of Journal
 
