@@ -14,17 +14,19 @@ Don't forget to hit the :star: if you like this repo.
 - [Online system](#online-system)
 - [Thesis Formatting](#thesis-formatting)
    - [Thesis manual and template](#what-do-you-need)
-   - [Introduction to Visual Studio](#introduction-to-visual-studio)
-   - [History: ASP.Net, Web etc](#history)
-   - [Database](#database)
-   - [Themes and Skins](#themes-and-skins)
-   - [Bootstrap & Master Pages](#bootstrap-and-master-pages)
-   - [Navigation Control](#navigation-control)
-   - [AJAX](#ajax)🔥
-   - [Cookie and Session](#cookie-and-session)🔥
-   - [XML](#xml)🔥
-   - [Adv Database](#adv-database)🔥
-- Lab
+   - [Youtube Tutorial](youtube-tutorial)
+   - [Thesis Cover](#thesis-cover)
+## Policy & Guidelines
+   - [Academic Rules And Regulations]()
+   - [Guidelines for Online Oral Examination]()
+## Financial Assistance and Scholarship]()
+   - [Scholarship](#scholarship)
+   - [Financial Aid](#financial-aid)
+   - [Tuition Fees](#tuition -fees)
+   - [Payment Guidelines](#payment-guidelines)
+   - [Other Financial Assistance](#other-financial-assistance)
+   - [Scholarships for International Students](#scholarships-for-international-students)
+   - [Academic Tips](#academic-tips)
 
 
 ## Online system
