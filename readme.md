@@ -26,6 +26,22 @@ Don't forget to hit the :star: if you like this repo.
 # 📖 Research Materials
 1. [Nasty PhD Viva Questions (Extract)](https://pages.cpsc.ucalgary.ca/~saul/wiki/uploads/Chapter1/NastyPhDQuestions.html)
 
+# Dataset
+The dataset is available at:
+  * [Portal Data Terbuka Malaysia](https://www.data.gov.my/data/ms_MY/dataset)
+  * [Department of Statistics Malaysia](https://www.dosm.gov.my/v1/index.php?r=column3/accordion&menu_id=amZNeW9vTXRydTFwTXAxSmdDL1J4dz09)
+  * [data.world](https://data.world/datasets/malaysia)
+  * [Dataportal.asia](https://dataportal.asia/dataset?vocab_economy_names=Malaysia)
+  *[knoema](https://knoema.com/atlas/Malaysia/datasets)
+  *[The World Bank](https://data.worldbank.org/country/MY)
+  * [Dataset Search - Google](https://datasetsearch.research.google.com/)
+  * [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php)
+  * [Kaggle datasets](https://www.kaggle.com/datasets)
+  * [Awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
+  * [Datahub.io](https://datahub.io/collections)
+  * [Earthdata](https://www.earthdata.nasa.gov/)
+  * [CERN Open Data Portal](http://opendata.cern.ch/)
+
 # The top list of academic research databases
 Whether you are writing a thesis, dissertation, or research paper it is a key task to survey prior literature and research findings. More likely than not, you will be looking for trusted resources, most likely peer-reviewed research articles. Academic research databases make it easy to locate the literature you are looking for. We have compiled the top list of trusted academic resources to help you get started with your research:
 
