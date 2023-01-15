@@ -14,7 +14,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Phd students](#phd-students)
 - [Online system](#online-system)
 - [Thesis Formatting](#thesis-formatting)
-   - [Thesis manual and template](#Thesis-manual-and-template)
+   - [Thesis manual and template](#thesis-manual-and-template)
    - [Youtube Tutorial](#youtube-tutorial)
    - [Thesis Cover](#thesis-cover)
 - [Policy and Guidelines](#policy-and-guidelines)
@@ -28,7 +28,8 @@ Don't forget to hit the :star: if you like this repo.
    - [Other Financial Assistance](#other-financial-assistance)
    - [Scholarships for International Students](#scholarships-for-international-students)
    - [Academic Tips](#academic-tips)
-
+   
+# Phd students
 ## 📖 Phd Thesis: Computer Science
 | No | Name | Title |  File |
 | ----- | ----- | ------ | ------ | 
