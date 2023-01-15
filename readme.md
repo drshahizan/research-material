@@ -8,7 +8,7 @@
 Don't forget to hit the :star: if you like this repo.
 
 
-# Universiti Teknologi Malaysia
+# Postgraduate Kit
 
 ## Online system
 - [Graduate Studies Management System (GSMS)](http://spsapp3.utm.my:8080/gsmsv4/index.jsp)
