@@ -13,16 +13,16 @@ Don't forget to hit the :star: if you like this repo.
 ### Contents:
 - [Online system](#online-system)
 - [Thesis Formatting](#thesis-formatting)
-   - [Thesis manual and template](#what-do-you-need)
-   - [Youtube Tutorial](youtube-tutorial)
+   - [Thesis manual and template](#Thesis-manual-and-template)
+   - [Youtube Tutorial](#youtube-tutorial)
    - [Thesis Cover](#thesis-cover)
-## Policy & Guidelines
-   - [Academic Rules And Regulations]()
-   - [Guidelines for Online Oral Examination]()
-## Financial Assistance and Scholarship]()
+## [Policy and Guidelines](#policy-and-guidelines)
+   - [Academic Rules And Regulations](#academic-rules-and-regulations)
+   - [Guidelines for Online Oral Examination](#guidelines-for-online-oral-examination)
+## [Financial Assistance and Scholarship](#financial-assistance-and-scholarship)
    - [Scholarship](#scholarship)
    - [Financial Aid](#financial-aid)
-   - [Tuition Fees](#tuition -fees)
+   - [Tuition Fees](#tuition-fees)
    - [Payment Guidelines](#payment-guidelines)
    - [Other Financial Assistance](#other-financial-assistance)
    - [Scholarships for International Students](#scholarships-for-international-students)
@@ -64,7 +64,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Back Cover [English] *.psd format](https://sps.utm.my/wp-content/uploads/2018/09/Back-PhD-in-A4-Printing-EN.psd)
 - [Back Cover [Malay]*.psd format](https://sps.utm.my/wp-content/uploads/2018/09/Back-PhD-in-A4-Printing-BM.psd)
 
-## Policy & Guidelines
+## Policy and Guidelines
 
 ### Academic Rules And Regulations
 - [Amendments To The Publication Terms For Thesis Submission For The Doctor Philosophy Program](https://sps.utm.my/wp-content/uploads/2021/10/19.-220721-Pekeliling-Akademik-bil-4-2021-Pindaan-Syarat-Penerbitan-Menghantar-Tesis-Utk-PhD-Proofread.pdf)
