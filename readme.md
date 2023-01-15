@@ -7,6 +7,17 @@
 
 Don't forget to hit the :star: if you like this repo.
 
+
+# Universiti Teknologi Malaysia
+
+## Online system
+- [Graduate Studies Management System (GSMS)](http://spsapp3.utm.my:8080/gsmsv4/index.jsp)
+- [Entry Requirements for UTM Postgraduate Programs](https://sps.utm.my/general-entry-requirements/)
+- [UTM Transcript Application System](http://aimsweb.utm.my/transcript)
+- [ACID Account: Password reset](https://utmid.utm.my/gk/password-reset/)
+- [Academic related resources](https://sps.utm.my/academic-related-resources/)
+- [Postgraduate Vacancy](https://sps.utm.my/gra-vacancy/)
+
 # List of Journal
 
 ## Scopus
