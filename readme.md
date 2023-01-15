@@ -19,10 +19,10 @@ Don't forget to hit the :star: if you like this repo.
 - [Postgraduate Vacancy](https://sps.utm.my/gra-vacancy/)
 
 ## Academic Tips
--[What Makes a Good Abstract](https://sps.utm.my/wp-content/uploads/2016/07/What-makes-a-Good-Abstract.pdf)
--[Surviving VIVA – VOCE](https://sps.utm.my/wp-content/uploads/2020/06/surviving-viva-voce-17-July-2020.pdf)
--[What Examiners Do: What Thesis Student Should Know](https://sps.utm.my/wp-content/uploads/2016/07/what-examiners-do.pdf)
--[How to Grad On Time](https://sps.utm.my/wp-content/uploads/2016/08/how-to-grad-on-time-1.pdf)
+- [What Makes a Good Abstract](https://sps.utm.my/wp-content/uploads/2016/07/What-makes-a-Good-Abstract.pdf)
+- [Surviving VIVA – VOCE](https://sps.utm.my/wp-content/uploads/2020/06/surviving-viva-voce-17-July-2020.pdf)
+- [What Examiners Do: What Thesis Student Should Know](https://sps.utm.my/wp-content/uploads/2016/07/what-examiners-do.pdf)
+- [How to Grad On Time](https://sps.utm.my/wp-content/uploads/2016/08/how-to-grad-on-time-1.pdf)
 
 
 # List of Journal
