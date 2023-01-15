@@ -46,7 +46,11 @@ Don't forget to hit the :star: if you like this repo.
 - [Back Cover [Malay]*.psd format](https://sps.utm.my/wp-content/uploads/2018/09/Back-PhD-in-A4-Printing-BM.psd)
 
 ## Policy & Guidelines
--[Amendments To The Publication Terms For Thesis Submission For The Doctor Philosophy Program](https://sps.utm.my/wp-content/uploads/2021/10/19.-220721-Pekeliling-Akademik-bil-4-2021-Pindaan-Syarat-Penerbitan-Menghantar-Tesis-Utk-PhD-Proofread.pdf)
+- [Amendments To The Publication Terms For Thesis Submission For The Doctor Philosophy Program](https://sps.utm.my/wp-content/uploads/2021/10/19.-220721-Pekeliling-Akademik-bil-4-2021-Pindaan-Syarat-Penerbitan-Menghantar-Tesis-Utk-PhD-Proofread.pdf)
+- [Academic Rules of Graduate Studies 2020 (applicable for student for intake in Semester II 2019/2020 until present)](https://sps.utm.my/wp-content/uploads/2020/03/Final08-LAMPIRAN-II-Peraturan-Akademik-Pengajian-Siswazah-BMBIKelulusan-Senat-29Jan2020latest11MAC2020.pdf)
+- [Addendum / Amendment Provisions Graduate Studies Academic Regulations](https://sps.utm.my/wp-content/uploads/2016/07/AddendumAmendmentProvisionsGraduateStudiesAcademicRegulations.pdf)
+- [Examination Regulations](https://sps.utm.my/wp-content/uploads/2016/07/ExaminationRegulation.pdf)
+
 
 ## Academic Tips
 - [What Makes a Good Abstract](https://sps.utm.my/wp-content/uploads/2016/07/What-makes-a-Good-Abstract.pdf)
