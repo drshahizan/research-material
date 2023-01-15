@@ -11,6 +11,7 @@ Don't forget to hit the :star: if you like this repo.
 # Postgraduate Kit
 
 ### Contents:
+- [Phd students](#phd-students)
 - [Online system](#online-system)
 - [Thesis Formatting](#thesis-formatting)
    - [Thesis manual and template](#Thesis-manual-and-template)
@@ -28,6 +29,22 @@ Don't forget to hit the :star: if you like this repo.
    - [Scholarships for International Students](#scholarships-for-international-students)
    - [Academic Tips](#academic-tips)
 
+## 📖 Phd Thesis: Computer Science
+| No | Name | Title |  File |
+| ----- | ----- | ------ | ------ | 
+| 1 | Shamini Raja Kumaran | Enhanced Classification Techniques Based on Gene Manipulation for Cancer Microarray Data | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://drive.google.com/drive/u/1/folders/1KSCWtVWZLUPAeNP7MnLD9zCCC8-OBCe8) |
+| 2 | Dewi Octaviani | Semantic Model for Mining E-Learning Usage with Ontology and Meaningful Learning Characteristics | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://drive.google.com/drive/u/1/folders/12XNQQwF1JDdHW1MThDk29k6a3zY9-BHA) |
+| 3 | Bahram Amini Valashani | An Ontology-Based Recommender System using Scholar’s Background Knowledge | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://drive.google.com/drive/u/1/folders/1jjsasglgeFg_yv6_CVxuAQtgFDFJ0uWF) |
+| 4 | Arda Yunianta | Ontology-Based Semantic Heterogeneous Data Integration Framework for Learning Environment | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://drive.google.com/drive/u/1/folders/119DWjJGSCM73sVaZkvAN9U6EmhgZhcZP) |
+
+## 📖 Phd Thesis: Social Science
+| No | Name | Title |  File |
+| ----- | ----- | ------ | ------ | 
+| 1 | Ernie Mazuin Mohd Yusof | Individual Level Determinants Model for Benefit Use of Business Intelligence in Malaysia Manufacturing Organizations| [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://drive.google.com/drive/u/1/folders/1qqIaFnxY4lwsh6BDsrFc45x8EtlGEYNK) |
+| 2 | Qusay Sabah Ishaq Al-Maatouk | Social Media Utilization Model for the Improvement of Academic Performance at Malaysian Higher Education Institutions | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://drive.google.com/drive/u/1/folders/1SHAcOKLpVSQZKovQ2PAdsDQ0To48E56E) |
+| 3 | Nur Shamsiah Abdul Rahman | A Model of Behaviour Intention Factors on Social Media Use for Collaborative Learning Affecting Teaching and Learning | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://drive.google.com/drive/u/1/folders/160y6aoEfS5oWdrOfNFCti4t9ojT0Mbke) |
+| 4 | Waleed Mugahed Ali Al-Rahmi | The Impact of Social Media Use in Collaborative Learning Towards Learning Performance Among Research Students | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://drive.google.com/drive/u/1/folders/1Hvq5NpT-XriLs3M9hL6_-TBGfWIsqbWg) |
+| 5 | Mahdi Alhaji Musa | Knowledge Map, Enterprise Ontology and Lean for enhancing Business Process Re-Engineering in Healthcare  | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://drive.google.com/drive/u/1/folders/1-vs8WWvx4l9K4QHpYEcO2CDv24RiDZz3) |
 
 ## Online system
 - [Graduate Studies Management System (GSMS)](http://spsapp3.utm.my:8080/gsmsv4/index.jsp)
@@ -196,23 +213,6 @@ Today, there is a plethora of solutions in the market that were not available de
 | 11 | KnightCite | KnightCite is a free online citation generation service run by the Hekman Library at Calvin College. It was created by a student of the school with the aim of building a quick and reliable citation tool for other students (Calvin University, n.d.). | 
 | 12 | Citation Builder | Citation Builder is a free online bibliography maker hosted by the North Carolina State University library. It has a rather simplistic interface with dropdowns for the resource type and citation style. You just have to choose the options from the dropdown and manually fill out the needed information for the resource type. Once you hit Submit, it will generate a citation for you which you can then copy and paste to a document (NC State University, n.d.). | 
 | 13 | OttoBib | OttoBib is a straightforward online citation generator that lets you cite books using their International Standard Book Number (ISBNs). You can cite multiple ISBNs as long as they are separated with commas. OttoBib supports MLA, APA, Chicago/Turabian, BibTeX, and Wikipedia (OttoBib, n.d.). | 
-
-## 📖 Phd Thesis: Computer Science
-| No | Name | Title |  File |
-| ----- | ----- | ------ | ------ | 
-| 1 | Shamini Raja Kumaran | Enhanced Classification Techniques Based on Gene Manipulation for Cancer Microarray Data | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://drive.google.com/drive/u/1/folders/1KSCWtVWZLUPAeNP7MnLD9zCCC8-OBCe8) |
-| 2 | Dewi Octaviani | Semantic Model for Mining E-Learning Usage with Ontology and Meaningful Learning Characteristics | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://drive.google.com/drive/u/1/folders/12XNQQwF1JDdHW1MThDk29k6a3zY9-BHA) |
-| 3 | Bahram Amini Valashani | An Ontology-Based Recommender System using Scholar’s Background Knowledge | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://drive.google.com/drive/u/1/folders/1jjsasglgeFg_yv6_CVxuAQtgFDFJ0uWF) |
-| 4 | Arda Yunianta | Ontology-Based Semantic Heterogeneous Data Integration Framework for Learning Environment | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://drive.google.com/drive/u/1/folders/119DWjJGSCM73sVaZkvAN9U6EmhgZhcZP) |
-
-## 📖 Phd Thesis: Social Science
-| No | Name | Title |  File |
-| ----- | ----- | ------ | ------ | 
-| 1 | Ernie Mazuin Mohd Yusof | Individual Level Determinants Model for Benefit Use of Business Intelligence in Malaysia Manufacturing Organizations| [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://drive.google.com/drive/u/1/folders/1qqIaFnxY4lwsh6BDsrFc45x8EtlGEYNK) |
-| 2 | Qusay Sabah Ishaq Al-Maatouk | Social Media Utilization Model for the Improvement of Academic Performance at Malaysian Higher Education Institutions | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://drive.google.com/drive/u/1/folders/1SHAcOKLpVSQZKovQ2PAdsDQ0To48E56E) |
-| 3 | Nur Shamsiah Abdul Rahman | A Model of Behaviour Intention Factors on Social Media Use for Collaborative Learning Affecting Teaching and Learning | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://drive.google.com/drive/u/1/folders/160y6aoEfS5oWdrOfNFCti4t9ojT0Mbke) |
-| 4 | Waleed Mugahed Ali Al-Rahmi | The Impact of Social Media Use in Collaborative Learning Towards Learning Performance Among Research Students | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://drive.google.com/drive/u/1/folders/1Hvq5NpT-XriLs3M9hL6_-TBGfWIsqbWg) |
-| 5 | Mahdi Alhaji Musa | Knowledge Map, Enterprise Ontology and Lean for enhancing Business Process Re-Engineering in Healthcare  | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://drive.google.com/drive/u/1/folders/1-vs8WWvx4l9K4QHpYEcO2CDv24RiDZz3) |
 
 ## 📖 Phd: Proposal
 | No | Name | Title |  File |
