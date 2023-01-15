@@ -46,11 +46,20 @@ Don't forget to hit the :star: if you like this repo.
 - [Back Cover [Malay]*.psd format](https://sps.utm.my/wp-content/uploads/2018/09/Back-PhD-in-A4-Printing-BM.psd)
 
 ## Policy & Guidelines
+
+### Academic Rules And Regulations
 - [Amendments To The Publication Terms For Thesis Submission For The Doctor Philosophy Program](https://sps.utm.my/wp-content/uploads/2021/10/19.-220721-Pekeliling-Akademik-bil-4-2021-Pindaan-Syarat-Penerbitan-Menghantar-Tesis-Utk-PhD-Proofread.pdf)
 - [Academic Rules of Graduate Studies 2020 (applicable for student for intake in Semester II 2019/2020 until present)](https://sps.utm.my/wp-content/uploads/2020/03/Final08-LAMPIRAN-II-Peraturan-Akademik-Pengajian-Siswazah-BMBIKelulusan-Senat-29Jan2020latest11MAC2020.pdf)
 - [Addendum / Amendment Provisions Graduate Studies Academic Regulations](https://sps.utm.my/wp-content/uploads/2016/07/AddendumAmendmentProvisionsGraduateStudiesAcademicRegulations.pdf)
 - [Examination Regulations](https://sps.utm.my/wp-content/uploads/2016/07/ExaminationRegulation.pdf)
+- [Guidelines of Remote Supervision for Master by Research and Doctoral Programs](https://sps.utm.my/wp-content/uploads/2018/05/PANDUAN-PENYELIAAN-JARAK-JAUH-IJAZAH-SARJANA-PENYELIDIKAN-DAN-PROGRAM-KEDOKTORAN.pdf)
+- [Guidelines of Scholarship & Incentive](https://sps.utm.my/wp-content/uploads/2018/05/GUIDELINES-SCHOLARSHIP-INCENTIVE.pdf)
 
+### Guidelines for Online Oral Examination
+- [Procedure for conducting online oral examination for PhD and Master by Research](https://sps.utm.my/wp-content/uploads/2022/12/Guidelines-for-Conducting-Online-Viva-Examination_1.12.2022.pdf)
+- [Online oral examination checklist](https://sps.utm.my/wp-content/uploads/2020/05/online-viva-checklist.pdf)
+- [Chairpersons guideline for conducting online oral examination](https://sps.utm.my/wp-content/uploads/2020/05/CHAIRMAN-GUIDELINE.pdf)
+- [WEBEX manual for conducting online oral examination](https://sps.utm.my/wp-content/uploads/2020/05/PROSES-KERJA-TEKNIKAL-PENGGUNAAN-WEBEX-BAGI-MENJALANKAN-VIVA-SECARA-DALAM-TALIAN.pdf)
 
 ## Academic Tips
 - [What Makes a Good Abstract](https://sps.utm.my/wp-content/uploads/2016/07/What-makes-a-Good-Abstract.pdf)
