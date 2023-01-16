@@ -50,3 +50,4 @@ Today, there is a plethora of solutions in the market that were not available de
 # 📖 Research Materials
 1. [Nasty PhD Viva Questions (Extract)](https://pages.cpsc.ucalgary.ca/~saul/wiki/uploads/Chapter1/NastyPhDQuestions.html)
 2. [PhD Journey](https://people.utm.my/ismail/2018/12/09/phd-journey/)
+3. [Writing a PhD Thesis](https://docs.google.com/presentation/d/1rf0d-NU0XjVkOuJFQlyQf85tBdTpJSTz/edit?usp=share_link&ouid=116754994049085925053&rtpof=true&sd=true)
