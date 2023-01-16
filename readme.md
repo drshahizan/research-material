@@ -30,10 +30,9 @@ Don't forget to hit the :star: if you like this repo.
       - [Other Financial Assistance](#other-financial-assistance)
       - [Scholarships for International Students](#scholarships-for-international-students)
       - [Academic Tips](#academic-tips)
-   - [Dataset](#)
-   - [Journal](#)
-   - [Others](#)
-   
+- [Dataset](#)
+- [Journal](#)
+- [Others](#)
    
 # Phd students
 ## 📖 Phd Thesis: Computer Science
