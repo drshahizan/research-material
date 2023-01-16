@@ -11,6 +11,8 @@ Don't forget to hit the :star: if you like this repo.
 
 ### Contents:
 - [Phd students](#phd-students)
+   - [Phd Thesis: Computer Science](#)
+   - [Phd Thesis: Social Science](#)
 - [Online system](#online-system)
 - [Thesis Formatting](#thesis-formatting)
    - [Thesis manual and template](#thesis-manual-and-template)
