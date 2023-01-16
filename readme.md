@@ -14,23 +14,23 @@ Don't forget to hit the :star: if you like this repo.
    - [Computer Science](#computer-science)
    - [Social Science](#social-science)
 - [Phd Material](https://github.com/drshahizan/research-material/tree/main/material)
-- [Postgraduate Kit]()
-   - [Online system](#online-system)
-   - [Thesis Formatting](#thesis-formatting)
-      - [Thesis manual and template](#thesis-manual-and-template)
-      - [Youtube Tutorial](#youtube-tutorial)
-      - [Thesis Cover](#thesis-cover)
-   - [Policy and Guidelines](#policy-and-guidelines)
-      - [Academic Rules And Regulations](#academic-rules-and-regulations)
-      - [Guidelines for Online Oral Examination](#guidelines-for-online-oral-examination)
-   - [Financial Assistance and Scholarship](#financial-assistance-and-scholarship)
-      - [Scholarship](#scholarship)
-      - [Financial Aid](#financial-aid)
-      - [Tuition Fees](#tuition-fees)
-      - [Payment Guidelines](#payment-guidelines)
-      - [Other Financial Assistance](#other-financial-assistance)
-      - [Scholarships for International Students](#scholarships-for-international-students)
-      - [Academic Tips](#academic-tips)
+- [Postgraduate Kit](https://github.com/drshahizan/research-material/blob/main/material/utm-kit.md)
+   - Online system
+   - Thesis Formatting
+      - Thesis manual and template
+      - Youtube Tutorial
+      - Thesis Cover
+   - Policy and Guidelines
+      - Academic Rules And Regulations
+      - Guidelines for Online Oral Examination
+   - Financial Assistance and Scholarship
+      - Scholarship
+      - Financial Aid
+      - Tuition Fees
+      - Payment Guidelines
+      - Other Financial Assistance
+      - Scholarships for International Students
+      - Academic Tips
 - [Dataset](#)
 - [Journal](#)
 - [Others](#)
