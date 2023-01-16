@@ -13,6 +13,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Phd students](#phd-students)
    - [Phd Thesis: Computer Science](#)
    - [Phd Thesis: Social Science](#)
+- [Phd Material]()
 - [Postgraduate Kit]()
    - [Online system](#online-system)
    - [Thesis Formatting](#thesis-formatting)
