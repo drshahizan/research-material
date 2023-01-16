@@ -1,4 +1,4 @@
-# 📖 Research Materials
+# 📖 Phd Materials
 1. [How to write a good PhD thesis and survive the viva](https://drive.google.com/file/d/1sLCf9nhiV1sEtyeP2lZHqtPk3hvPvZvn/view?usp=share_link)
 2. [Nasty PhD Viva Questions (Extract)](https://pages.cpsc.ucalgary.ca/~saul/wiki/uploads/Chapter1/NastyPhDQuestions.html)
 3. [PhD Journey](https://people.utm.my/ismail/2018/12/09/phd-journey/)
