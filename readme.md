@@ -11,8 +11,8 @@ Don't forget to hit the :star: if you like this repo.
 
 ### Contents:
 - [Phd students](#phd-students)
-   - [Phd Thesis: Computer Science](#phd-thesis:-computer-science)
-   - [Phd Thesis: Social Science](#phd-thesis:-social-science)
+   - [Computer Science](#computer-science)
+   - [Social Science](#social-science)
 - [Phd Material](https://github.com/drshahizan/research-material/tree/main/material)
 - [Postgraduate Kit]()
    - [Online system](#online-system)
