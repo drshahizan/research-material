@@ -31,3 +31,19 @@ Today, there is a plethora of solutions in the market that were not available de
 | 11 | KnightCite | KnightCite is a free online citation generation service run by the Hekman Library at Calvin College. It was created by a student of the school with the aim of building a quick and reliable citation tool for other students (Calvin University, n.d.). | 
 | 12 | Citation Builder | Citation Builder is a free online bibliography maker hosted by the North Carolina State University library. It has a rather simplistic interface with dropdowns for the resource type and citation style. You just have to choose the options from the dropdown and manually fill out the needed information for the resource type. Once you hit Submit, it will generate a citation for you which you can then copy and paste to a document (NC State University, n.d.). | 
 | 13 | OttoBib | OttoBib is a straightforward online citation generator that lets you cite books using their International Standard Book Number (ISBNs). You can cite multiple ISBNs as long as they are separated with commas. OttoBib supports MLA, APA, Chicago/Turabian, BibTeX, and Wikipedia (OttoBib, n.d.). | 
+
+# List of Journal
+
+## Scopus
+1. [International Journal on Informatics Visualization](https://joiv.org/index.php/joiv/index)
+2. [International Journal of Computing and Digital Systems](https://journal.uob.edu.bh/handle/123456789/31?id=about)
+3. [International Journal of Sensor Networks](https://www.inderscience.com/jhome.php?jcode=ijsnet)
+4. [International Journal of Information and Computer Security](https://www.inderscience.com/jhome.php?jcode=ijics)
+5. [International Journal of Electronic Security and Digital Forensics](https://www.inderscience.com/jhome.php?jcode=ijesdf)
+6. [International Journal of Communication Networks and Distributed Systems](https://www.inderscience.com/jhome.php?jcode=ijcnds)
+7. [International Journal of Security and Networks](https://www.inderscience.com/jhome.php?jcode=ijsn)
+8. [International Journal of Mobile Network Design and Innovation](https://www.inderscience.com/jhome.php?jcode=ijmndi)
+
+## WOS
+1. [IEEE ACCESS](https://ieeeaccess.ieee.org/)
+
