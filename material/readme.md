@@ -6,7 +6,7 @@
 5. [Writing your paper:Everything you need to know to prepare and write an effective research paper](https://drive.google.com/file/d/1KNYrn0UI7dOC85YgV4r3StUHGA_sbNcR/view?usp=share_link)
 6. [Article submission and peer review: Your complete guide to submitting your research
 paper and navigating the peer review process](https://drive.google.com/file/d/15UTznt3gsBlFW768Zh4t6a6gsKK5fPrO/view?usp=share_link)
-7. [Research impact: A guide to creating, capturing, and evaluating the impact of your research] (https://drive.google.com/file/d/1iuUjimPzo8KePTl6wJDoB2crBYFYfmGe/view?usp=share_link)
+7. [Research impact: A guide to creating, capturing, and evaluating the impact of your research](https://drive.google.com/file/d/1iuUjimPzo8KePTl6wJDoB2crBYFYfmGe/view?usp=share_link)
 8. [Choosing the right journal for your research: A comprehensive guide for researchers](https://drive.google.com/file/d/1agG6Yw3fPbaw1nstjOBvtv2o6dTWqYJo/view?usp=share_link)
 
 # The top list of academic research databases
