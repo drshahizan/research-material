@@ -36,7 +36,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Others](#)
    
 # Phd students
-## 📖 Computer Science
+## Computer Science
 | No | Name | Title |  File |
 | ----- | ----- | ------ | ------ | 
 | 1 | Shamini Raja Kumaran | Enhanced Classification Techniques Based on Gene Manipulation for Cancer Microarray Data | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://drive.google.com/drive/u/1/folders/1KSCWtVWZLUPAeNP7MnLD9zCCC8-OBCe8) |
@@ -44,7 +44,7 @@ Don't forget to hit the :star: if you like this repo.
 | 3 | Bahram Amini Valashani | An Ontology-Based Recommender System using Scholar’s Background Knowledge | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://drive.google.com/drive/u/1/folders/1jjsasglgeFg_yv6_CVxuAQtgFDFJ0uWF) |
 | 4 | Arda Yunianta | Ontology-Based Semantic Heterogeneous Data Integration Framework for Learning Environment | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://drive.google.com/drive/u/1/folders/119DWjJGSCM73sVaZkvAN9U6EmhgZhcZP) |
 
-## 📖 Social Science
+## Social Science
 | No | Name | Title |  File |
 | ----- | ----- | ------ | ------ | 
 | 1 | Ernie Mazuin Mohd Yusof | Individual Level Determinants Model for Benefit Use of Business Intelligence in Malaysia Manufacturing Organizations| [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://drive.google.com/drive/u/1/folders/1qqIaFnxY4lwsh6BDsrFc45x8EtlGEYNK) |
