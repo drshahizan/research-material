@@ -51,7 +51,7 @@ Don't forget to hit the :star: if you like this repo.
 | ----- | ----- | ------ | ------ | 
 | 1 | Li Jing | Enhanced Attack Detection and Classification Techniques Based on Feature Manipulation of IOT Data for IOT Security | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://drive.google.com/drive/u/1/folders/1htEHWofGPdG0_bB_OxUMkcLycj0pf5DZ) |
 | 2 | Saleh Dhekre Saber Saleh | A Predictive Analysis Framework of Thyroid Disease Using Machine Learning Approaches | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://drive.google.com/drive/u/1/folders/128OOMGs6TJEXIsu1Xetfx19ZKxeekUXS) |
-| 3 | Anwar Said Salim Al Talaii | Artificial Intelligence to Enhance Development and Increase Harvest Production for Agriculture in Sultant of Oman using drones | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://) |
+| 3 | Anwar Said Salim Al Talaii | Artificial Intelligence to Enhance Development and Increase Harvest Production for Agriculture in Sultant of Oman using drones |   |
 
 ## Online system
 - [Graduate Studies Management System (GSMS)](http://spsapp3.utm.my:8080/gsmsv4/index.jsp)
