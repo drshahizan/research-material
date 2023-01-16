@@ -32,8 +32,8 @@ Don't forget to hit the :star: if you like this repo.
       - Scholarships for International Students
       - Academic Tips
 - [Dataset](https://github.com/drshahizan/research-material/blob/main/material/dataset.md)
-- [Journal](#)
-- [Others](#)
+- [Journal](https://github.com/drshahizan/research-material/blob/main/material/readme.md)
+
    
 # Phd students
 ## Computer Science
