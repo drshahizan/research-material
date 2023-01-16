@@ -159,29 +159,8 @@ Don't forget to hit the :star: if you like this repo.
 - [What Examiners Do: What Thesis Student Should Know](https://sps.utm.my/wp-content/uploads/2016/07/what-examiners-do.pdf)
 - [How to Grad On Time](https://sps.utm.my/wp-content/uploads/2016/08/how-to-grad-on-time-1.pdf)
 
-
-
-# 📖 Research Materials
-1. [Nasty PhD Viva Questions (Extract)](https://pages.cpsc.ucalgary.ca/~saul/wiki/uploads/Chapter1/NastyPhDQuestions.html)
-
-# Dataset
-The dataset is available at:
-  * [Portal Data Terbuka Malaysia](https://www.data.gov.my/data/ms_MY/dataset)
-  * [Department of Statistics Malaysia](https://www.dosm.gov.my/v1/index.php?r=column3/accordion&menu_id=amZNeW9vTXRydTFwTXAxSmdDL1J4dz09)
-  * [data.world](https://data.world/datasets/malaysia)
-  * [Dataportal.asia](https://dataportal.asia/dataset?vocab_economy_names=Malaysia)
-  *[knoema](https://knoema.com/atlas/Malaysia/datasets)
-  *[The World Bank](https://data.worldbank.org/country/MY)
-  * [Dataset Search - Google](https://datasetsearch.research.google.com/)
-  * [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php)
-  * [Kaggle datasets](https://www.kaggle.com/datasets)
-  * [Awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
-  * [Datahub.io](https://datahub.io/collections)
-  * [Earthdata](https://www.earthdata.nasa.gov/)
-  * [CERN Open Data Portal](http://opendata.cern.ch/)
-
 ## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/Python_EDA/issues) for any improvements, suggestions or errors in the content.
+Please create an [Issue](https://github.com/drshahizan/research-material/issues) for any improvements, suggestions or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
