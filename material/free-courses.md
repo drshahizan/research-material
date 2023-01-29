@@ -11,19 +11,18 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Top Companies and Universities That Provide Free Courses💥
 
-1. [Harvard University](https://pll.harvard.edu/)
+1. [Harvard University: Professional and Lifelong Learning](https://pll.harvard.edu/)
 
-2. [Amazon](aws.amazon.com)
+2. [Amazon: Start Building on AWS Today](https://aws.amazon.com/)
 
-3. [Google](skillshop.withgoogle.com)
+3. [Google: Master the Google tools you use at work with online training](https://skillshop.withgoogle.com/)
 
-4. [Simplilearn](simplilearn.com)
+4. [Simplilearn](https://www.simplilearn.com/)
 
-5. [Cisco](https://lnkd.in/dhzVTPAn)
+5. [Cisco Networking Academy](https://www.cisco.com/c/m/en_sg/partners/cisco-networking-academy/index.html)
 
-6.[Udemy](bit.ly/udemyfree)
+6. [Udemy](https://www.udemy.com/courses/search/?q=free%20courses)
 
-7. [IBM](ibm.com/skill/)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-material/issues) for any improvements, suggestions or errors in the content.
