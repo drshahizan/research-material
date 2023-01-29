@@ -9,7 +9,7 @@ Don't forget to hit the :star: if you like this repo.
 
 # Free Courses
 
-## Top Companies and Universities That Provide Free Courses💥
+## Top Companies and Universities💥
 
 1. [Harvard University: Professional and Lifelong Learning](https://pll.harvard.edu/)
 
@@ -23,7 +23,7 @@ Don't forget to hit the :star: if you like this repo.
 
 6. [Udemy](https://www.udemy.com/courses/search/?q=free%20courses)
 
-## Coursera.
+## Coursera
 
 ### Harvard
 1. [Statistics and R](https://lnkd.in/ggwKPfH3)
