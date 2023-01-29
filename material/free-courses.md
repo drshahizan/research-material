@@ -20,21 +20,35 @@ Don't forget to hit the :star: if you like this repo.
 9. [CS50's Computer Science for Business Professionals](https://t.co/w3IxVWTNnq)
 10. [Introduction to Data Science with Python](https://t.co/jjrip2gHGj)
 
-## Google Course for 2023!
+## Google Course
 
-1. (Google Analytics for Power Users](https://lnkd.in/da42MiC5)
-2. (Fundamentals of digital marketing](https://lnkd.in/dE7FFs6m)
-3. (Python Basics for Data Analysis](https://lnkd.in/dRunXPtA)
-4. (Data Science Foundations](https://lnkd.in/d5Dz7q8Y)
-5. (Google Analytics for Beginners](https://lnkd.in/deSN6Bsb)
-6. (Advanced Google Analytics](https://lnkd.in/dA7dhdwi)
-7. (Get started with Google Maps Platform](https://lnkd.in/dX2aRzs9)
-8. (Google Cloud Computing Foundations](https://lnkd.in/dYW5FF_B)
-9. (Data, ML, and AI in Google Cloud](https://lnkd.in/dYJzj9R2)
-10. (Google Cloud Computing Foundations: Networking and Security in Google Cloud](https://lnkd.in/dYuHD_3S)
-11. (Machine Learning Crash Course](https://lnkd.in/dmZinF4p)
-12. (Basics of Machine Learning](https://lnkd.in/dNTMQPM9)
-13. (Data Science with Python](https://lnkd.in/dkr4KGHD)
+1. [Google Analytics for Power Users](https://lnkd.in/da42MiC5)
+2. [Fundamentals of digital marketing](https://lnkd.in/dE7FFs6m)
+3. [Python Basics for Data Analysis](https://lnkd.in/dRunXPtA)
+4. [Data Science Foundations](https://lnkd.in/d5Dz7q8Y)
+5. [Google Analytics for Beginners](https://lnkd.in/deSN6Bsb)
+6. [Advanced Google Analytics](https://lnkd.in/dA7dhdwi)
+7. [Get started with Google Maps Platform](https://lnkd.in/dX2aRzs9)
+8. [Google Cloud Computing Foundations](https://lnkd.in/dYW5FF_B)
+9. [Data, ML, and AI in Google Cloud](https://lnkd.in/dYJzj9R2)
+10. [Google Cloud Computing Foundations: Networking and Security in Google Cloud](https://lnkd.in/dYuHD_3S)
+11. [Machine Learning Crash Course](https://lnkd.in/dmZinF4p)
+12. [Basics of Machine Learning](https://lnkd.in/dNTMQPM9)
+13. [Data Science with Python](https://lnkd.in/dkr4KGHD)
+
+## Best Websites to learn Python
+
+1. [W3Schools.com](https://lnkd.in/dxDE3jWb)
+2. [freeCodeCamp](https://lnkd.in/dcH_w-hy)
+3. [Kaggle](https://lnkd.in/d2Rh4HPA)
+4. [GeeksforGeeks](https://lnkd.in/dcuV2MzN)
+5. [Google](https://lnkd.in/d9yFJYXP)
+6. [Sololearn]( https://lnkd.in/dZrUNB4s)
+7. [Programiz](https://lnkd.in/d_wmDppZ)
+8. [Thinkful](https://lnkd.in/dp3dJC3C)
+9. [Simpliv LLC]( https://lnkd.in/dR_M9smM)
+10. [Codecademy](https://lnkd.in/d7HvnxqK)
+11. [LearnX](https://lnkd.in/djAvCF4Y)
 
 ## Top Companies and Universities💥
 
