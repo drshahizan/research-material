@@ -23,6 +23,19 @@ Don't forget to hit the :star: if you like this repo.
 
 6. [Udemy](https://www.udemy.com/courses/search/?q=free%20courses)
 
+## Coursera.
+
+### Harvard
+1. [Statistics and R](https://lnkd.in/ggwKPfH3)
+2. [Probability](https://lnkd.in/gRA-sCrU)
+3. [Linear Regression](https://lnkd.in/gCqYdf_W)
+4. [Inference and Modelling](https://lnkd.in/gSnuYTMW)
+
+### RICE
+[Introduction to Data Analysis with Excel](https://lnkd.in/gBVHWzvR)
+ 
+### Johns Hopkins
+[Advanced Statistics for Data Science Specialization](https://lnkd.in/g_n-3Wn5)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-material/issues) for any improvements, suggestions or errors in the content.
