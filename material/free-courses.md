@@ -9,6 +9,17 @@ Don't forget to hit the :star: if you like this repo.
 
 # Free Courses
 
+1. [Introduction to Computer Science](https://t.co/mIKQfC0QlT)
+2. [Introduction to Programming with Scratch](https://t.co/vRxv647Hqg)
+3. [Web Programming with Python and JavaScript](https://t.co/HzBmdTEdkT)
+4. [Introduction to Programming with Python](https://t.co/hRyuMNzlhM)
+5. [Understanding Technology](https://t.co/FDKXqMe4Pj)
+6. [Introduction to Artificial Intelligence with Python](https://t.co/VoINVOJQtb)
+7. [Introduction to Game Development](https://t.co/wXKNw24tz8)
+8. [Mobile App Development with React Native](https://t.co/e7L22cjRYn)
+9. [CS50's Computer Science for Business Professionals](https://t.co/w3IxVWTNnq)
+10. [Introduction to Data Science with Python](https://t.co/jjrip2gHGj)
+
 ## Top Companies and Universities💥
 
 1. [Harvard University: Professional and Lifelong Learning](https://pll.harvard.edu/)
