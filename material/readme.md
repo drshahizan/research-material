@@ -18,12 +18,13 @@ Don't forget to hit the :star: if you like this repo.
 paper and navigating the peer review process](https://drive.google.com/file/d/15UTznt3gsBlFW768Zh4t6a6gsKK5fPrO/view?usp=share_link)
 8. [Research impact: A guide to creating, capturing, and evaluating the impact of your research](https://drive.google.com/file/d/1iuUjimPzo8KePTl6wJDoB2crBYFYfmGe/view?usp=share_link)
 9. [Choosing the right journal for your research: A comprehensive guide for researchers](https://drive.google.com/file/d/1agG6Yw3fPbaw1nstjOBvtv2o6dTWqYJo/view?usp=share_link)
-10. 
+
 
 # Awesome thesis
 - [awesome-PhD](https://github.com/helenahartmann/awesome-PhD)
 - [Awesome Thesis](https://github.com/ocean1/awesome-thesis)
 - [Modelling Search and Stopping in IIR](https://github.com/maxwelld90/phd)
+- [Awesome CS-Ja PhD Life](https://github.com/Kei18/awesome_cs-ja_phd_life)
 - [Collection of advice for prospective and current PhD students](https://github.com/pliang279/awesome-phd-advice)
 
 
