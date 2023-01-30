@@ -21,7 +21,8 @@ paper and navigating the peer review process](https://drive.google.com/file/d/15
 
 
 # Awesome thesis
-- [awesome-PhD](https://github.com/helenahartmann/awesome-PhD)
+- [PhD Tools](https://github.com/alexcu/phd-tools)
+- [helenahartmann: awesome-PhD](https://github.com/helenahartmann/awesome-PhD)
 - [Awesome Thesis](https://github.com/ocean1/awesome-thesis)
 - [Modelling Search and Stopping in IIR](https://github.com/maxwelld90/phd)
 - [Awesome CS-Ja PhD Life](https://github.com/Kei18/awesome_cs-ja_phd_life)
