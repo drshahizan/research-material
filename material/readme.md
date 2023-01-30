@@ -18,6 +18,7 @@ Don't forget to hit the :star: if you like this repo.
 paper and navigating the peer review process](https://drive.google.com/file/d/15UTznt3gsBlFW768Zh4t6a6gsKK5fPrO/view?usp=share_link)
 8. [Research impact: A guide to creating, capturing, and evaluating the impact of your research](https://drive.google.com/file/d/1iuUjimPzo8KePTl6wJDoB2crBYFYfmGe/view?usp=share_link)
 9. [Choosing the right journal for your research: A comprehensive guide for researchers](https://drive.google.com/file/d/1agG6Yw3fPbaw1nstjOBvtv2o6dTWqYJo/view?usp=share_link)
+10. [Awesome Thesis](https://github.com/ocean1/awesome-thesis)
 
 
 # The top list of academic research databases
