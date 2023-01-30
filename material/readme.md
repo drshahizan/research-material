@@ -8,15 +8,17 @@
 Don't forget to hit the :star: if you like this repo.
 
 # 📖 Phd Materials
-1. [How to write a good PhD thesis and survive the viva](https://drive.google.com/file/d/1sLCf9nhiV1sEtyeP2lZHqtPk3hvPvZvn/view?usp=share_link)
-2. [Nasty PhD Viva Questions (Extract)](https://pages.cpsc.ucalgary.ca/~saul/wiki/uploads/Chapter1/NastyPhDQuestions.html)
-3. [PhD Journey](https://people.utm.my/ismail/2018/12/09/phd-journey/)
-4. [Writing a PhD Thesis](https://docs.google.com/presentation/d/1rf0d-NU0XjVkOuJFQlyQf85tBdTpJSTz/edit?usp=share_link&ouid=116754994049085925053&rtpof=true&sd=true)
-5. [Writing your paper: Everything you need to know to prepare and write an effective research paper](https://drive.google.com/file/d/1KNYrn0UI7dOC85YgV4r3StUHGA_sbNcR/view?usp=share_link)
-6. [Article submission and peer review: Your complete guide to submitting your research
+1. [Collection of advice for prospective and current PhD students](https://github.com/pliang279/awesome-phd-advice)
+2. [How to write a good PhD thesis and survive the viva](https://drive.google.com/file/d/1sLCf9nhiV1sEtyeP2lZHqtPk3hvPvZvn/view?usp=share_link)
+3. [Nasty PhD Viva Questions (Extract)](https://pages.cpsc.ucalgary.ca/~saul/wiki/uploads/Chapter1/NastyPhDQuestions.html)
+4. [PhD Journey](https://people.utm.my/ismail/2018/12/09/phd-journey/)
+5. [Writing a PhD Thesis](https://docs.google.com/presentation/d/1rf0d-NU0XjVkOuJFQlyQf85tBdTpJSTz/edit?usp=share_link&ouid=116754994049085925053&rtpof=true&sd=true)
+6. [Writing your paper: Everything you need to know to prepare and write an effective research paper](https://drive.google.com/file/d/1KNYrn0UI7dOC85YgV4r3StUHGA_sbNcR/view?usp=share_link)
+7. [Article submission and peer review: Your complete guide to submitting your research
 paper and navigating the peer review process](https://drive.google.com/file/d/15UTznt3gsBlFW768Zh4t6a6gsKK5fPrO/view?usp=share_link)
-7. [Research impact: A guide to creating, capturing, and evaluating the impact of your research](https://drive.google.com/file/d/1iuUjimPzo8KePTl6wJDoB2crBYFYfmGe/view?usp=share_link)
-8. [Choosing the right journal for your research: A comprehensive guide for researchers](https://drive.google.com/file/d/1agG6Yw3fPbaw1nstjOBvtv2o6dTWqYJo/view?usp=share_link)
+8. [Research impact: A guide to creating, capturing, and evaluating the impact of your research](https://drive.google.com/file/d/1iuUjimPzo8KePTl6wJDoB2crBYFYfmGe/view?usp=share_link)
+9. [Choosing the right journal for your research: A comprehensive guide for researchers](https://drive.google.com/file/d/1agG6Yw3fPbaw1nstjOBvtv2o6dTWqYJo/view?usp=share_link)
+
 
 # The top list of academic research databases
 Whether you are writing a thesis, dissertation, or research paper it is a key task to survey prior literature and research findings. More likely than not, you will be looking for trusted resources, most likely peer-reviewed research articles. Academic research databases make it easy to locate the literature you are looking for. We have compiled the top list of trusted academic resources to help you get started with your research:
