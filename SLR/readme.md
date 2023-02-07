@@ -7,7 +7,19 @@
 
 Don't forget to hit the :star: if you like this repo.
 
+# SLR: Limitations for thyroid disease in high dimensional dataset
 
+## Identification
+
+### Web of Science
+
+### Scopus
+
+## Screening
+
+## Eligibility
+
+## Included
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-material/issues) for any improvements, suggestions or errors in the content.
