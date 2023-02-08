@@ -25,6 +25,10 @@ Other types of what are known as "evidence syntheses," such as scoping, rapid, a
 
 
 # SLR: Limitations for thyroid disease in high dimensional dataset
+- [X. Chai, "Diagnosis Method of Thyroid Disease Combining Knowledge Graph and Deep Learning," in IEEE Access, vol. 8, pp. 149787-149795, 2020, doi: 10.1109/ACCESS.2020.3016676.](https://ieeexplore.ieee.org/document/9167227)
+- [X. Zhao et al., "Automatic Thyroid Ultrasound Image Classification Using Feature Fusion Network," in IEEE Access, vol. 10, pp. 27917-27924, 2022, doi: 10.1109/ACCESS.2022.3156096.](https://ieeexplore.ieee.org/document/9725813)
+
+
 
 ## Identification
 
