@@ -9,13 +9,11 @@ Don't forget to hit the :star: if you like this repo.
 
 # SLR: Limitations for thyroid disease in high dimensional dataset
 
-A **systematic review** is a scholarly synthesis of the evidence on a clearly presented topic using critical methods to identify, define and assess research on the topic.[1] A systematic review extracts and interprets data from published studies on the topic, then analyzes, describes, and summarizes interpretations into a refined conclusion.[1][2] For example, a systematic review of randomized controlled trials is a way of summarizing and implementing evidence-based medicine.[3]
+Regular literature reviews are simply summaries of the literature on a particular topic. A **systematic review**, however, is a comprehensive literature review conducted to answer a specific research question. Authors of a systematic review aim to find, code, appraise, and synthesize all of the previous research on their question in an unbiased and well-documented manner. The [Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA)](https://www.prisma-statement.org/) outline the minimum amount of information that needs to be reported at the conclusion of a systematic review project. 
 
-<sup>1</sup>"What is a systematic review?". Temple University Libraries. 6 June 2022. Retrieved 15 June 2022.
+Other types of what are known as "evidence syntheses," such as scoping, rapid, and integrative reviews, have varying methodologies. While systematic reviews originated with and continue to be a popular publication type in medicine and other health sciences fields, more and more researchers in other disciplines are choosing to conduct evidence syntheses. 
 
-<sup>2</sup>Armstrong R, Hall BJ, Doyle J, Waters E (March 2011). "Cochrane Update. 'Scoping the scope' of a cochrane review". Journal of Public Health. 33 (1): 147–150. doi:10.1093/pubmed/fdr015. PMID 21345890.
 
-<sup>3</sup>"What is EBM?". Centre for Evidence Based Medicine. 20 November 2009. Archived from the original on 6 April 2011. Retrieved 17 June 2011.
 
 ## Identification
 
