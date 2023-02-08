@@ -11,9 +11,12 @@ Don't forget to hit the :star: if you like this repo.
 
 A **systematic review** is a scholarly synthesis of the evidence on a clearly presented topic using critical methods to identify, define and assess research on the topic.[1] A systematic review extracts and interprets data from published studies on the topic, then analyzes, describes, and summarizes interpretations into a refined conclusion.[1][2] For example, a systematic review of randomized controlled trials is a way of summarizing and implementing evidence-based medicine.[3]
 
- 1"What is a systematic review?". Temple University Libraries. 6 June 2022. Retrieved 15 June 2022.
- 2Armstrong R, Hall BJ, Doyle J, Waters E (March 2011). "Cochrane Update. 'Scoping the scope' of a cochrane review". Journal of Public Health. 33 (1): 147–150. doi:10.1093/pubmed/fdr015. PMID 21345890.
-3"What is EBM?". Centre for Evidence Based Medicine. 20 November 2009. Archived from the original on 6 April 2011. Retrieved 17 June 2011.
+<sup>1</sup>"What is a systematic review?". Temple University Libraries. 6 June 2022. Retrieved 15 June 2022.
+
+<sup>2</sup>Armstrong R, Hall BJ, Doyle J, Waters E (March 2011). "Cochrane Update. 'Scoping the scope' of a cochrane review". Journal of Public Health. 33 (1): 147–150. doi:10.1093/pubmed/fdr015. PMID 21345890.
+
+<sup>3</sup>"What is EBM?". Centre for Evidence Based Medicine. 20 November 2009. Archived from the original on 6 April 2011. Retrieved 17 June 2011.
+
 ## Identification
 
 ### Web of Science
