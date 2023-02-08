@@ -13,6 +13,8 @@ Regular literature reviews are simply summaries of the literature on a particula
 
 Other types of what are known as "evidence syntheses," such as scoping, rapid, and integrative reviews, have varying methodologies. While systematic reviews originated with and continue to be a popular publication type in medicine and other health sciences fields, more and more researchers in other disciplines are choosing to conduct evidence syntheses. 
 
+[Computer Science: Systematic Reviews](https://guides.library.unr.edu/c.php?g=51145&p=7853775#:~:text=A%20systematic%20review%2C%20however%2C%20is,unbiased%20and%20well%2Ddocumented%20manner.)
+
 ## PRISMA Key Documents
 - [PRISMA 2020 Checklist](https://www.prisma-statement.org/documents/PRISMA_2020_checklist.docx)
 - [PRISMA 2020 flow diagram](http://www.prisma-statement.org/PRISMAStatement/FlowDiagram)
