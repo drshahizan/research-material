@@ -7,13 +7,19 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# SLR: Limitations for thyroid disease in high dimensional dataset
 
+# Systematic Review
 Regular literature reviews are simply summaries of the literature on a particular topic. A **systematic review**, however, is a comprehensive literature review conducted to answer a specific research question. Authors of a systematic review aim to find, code, appraise, and synthesize all of the previous research on their question in an unbiased and well-documented manner. The [Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA)](https://www.prisma-statement.org/) outline the minimum amount of information that needs to be reported at the conclusion of a systematic review project. 
 
 Other types of what are known as "evidence syntheses," such as scoping, rapid, and integrative reviews, have varying methodologies. While systematic reviews originated with and continue to be a popular publication type in medicine and other health sciences fields, more and more researchers in other disciplines are choosing to conduct evidence syntheses. 
 
+## PRISMA Key Documents
+- [PRISMA 2020 Checklist](https://www.prisma-statement.org/documents/PRISMA_2020_checklist.docx)
+- [PRISMA 2020 flow diagram](http://www.prisma-statement.org/PRISMAStatement/FlowDiagram)
+- [PRISMA 2020 Statement](http://dx.doi.org/10.1136/bmj.n71)
+- [PRISMA 2020 Explanation and Elaboration](http://dx.doi.org/10.1136/bmj.n160)
 
+# SLR: Limitations for thyroid disease in high dimensional dataset
 
 ## Identification
 
