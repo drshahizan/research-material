@@ -26,7 +26,7 @@ Other types of what are known as "evidence syntheses," such as scoping, rapid, a
 
 # SLR: Limitations for thyroid disease in high dimensional dataset
 
-## Identification: (2)
+## Identification: (15)
 
 ### Web of Science: (4)
 
