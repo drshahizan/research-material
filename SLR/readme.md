@@ -32,7 +32,7 @@ Other types of what are known as "evidence syntheses," such as scoping, rapid, a
 
 1. [Gu J, Xie R, Zhao Y, Zhao Z, Xu D, Ding M, Lin T, Xu W, Nie Z, Miao E, Tan D, Zhu S, Shen D and Fei J (2022) A machine learning-based approach to predicting the malignant and metastasis of thyroid cancer. Front. Oncol. 12:938292. doi: 10.3389/fonc.2022.938292](https://www.frontiersin.org/articles/10.3389/fonc.2022.938292/full)
 2. [Lai S-w, Fan Y-l, Zhu Y-h, Zhang F, Guo Z, Wang B, Wan Z, Liu P-l, Yu N and Qin H-d (2022) Machine learning-based dynamic prediction of lateral lymph node metastasis in patients with papillary thyroid cancer. Front. Endocrinol. 13:1019037. doi: 10.3389/fendo.2022.1019037](https://www.frontiersin.org/articles/10.3389/fendo.2022.1019037/full)
-3. [Machine learning for identifying benign and malignant of thyroid tumors: A retrospective study of 2,423 patients](https://www.frontiersin.org/articles/10.3389/fpubh.2022.960740/full)
+3. [Guo Y-y, Li Z-j, Du C, Gong J, Liao P, Zhang J-x and Shao C (2022) Machine learning for identifying benign and malignant of thyroid tumors: A retrospective study of 2,423 patients. Front. Public Health 10:960740. doi: 10.3389/fpubh.2022.960740](https://www.frontiersin.org/articles/10.3389/fpubh.2022.960740/full)
 4. [Thyroid Disease Prediction Using Selective Features and Machine Learning Techniques](https://www.mdpi.com/2072-6694/14/16/3914)
 
 ### Scopus(11)
