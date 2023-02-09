@@ -28,13 +28,14 @@ Other types of what are known as "evidence syntheses," such as scoping, rapid, a
 
 ## Identification: (2)
 
-### Web of Science: (2)
+### Web of Science: (4)
 
-1. [X. Chai, "Diagnosis Method of Thyroid Disease Combining Knowledge Graph and Deep Learning," in IEEE Access, vol. 8, pp. 149787-149795, 2020, doi: 10.1109/ACCESS.2020.3016676.](https://ieeexplore.ieee.org/document/9167227)
-2. [X. Zhao et al., "Automatic Thyroid Ultrasound Image Classification Using Feature Fusion Network," in IEEE Access, vol. 10, pp. 27917-27924, 2022, doi: 10.1109/ACCESS.2022.3156096.](https://ieeexplore.ieee.org/document/9725813)
+1. [A machine learning-based approach to predicting the malignant and metastasis of thyroid cancer](https://www.frontiersin.org/articles/10.3389/fonc.2022.938292/full)
+2. [Machine learning-based dynamic prediction of lateral lymph node metastasis in patients with papillary thyroid cancer](https://www.frontiersin.org/articles/10.3389/fendo.2022.1019037/full)
+3. [Machine learning for identifying benign and malignant of thyroid tumors: A retrospective study of 2,423 patients](https://www.frontiersin.org/articles/10.3389/fpubh.2022.960740/full)
+4. [Thyroid Disease Prediction Using Selective Features and Machine Learning Techniques](https://www.mdpi.com/2072-6694/14/16/3914)
 
-
-### Scopus
+### Scopus(11)
 1. [Increasing the Prediction Accuracy for Thyroid Disease: A Step Towards Better Health for Society](https://www-scopus-com.ezproxy.utm.my/record/display.uri?eid=2-s2.0-85113952266&origin=resultslist&sort=plfdt-f&listId=59859872&listTypeValue=Docs&src=s&imp=t&sid=8c7d44bf5adc2546305c7e2cc20c46e8&sot=sl&sdt=sl&sl=0&relpos=5&citeCnt=2&searchTerm=)
 2. [Butterfly Optimized Feature Selection with Fuzzy C-Means Classifier for Thyroid Prediction](https://www-scopus-com.ezproxy.utm.my/record/display.uri?eid=2-s2.0-85137323379&origin=resultslist&sort=plfdt-f&listId=59859872&listTypeValue=Docs&src=s&imp=t&sid=3cd15998bccc5119dd73d3ea1a34e0c0&sot=sl&sdt=sl&sl=0&relpos=0&citeCnt=1&searchTerm=)
 3. [A hybrid optimization algorithm-based feature selection for thyroid disease classifier wif rough type-2 fuzzy support vector machine](https://onlinelibrary.wiley.com/doi/epdf/10.1111/exsy.12811)
