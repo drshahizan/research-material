@@ -18,18 +18,14 @@ Other types of what are known as "evidence syntheses," such as scoping, rapid, a
 ## Which PRISMA 2020 Flow Diagram should I use?
 In PRISMA 2020, there are now expanded options depending on where you search and whether you are updating a review. Version 1 of PRISMA 2020 includes databases and clinical trial or preprint registers.  Version 2 includes additional sections for elaborating on your grey literature search, such as searches on websites or in citation lists.  Both versions are available for new and updated reviews from the Equator Network's PRISMA Flow Diagram page.
 
-### Templates for New Reviews
+### PRISMA Key Documents
 | Title | Document |
 | ----- | :------: |
 | PRISMA 2020 V1 - Databases and Registers	 |  <a href="https://guides.lib.unc.edu/ld.php?content_id=61167715" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
 | PRISMA 2020 V2 - Databases, Registers, and Grey Literature 	 |  <a href="https://guides.lib.unc.edu/ld.php?content_id=61167765" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
-| PRISMA 2020 Checklist |  <a href="./PRISMA_2020_checklist.docx" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
-
-## PRISMA Key Documents
-  - [PRISMA 2020 Checklist](./PRISMA_2020_checklist.docx)
-- [PRISMA 2020 flow diagram](http://www.prisma-statement.org/PRISMAStatement/FlowDiagram)
-- [PRISMA 2020 Statement](http://dx.doi.org/10.1136/bmj.n71)
-- [PRISMA 2020 Explanation and Elaboration](http://dx.doi.org/10.1136/bmj.n160)
+| PRISMA 2020 Checklist |  <a href="http://dx.doi.org/10.1136/bmj.n71" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
+| PRISMA 2020 Statement |  <a href="http://dx.doi.org/10.1136/bmj.n160" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
+| PRISMA 2020 Explanation and Elaboration |  <a href="./PRISMA_2020_checklist.docx" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
 
 ## [VOSviewer - Visualizing scientific landscapes](https://www.vosviewer.com/)
 VOSviewer is a software tool for constructing and visualizing bibliometric networks. These networks may for instance include journals, researchers, or individual publications, and they can be constructed based on citation, bibliographic coupling, co-citation, or co-authorship relations. VOSviewer also offers text mining functionality that can be used to construct and visualize co-occurrence networks of important terms extracted from a body of scientific literature.
