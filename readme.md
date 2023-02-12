@@ -40,11 +40,11 @@ Don't forget to hit the :star: if you like this repo.
 # Phd students
 ## Computer Science
 | No | Name | Title |  File |
-| ----- | ----- | ------ | ------ | 
-| 1 | Shamini Raja Kumaran | Enhanced Classification Techniques Based on Gene Manipulation for Cancer Microarray Data | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://drive.google.com/drive/u/1/folders/1KSCWtVWZLUPAeNP7MnLD9zCCC8-OBCe8) |
-| 2 | Dewi Octaviani | Semantic Model for Mining E-Learning Usage with Ontology and Meaningful Learning Characteristics | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://drive.google.com/drive/u/1/folders/12XNQQwF1JDdHW1MThDk29k6a3zY9-BHA) |
-| 3 | Bahram Amini Valashani | An Ontology-Based Recommender System using Scholar’s Background Knowledge | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://drive.google.com/drive/u/1/folders/1jjsasglgeFg_yv6_CVxuAQtgFDFJ0uWF) |
-| 4 | Arda Yunianta | Ontology-Based Semantic Heterogeneous Data Integration Framework for Learning Environment | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Download&labelColor=white&color=green&logo=google-drive)](https://drive.google.com/drive/u/1/folders/119DWjJGSCM73sVaZkvAN9U6EmhgZhcZP) |
+| ----- | ----- | ------ | :------: | 
+| 1 | Shamini Raja Kumaran | Enhanced Classification Techniques Based on Gene Manipulation for Cancer Microarray Data | <a href="https://drive.google.com/drive/u/1/folders/1KSCWtVWZLUPAeNP7MnLD9zCCC8-OBCe8" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
+| 2 | Dewi Octaviani | Semantic Model for Mining E-Learning Usage with Ontology and Meaningful Learning Characteristics | <a href="https://drive.google.com/drive/u/1/folders/12XNQQwF1JDdHW1MThDk29k6a3zY9-BHA" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
+| 3 | Bahram Amini Valashani | An Ontology-Based Recommender System using Scholar’s Background Knowledge | <a href="https://drive.google.com/drive/u/1/folders/1jjsasglgeFg_yv6_CVxuAQtgFDFJ0uWF" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
+| 4 | Arda Yunianta | Ontology-Based Semantic Heterogeneous Data Integration Framework for Learning Environment | <a href="https://drive.google.com/drive/u/1/folders/119DWjJGSCM73sVaZkvAN9U6EmhgZhcZP" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
 
 ## Social Science
 | No | Name | Title |  File |
