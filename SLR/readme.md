@@ -21,7 +21,8 @@ Other types of what are known as "evidence syntheses," such as scoping, rapid, a
 - [Watch Now and See if ChatGPT Can Write a Scientific Literature Review!](https://youtu.be/B9m-aV51Xdo)
 - [Computer Science: Systematic Reviews](https://guides.library.unr.edu/c.php?g=51145&p=7853775#:~:text=A%20systematic%20review%2C%20however%2C%20is,unbiased%20and%20well%2Ddocumented%20manner.)
 - [Synthesis table for literature reviews](https://youtu.be/WG6uKQjOhaU)
-- [Creating a research proposal using ChatGPT in 5 minutes.Results checked for plagiarism later](https://youtu.be/dPIkvjFnTkw)
+- [Creating a research proposal using ChatGPT in 5 minutes. Results checked for plagiarism later](https://youtu.be/dPIkvjFnTkw)
+- [How ChatGPT Can Improve Your Writing: A Hands-On Demonstration](https://youtu.be/lSpT87IdFoE)
 
 ## Which PRISMA 2020 Flow Diagram should I use?
 In PRISMA 2020, there are now expanded options depending on where you search and whether you are updating a review. Version 1 of PRISMA 2020 includes databases and clinical trial or preprint registers.  Version 2 includes additional sections for elaborating on your grey literature search, such as searches on websites or in citation lists.  Both versions are available for new and updated reviews from the Equator Network's PRISMA Flow Diagram page.
