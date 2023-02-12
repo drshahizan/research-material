@@ -21,7 +21,7 @@ Other types of what are known as "evidence syntheses," such as scoping, rapid, a
 - [PRISMA 2020 Statement](http://dx.doi.org/10.1136/bmj.n71)
 - [PRISMA 2020 Explanation and Elaboration](http://dx.doi.org/10.1136/bmj.n160)
 
-### [Thyroid Research](https://academic-accelerator.com/Impact-of-Journal/Thyroid-Research#:~:text=The%202022%2D2023%20Journal's%20Impact,is%20just%20updated%20in%202023.)
+### [Academic Accelerator: Thyroid Research](https://academic-accelerator.com/Impact-of-Journal/Thyroid-Research#:~:text=The%202022%2D2023%20Journal's%20Impact,is%20just%20updated%20in%202023.)
 
 ## [VOSviewer - Visualizing scientific landscapes](https://www.vosviewer.com/)
 VOSviewer is a software tool for constructing and visualizing bibliometric networks. These networks may for instance include journals, researchers, or individual publications, and they can be constructed based on citation, bibliographic coupling, co-citation, or co-authorship relations. VOSviewer also offers text mining functionality that can be used to construct and visualize co-occurrence networks of important terms extracted from a body of scientific literature.
