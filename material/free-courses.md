@@ -79,19 +79,19 @@ Don't forget to hit the :star: if you like this repo.
 ## Youtube: Learn Machine Learning
 👉 Here are 13 Youtube channels that will teach you more than the paid one.
 
-- [Stanford University Cs229: Machine Learning](https://t.co/Cmlzvsdict)
-- [Making Friends With Machine Learning](https://t.co/Liujymwfbt)
-- [Neural Networks: Zero To Hero](https://t.co/Wayzmyhyku)
-- [Massachusetts Institute Of Technology Deep Learning For Art, Aesthetics, And Creativity](https://t.co/Canowm1m2b)
-- [Stanford University Cs230: Deep Learning (2018)](https://t.co/F1jbhejs5k)
+- [Stanford University Cs229: Machine Learning](https://t.co/cmlzvsdict)
+- [Making Friends With Machine Learning](https://t.co/liujymwfbt)
+- [Neural Networks: Zero To Hero](https://t.co/wayzmyhyku)
+- [Massachusetts Institute Of Technology Deep Learning For Art, Aesthetics, And Creativity](https://t.co/canowm1m2b)
+- [Stanford University Cs230: Deep Learning (2018)](https://t.co/f1jbhejs5k)
 - [Applied Machine Learning (Cornell Tech Cs 5787, Fall 2020)](https://t.co/2znemgrjvf)
-- [Practical Deep Learning For Coders 2022](https://t.co/Xtg00k7wrt)
+- [Practical Deep Learning For Coders 2022](https://t.co/xtg00k7wrt)
 - [Practical Deep Learning For Coders 2022 - Part 2](https://t.co/82ahonifnk)
-- [Machine Learning With Graphs](https://t.co/Hkgfofob9o)
-- [Probabilistic Machine Learning  Philipp Hennig 2021](https://t.co/Z76gvxei3d)
-- [Deep Unsupervised Learning -- University Of California, Berkeley Spring 2020](https://t.co/Ywkskc5r5w)
-- [Foundation Models](https://t.co/Owlqadxawj)
-- [Stanford University Cs25 - Transformers United](https://t.co/Nkttscg854)
+- [Machine Learning With Graphs](https://t.co/hkgfofob9o)
+- [Probabilistic Machine Learning  Philipp Hennig 2021](https://t.co/z76gvxei3d)
+- [Deep Unsupervised Learning -- University Of California, Berkeley Spring 2020](https://t.co/ywkskc5r5w)
+- [Foundation Models](https://t.co/owlqadxawj)
+- [Stanford University Cs25 - Transformers United](https://t.co/nkttscg854)
 
 ## Others
 ### Writing
