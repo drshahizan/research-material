@@ -23,6 +23,7 @@ Other types of what are known as "evidence syntheses," such as scoping, rapid, a
 
 ## [VOSviewer - Visualizing scientific landscapes](https://www.vosviewer.com/)
 VOSviewer is a software tool for constructing and visualizing bibliometric networks. These networks may for instance include journals, researchers, or individual publications, and they can be constructed based on citation, bibliographic coupling, co-citation, or co-authorship relations. VOSviewer also offers text mining functionality that can be used to construct and visualize co-occurrence networks of important terms extracted from a body of scientific literature.
+- [youtube: Introduction to VOSviewer](https://youtu.be/9dTWkNRxUtw)
 - [Download: VOSviewer version 1.6.19](https://www.vosviewer.com/download)
 - [Getting Started](https://www.vosviewer.com/getting-started)
 - [VOSviewer Online](https://app.vosviewer.com/)
