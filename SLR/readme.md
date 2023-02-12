@@ -27,13 +27,13 @@ Other types of what are known as "evidence syntheses," such as scoping, rapid, a
 VOSviewer is a software tool for constructing and visualizing bibliometric networks. These networks may for instance include journals, researchers, or individual publications, and they can be constructed based on citation, bibliographic coupling, co-citation, or co-authorship relations. VOSviewer also offers text mining functionality that can be used to construct and visualize co-occurrence networks of important terms extracted from a body of scientific literature.
 
 ### Obtaining Content from Databases
-1. Scopus
+#### Scopus
 
 - search by topic or desired publications
 - export citations in RIS format  - limited to 2000 publications  (may want to also select abstract field to be in export) OR
 - export citations in CSV format - include Citation information & Blibliographical information - may also include abstract and keywords if not selected - limited to 2000 publications
 
-2. Web of Sciences
+#### Web of Sciences
 - search by topic or desired publications
 - export citations in RIS format  - limited to 1000 publications OR
 - export citations in tab delimited file 
