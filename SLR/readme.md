@@ -16,7 +16,7 @@ Other types of what are known as "evidence syntheses," such as scoping, rapid, a
 [Computer Science: Systematic Reviews](https://guides.library.unr.edu/c.php?g=51145&p=7853775#:~:text=A%20systematic%20review%2C%20however%2C%20is,unbiased%20and%20well%2Ddocumented%20manner.)
 
 ## PRISMA Key Documents
-- [PRISMA 2020 Checklist](https://www.prisma-statement.org/documents/PRISMA_2020_checklist.docx)
+- [PRISMA 2020 Checklist](./PRISMA_2020_checklist.docx)
 - [PRISMA 2020 flow diagram](http://www.prisma-statement.org/PRISMAStatement/FlowDiagram)
 - [PRISMA 2020 Statement](http://dx.doi.org/10.1136/bmj.n71)
 - [PRISMA 2020 Explanation and Elaboration](http://dx.doi.org/10.1136/bmj.n160)
