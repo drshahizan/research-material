@@ -28,7 +28,7 @@ In PRISMA 2020, there are now expanded options depending on where you search and
 | PRISMA 2020 Statement | <a href="http://dx.doi.org/10.1136/bmj.n160" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
 | PRISMA 2020 Explanation and Elaboration | <a href="./PRISMA_2020_checklist.docx" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
 
-[Creating a PRISMA flow diagram: PRISMA 2020](https://guides.lib.unc.edu/prisma)
+[More info: Creating a PRISMA flow diagram: PRISMA 2020](https://guides.lib.unc.edu/prisma)
 
 
 ## [VOSviewer - Visualizing scientific landscapes](https://www.vosviewer.com/)
