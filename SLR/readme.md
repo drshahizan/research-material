@@ -24,8 +24,12 @@ In PRISMA 2020, there are now expanded options depending on where you search and
 | PRISMA 2020 V1 - Databases and Registers	 |  <a href="https://guides.lib.unc.edu/ld.php?content_id=61167715" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
 | PRISMA 2020 V2 - Databases, Registers, and Grey Literature 	 |  <a href="https://guides.lib.unc.edu/ld.php?content_id=61167765" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
 | PRISMA 2020 Checklist |  <a href="http://dx.doi.org/10.1136/bmj.n71" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
-| PRISMA 2020 Statement |  <a href="http://dx.doi.org/10.1136/bmj.n160" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
-| PRISMA 2020 Explanation and Elaboration |  <a href="./PRISMA_2020_checklist.docx" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
+| PRISMA 2020 Expanded Checklist |  <a href="https://guides.lib.unc.edu/ld.php?content_id=61167653" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
+| PRISMA 2020 Statement | <a href="http://dx.doi.org/10.1136/bmj.n160" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
+| PRISMA 2020 Explanation and Elaboration | <a href="./PRISMA_2020_checklist.docx" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
+
+[Creating a PRISMA flow diagram: PRISMA 2020](https://guides.lib.unc.edu/prisma)
+
 
 ## [VOSviewer - Visualizing scientific landscapes](https://www.vosviewer.com/)
 VOSviewer is a software tool for constructing and visualizing bibliometric networks. These networks may for instance include journals, researchers, or individual publications, and they can be constructed based on citation, bibliographic coupling, co-citation, or co-authorship relations. VOSviewer also offers text mining functionality that can be used to construct and visualize co-occurrence networks of important terms extracted from a body of scientific literature.
