@@ -89,9 +89,9 @@ Don't forget to hit the :star: if you like this repo.
 - [Practical Deep Learning For Coders 2022 - Part 2](https://t.co/82ahonifnk)
 - [Machine Learning With Graphs](https://t.co/hkgfofob9o)
 - [Probabilistic Machine Learning  Philipp Hennig 2021](https://t.co/z76gvxei3d)
-- [Deep Unsupervised Learning -- University Of California, Berkeley Spring 2020](https://t.co/ywkskc5r5w)
-- [Foundation Models](https://t.co/owlqadxawj)
-- [Stanford University Cs25 - Transformers United](https://t.co/nkttscg854)
+- [Deep Unsupervised Learning -- University Of California, Berkeley Spring 2020](https://t.co/ywkSKC5r5w)
+- [Foundation Models](https://t.co/owLqaDXAwj)
+- [Stanford University Cs25 - Transformers United](https://t.co/nkTtSCG854)
 
 ## Others
 ### Writing
