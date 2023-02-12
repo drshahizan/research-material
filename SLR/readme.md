@@ -30,7 +30,6 @@ VOSviewer is a software tool for constructing and visualizing bibliometric netwo
 
 ### Obtaining Content from Databases
 #### Scopus
-
 - search by topic or desired publications
 - export citations in RIS format  - limited to 2000 publications  (may want to also select abstract field to be in export) OR
 - export citations in CSV format - include Citation information & Blibliographical information - may also include abstract and keywords if not selected - limited to 2000 publications
@@ -41,7 +40,9 @@ VOSviewer is a software tool for constructing and visualizing bibliometric netwo
 - export citations in tab delimited file 
 
 ## Sample SLR Articles
-- 
+- [Improving Reading Through Videogames and Digital Apps: A Systematic Review](./slr1.pdf)
+- [Systematic Review of CLIL in Computer Science: Past, Present, and Future — with a Special Focus on Using ICT](./slr2.pdf)
+- [Machine Learning Approaches to Bike-Sharing Systems:A Systematic Literature Review](./slr3.pdf)
 
 ## [Academic Accelerator: Thyroid Research](https://academic-accelerator.com/Impact-of-Journal/Thyroid-Research#:~:text=The%202022%2D2023%20Journal's%20Impact,is%20just%20updated%20in%202023.)
 
