@@ -15,6 +15,9 @@ Other types of what are known as "evidence syntheses," such as scoping, rapid, a
 
 - [ChatGPT Tutorial: Write a systematic review under 1 hour](https://youtu.be/RgzBIQfi1nI)
 - [Using ChatGPT for writing in research](https://youtu.be/tEdM9e_ycFU)
+- [Using ChatGPT to analyze data and write report](https://youtu.be/EI7Anh79oa0)
+- [Can ChatGPT Write Your Next Scientific Paper?](https://youtu.be/wnGPt030IG4)
+- [Using ChatGPT to Generate and Export Data for Analysis](https://youtu.be/kcehSSwGABE)
 - [Computer Science: Systematic Reviews](https://guides.library.unr.edu/c.php?g=51145&p=7853775#:~:text=A%20systematic%20review%2C%20however%2C%20is,unbiased%20and%20well%2Ddocumented%20manner.)
 
 ## Which PRISMA 2020 Flow Diagram should I use?
