@@ -59,7 +59,7 @@ Don't forget to hit the :star: if you like this repo.
 | No | Name | Title |  File |
 | ----- | ----- | ------ | ------ | 
 | 1 | Li Jing | Enhanced Attack Detection and Classification Techniques Based on Feature Manipulation of IOT Data for IOT Security | <a href="https://drive.google.com/drive/u/1/folders/1htEHWofGPdG0_bB_OxUMkcLycj0pf5DZ" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a>
-| 2 | Saleh Dhekre Saber Saleh | A Predictive Analysis Framework of Thyroid Disease Using Machine Learning Approaches | <a href="https://drive.google.com/drive/u/1/folders/128OOMGs6TJEXIsu1Xetfx19ZKxeekUXS" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a>(https://drive.google.com/drive/u/1/folders/128OOMGs6TJEXIsu1Xetfx19ZKxeekUXS) |
+| 2 | Saleh Dhekre Saber Saleh | A Predictive Analysis Framework of Thyroid Disease Using Machine Learning Approaches | <a href="https://drive.google.com/drive/u/1/folders/128OOMGs6TJEXIsu1Xetfx19ZKxeekUXS" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
 | 3 | Anwar Said Salim Al Talaii | Artificial Intelligence to Enhance Development and Increase Harvest Production for Agriculture in Sultant of Oman using drones |   |
 
 ## Contribution 🛠️
