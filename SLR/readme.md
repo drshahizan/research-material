@@ -21,38 +21,10 @@ Other types of what are known as "evidence syntheses," such as scoping, rapid, a
 - [PRISMA 2020 Statement](http://dx.doi.org/10.1136/bmj.n71)
 - [PRISMA 2020 Explanation and Elaboration](http://dx.doi.org/10.1136/bmj.n160)
 
-## [Thyroid Research](https://academic-accelerator.com/Impact-of-Journal/Thyroid-Research#:~:text=The%202022%2D2023%20Journal's%20Impact,is%20just%20updated%20in%202023.)
+### [Thyroid Research](https://academic-accelerator.com/Impact-of-Journal/Thyroid-Research#:~:text=The%202022%2D2023%20Journal's%20Impact,is%20just%20updated%20in%202023.)
 
-
-# SLR: Limitations for thyroid disease in high dimensional dataset
-
-## Identification: (15)
-
-### Web of Science: (4)
-
-1. [Gu J, Xie R, Zhao Y, Zhao Z, Xu D, Ding M, Lin T, Xu W, Nie Z, Miao E, Tan D, Zhu S, Shen D and Fei J (2022) A machine learning-based approach to predicting the malignant and metastasis of thyroid cancer. Front. Oncol. 12:938292. doi: 10.3389/fonc.2022.938292](https://www.frontiersin.org/articles/10.3389/fonc.2022.938292/full)
-2. [Lai S-w, Fan Y-l, Zhu Y-h, Zhang F, Guo Z, Wang B, Wan Z, Liu P-l, Yu N and Qin H-d (2022) Machine learning-based dynamic prediction of lateral lymph node metastasis in patients with papillary thyroid cancer. Front. Endocrinol. 13:1019037. doi: 10.3389/fendo.2022.1019037](https://www.frontiersin.org/articles/10.3389/fendo.2022.1019037/full)
-3. [Guo Y-y, Li Z-j, Du C, Gong J, Liao P, Zhang J-x and Shao C (2022) Machine learning for identifying benign and malignant of thyroid tumors: A retrospective study of 2,423 patients. Front. Public Health 10:960740. doi: 10.3389/fpubh.2022.960740](https://www.frontiersin.org/articles/10.3389/fpubh.2022.960740/full)
-4. [Thyroid Disease Prediction Using Selective Features and Machine Learning Techniques](https://www.mdpi.com/2072-6694/14/16/3914)
-
-### Scopus(11)
-1. [Increasing the Prediction Accuracy for Thyroid Disease: A Step Towards Better Health for Society](https://www-scopus-com.ezproxy.utm.my/record/display.uri?eid=2-s2.0-85113952266&origin=resultslist&sort=plfdt-f&listId=59859872&listTypeValue=Docs&src=s&imp=t&sid=8c7d44bf5adc2546305c7e2cc20c46e8&sot=sl&sdt=sl&sl=0&relpos=5&citeCnt=2&searchTerm=)
-2. [Butterfly Optimized Feature Selection with Fuzzy C-Means Classifier for Thyroid Prediction](https://www-scopus-com.ezproxy.utm.my/record/display.uri?eid=2-s2.0-85137323379&origin=resultslist&sort=plfdt-f&listId=59859872&listTypeValue=Docs&src=s&imp=t&sid=3cd15998bccc5119dd73d3ea1a34e0c0&sot=sl&sdt=sl&sl=0&relpos=0&citeCnt=1&searchTerm=)
-3. [A hybrid optimization algorithm-based feature selection for thyroid disease classifier wif rough type-2 fuzzy support vector machine](https://onlinelibrary.wiley.com/doi/epdf/10.1111/exsy.12811)
-4. [Effective voting ensemble of homogenous ensembling with multiple attribute-selection approaches for improved identification of thyroid disorder](https://www-scopus-com.ezproxy.utm.my/record/display.uri?eid=2-s2.0-85120617460&origin=resultslist&sort=plfdt-f&listId=59859872&listTypeValue=Docs&src=s&imp=t&sid=3cd15998bccc5119dd73d3ea1a34e0c0&sot=sl&sdt=sl&sl=0&relpos=6&citeCnt=3&searchTerm=)
-5. [Early diagnosis of thyroid cancer diseases using computational intelligence techniques: A case study of a Saudi Arabian dataset](https://www-scopus-com.ezproxy.utm.my/record/display.uri?eid=2-s2.0-85101587639&origin=resultslist&sort=plfdt-f&listId=59859872&listTypeValue=Docs&src=s&imp=t&sid=3cd15998bccc5119dd73d3ea1a34e0c0&sot=sl&sdt=sl&sl=0&relpos=7&citeCnt=11&searchTerm=)
-6. [Optimal feature-based multi-kernel SVM approach for thyroid disease classification](https://www-scopus-com.ezproxy.utm.my/record/display.uri?eid=2-s2.0-85049605739&origin=resultslist&sort=plfdt-f&listId=59859872&listTypeValue=Docs&src=s&imp=t&sid=3cd15998bccc5119dd73d3ea1a34e0c0&sot=sl&sdt=sl&sl=0&relpos=8&citeCnt=124&searchTerm=)
-7. [Bayesian Assessment of Diagnostic Strategy for a Thyroid Nodule Involving a Combination of Clinical Synthetic Features and Molecular Data ](https://ieeexplore-ieee-org.ezproxy.utm.my/ielx7/6287639/8948470/09205860.pdf?tag=1)
-8. [Constructing a System for Analysis of Machine Learning Techniques for Early Detection of Thyroid](https://www.ijeat.org/wp-content/uploads/papers/v8i6S3/F13850986S319.pdf)
-9. [Thyroid Disease Prediction Using Machine Learning Approaches](https://www-scopus-com.ezproxy.utm.my/record/display.uri?eid=2-s2.0-85085330452&origin=resultslist&sort=plf-f&src=s&st1=%22Thyroid+disease+prediction+using+machine+learning+approaches%22&sid=685f00abfd634d7aa7b2a26805f4106b&sot=b&sdt=b&sl=77&s=TITLE-ABS-KEY%28%22Thyroid+disease+prediction+using+machine+learning+approaches%22%29&relpos=0&citeCnt=25&searchTerm=)
-10. [Prediction Of Thyroid Disease(Hypothyroid) In Early Stage Using Feature Selection And Classification Techniques](https://ieeexplore.ieee.org/abstract/document/9397052)
-11. [Thyroid Disease Classification Using Machine Learning Algorithms](https://iopscience.iop.org/article/10.1088/1742-6596/1963/1/012140/pdf)
-
-## Screening
-
-## Eligibility
-
-## Included
+## [VOSviewer - Visualizing scientific landscapes](https://www.vosviewer.com/)
+VOSviewer is a software tool for constructing and visualizing bibliometric networks. These networks may for instance include journals, researchers, or individual publications, and they can be constructed based on citation, bibliographic coupling, co-citation, or co-authorship relations.18 Apr 2022
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-material/issues) for any improvements, suggestions or errors in the content.
