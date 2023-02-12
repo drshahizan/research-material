@@ -45,11 +45,10 @@ VOSviewer is a software tool for constructing and visualizing bibliometric netwo
 - [Systematic Review of CLIL in Computer Science: Past, Present, and Future — with a Special Focus on Using ICT](./slr2.pdf)
 - [Machine Learning Approaches to Bike-Sharing Systems:A Systematic Literature Review](./slr3.pdf)
 - [Liberati A, Altman DG, Tetzlaff J, et al. The PRISMA statement for reporting systematic reviews and meta-analyses of studies that evaluate health care interventions: explanation and elaboration. J Clin Epidemiol. 2009;62(10):e1-e34. doi:10.1016/j.jclinepi.2009.06.006](https://pubmed.ncbi.nlm.nih.gov/19631507/)
-- [Page MJ, Moher D, Bossuyt P, et al. PRISMA 2020 explanation and elaboration: updated guidance and exemplars for reporting systematic reviews.]( doi:10.31222/osf.io/gwdhk)
-- [Rethlefsen M, Kirtley S, Waffenschmidt S, et al. PRISMA-S: An Extension to the PRISMA Statement for Reporting Literature Searches in Systematic Reviews.]( doi:10.31219/osf.io/sfc38)
+- [Page MJ, Moher D, Bossuyt P, et al. PRISMA 2020 explanation and elaboration: updated guidance and exemplars for reporting systematic reviews.]( https://osf.io/preprints/metaarxiv/gwdhk/)
+- [Rethlefsen M, Kirtley S, Waffenschmidt S, et al. PRISMA-S: An Extension to the PRISMA Statement for Reporting Literature Searches in Systematic Reviews.](https://osf.io/sfc38/)
 
 ## [Academic Accelerator: Thyroid Research](https://academic-accelerator.com/Impact-of-Journal/Thyroid-Research#:~:text=The%202022%2D2023%20Journal's%20Impact,is%20just%20updated%20in%202023.)
-
 
 
 ## Contribution 🛠️
