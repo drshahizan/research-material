@@ -19,6 +19,13 @@ Other types of what are known as "evidence syntheses," such as scoping, rapid, a
 In PRISMA 2020, there are now expanded options depending on where you search and whether you are updating a review. Version 1 of PRISMA 2020 includes databases and clinical trial or preprint registers.  Version 2 includes additional sections for elaborating on your grey literature search, such as searches on websites or in citation lists.  Both versions are available for new and updated reviews from the Equator Network's PRISMA Flow Diagram page.
 
 ### Templates for New Reviews
+| Title | Document |
+| ----- | :------: |
+| PRISMA 2020 V1 - Databases and Registers	 |  <a href="https://drive.google.com/file/d/1P_cpFd76MpKDoxAL3bkzyYBkDCFT7ivC/view?usp=share_link" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> |
+| PRISMA 2020 V1 - Databases and Registers	 |  <a href="https://drive.google.com/file/d/1P_cpFd76MpKDoxAL3bkzyYBkDCFT7ivC/view?usp=share_link" ><img src="./images/pdf64.png" width="24px" height="24px" ></a> |
+
+
+
 PRISMA 2020 V1 - Databases and Registers	
 PRISMA 2020 V2 - Databases, Registers, and Grey Literature 
 
