@@ -21,13 +21,8 @@ In PRISMA 2020, there are now expanded options depending on where you search and
 ### Templates for New Reviews
 | Title | Document |
 | ----- | :------: |
-| PRISMA 2020 V1 - Databases and Registers	 |  <a href="https://drive.google.com/file/d/1P_cpFd76MpKDoxAL3bkzyYBkDCFT7ivC/view?usp=share_link" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
-| PRISMA 2020 V1 - Databases and Registers	 |  <a href="https://drive.google.com/file/d/1P_cpFd76MpKDoxAL3bkzyYBkDCFT7ivC/view?usp=share_link" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
-
-
-
-PRISMA 2020 V1 - Databases and Registers	
-PRISMA 2020 V2 - Databases, Registers, and Grey Literature 
+| PRISMA 2020 V1 - Databases and Registers	 |  <a href="https://guides.lib.unc.edu/ld.php?content_id=61167715" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
+| PRISMA 2020 V2 - Databases, Registers, and Grey Literature 	 |  <a href="https://guides.lib.unc.edu/ld.php?content_id=61167765" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
 
 ## PRISMA Key Documents
 - [PRISMA 2020 Checklist](./PRISMA_2020_checklist.docx)
