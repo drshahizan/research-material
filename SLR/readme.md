@@ -8,12 +8,19 @@
 Don't forget to hit the :star: if you like this repo.
 
 
-# Systematic Review
+# Systematic Review: PRISMA 2020
 Regular literature reviews are simply summaries of the literature on a particular topic. A **systematic review**, however, is a comprehensive literature review conducted to answer a specific research question. Authors of a systematic review aim to find, code, appraise, and synthesize all of the previous research on their question in an unbiased and well-documented manner. The [Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA)](https://www.prisma-statement.org/) outline the minimum amount of information that needs to be reported at the conclusion of a systematic review project. 
 
 Other types of what are known as "evidence syntheses," such as scoping, rapid, and integrative reviews, have varying methodologies. While systematic reviews originated with and continue to be a popular publication type in medicine and other health sciences fields, more and more researchers in other disciplines are choosing to conduct evidence syntheses. 
 
 [Computer Science: Systematic Reviews](https://guides.library.unr.edu/c.php?g=51145&p=7853775#:~:text=A%20systematic%20review%2C%20however%2C%20is,unbiased%20and%20well%2Ddocumented%20manner.)
+
+## Which PRISMA 2020 Flow Diagram should I use?
+In PRISMA 2020, there are now expanded options depending on where you search and whether you are updating a review. Version 1 of PRISMA 2020 includes databases and clinical trial or preprint registers.  Version 2 includes additional sections for elaborating on your grey literature search, such as searches on websites or in citation lists.  Both versions are available for new and updated reviews from the Equator Network's PRISMA Flow Diagram page.
+
+### Templates for New Reviews
+PRISMA 2020 V1 - Databases and Registers	
+PRISMA 2020 V2 - Databases, Registers, and Grey Literature 
 
 ## PRISMA Key Documents
 - [PRISMA 2020 Checklist](./PRISMA_2020_checklist.docx)
