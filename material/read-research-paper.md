@@ -15,19 +15,19 @@ Reading academic papers can be a daunting task, especially if you are new to the
 
 The three passes approach is a systematic way of reading papers that involves three rounds of reading. Each pass serves a different purpose and helps you focus on different aspects of the paper.
 
-Pass ➊: 𝐒𝐤𝐢𝐦𝐦𝐢𝐧𝐠
+### Pass 1: Skimming
 
 * Quickly scan the abstract, introduction, and conclusion to get an overview of the paper.
 
 * Look for key words and phrases, and note the research problem, methodology, and results.
 
-Pass ➋: 𝐑𝐞𝐚𝐝𝐢𝐧𝐠
+### Pass 2: Reading
 
 * Read the paper in detail, taking notes and summarizing important sections as you go.
 
 * Focus on the methodology and results, paying attention to any graphs, tables, or figures.
 
-Pass ➌: 𝐑𝐞𝐟𝐥𝐞𝐜𝐭𝐢𝐧𝐠
+### Pass 3: Reflecting
 
 * Review your notes and reflect on what you've learned.
 
