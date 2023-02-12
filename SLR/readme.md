@@ -24,7 +24,7 @@ Other types of what are known as "evidence syntheses," such as scoping, rapid, a
 ### [Thyroid Research](https://academic-accelerator.com/Impact-of-Journal/Thyroid-Research#:~:text=The%202022%2D2023%20Journal's%20Impact,is%20just%20updated%20in%202023.)
 
 ## [VOSviewer - Visualizing scientific landscapes](https://www.vosviewer.com/)
-VOSviewer is a software tool for constructing and visualizing bibliometric networks. These networks may for instance include journals, researchers, or individual publications, and they can be constructed based on citation, bibliographic coupling, co-citation, or co-authorship relations.18 Apr 2022
+VOSviewer is a software tool for constructing and visualizing bibliometric networks. These networks may for instance include journals, researchers, or individual publications, and they can be constructed based on citation, bibliographic coupling, co-citation, or co-authorship relations. VOSviewer also offers text mining functionality that can be used to construct and visualize co-occurrence networks of important terms extracted from a body of scientific literature.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-material/issues) for any improvements, suggestions or errors in the content.
