@@ -23,9 +23,10 @@ In PRISMA 2020, there are now expanded options depending on where you search and
 | ----- | :------: |
 | PRISMA 2020 V1 - Databases and Registers	 |  <a href="https://guides.lib.unc.edu/ld.php?content_id=61167715" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
 | PRISMA 2020 V2 - Databases, Registers, and Grey Literature 	 |  <a href="https://guides.lib.unc.edu/ld.php?content_id=61167765" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
+| PRISMA 2020 Checklist |  <a href="./PRISMA_2020_checklist.docx" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
 
 ## PRISMA Key Documents
-- [PRISMA 2020 Checklist](./PRISMA_2020_checklist.docx)
+  - [PRISMA 2020 Checklist](./PRISMA_2020_checklist.docx)
 - [PRISMA 2020 flow diagram](http://www.prisma-statement.org/PRISMAStatement/FlowDiagram)
 - [PRISMA 2020 Statement](http://dx.doi.org/10.1136/bmj.n71)
 - [PRISMA 2020 Explanation and Elaboration](http://dx.doi.org/10.1136/bmj.n160)
