@@ -7,11 +7,11 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-𝐓𝐡𝐞 𝐓𝐡𝐫𝐞𝐞-𝐏𝐚𝐬𝐬 𝐌𝐞𝐭𝐡𝐨𝐝: 𝐓𝐡𝐞 𝐌𝐨𝐬𝐭 𝐄𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐭 𝐖𝐚𝐲 𝐭𝐨 𝐑𝐞𝐚𝐝 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐏𝐚𝐩𝐞𝐫𝐬
+# The Three-Pass Method: The Most Efficient Way to Read Research Papers 
 
 Reading academic papers can be a daunting task, especially if you are new to the field or the topic. However, with the right approach and strategies, you can quickly grasp the key ideas and insights from a paper. 
 
-𝕋𝕙𝕖 𝕋𝕙𝕣𝕖𝕖 ℙ𝕒𝕤𝕤𝕖𝕤
+## The Three Passes
 
 The three passes approach is a systematic way of reading papers that involves three rounds of reading. Each pass serves a different purpose and helps you focus on different aspects of the paper.
 
