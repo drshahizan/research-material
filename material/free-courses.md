@@ -79,19 +79,19 @@ Don't forget to hit the :star: if you like this repo.
 ## Youtube: Learn Machine Learning
 👉 Here are 13 Youtube channels that will teach you more than the paid one.
 
-- [Stanford University Cs229: Machine Learning](https://t.co/cMLzvsdIcT)
+- [Stanford University CS229: Machine Learning](https://t.co/cMLzvsdIcT)
 - [Making Friends With Machine Learning](https://t.co/LiujYMWFbT)
-- [Neural Networks: Zero To Hero](https://t.co/WaYzmyHYKU)
-- [Massachusetts Institute Of Technology Deep Learning For Art, Aesthetics, And Creativity](https://t.co/cANOWM1M2B)
-- [Stanford University Cs230: Deep Learning (2018)](https://t.co/F1jBHejS5k)
+- [Neural Networks: Zero to Hero](https://t.co/WaYzmyHYKU)
+- [Massachusetts Institute of Technology Deep Learning For Art, Aesthetics, And Creativity](https://t.co/cANOWM1M2B)
+- [Stanford University CS230: Deep Learning (2018)](https://t.co/F1jBHejS5k)
 - [Applied Machine Learning (Cornell Tech Cs 5787, Fall 2020)](https://t.co/2znEMgrJvf)
-- [Practical Deep Learning For Coders 2022](https://t.co/xTg00k7wrt)
-- [Practical Deep Learning For Coders 2022 - Part 2](https://t.co/82AHonifNK)
+- [Practical Deep Learning for Coders 2022](https://t.co/xTg00k7wrt)
+- [Practical Deep Learning for Coders 2022 - Part 2](https://t.co/82AHonifNK)
 - [Machine Learning With Graphs](https://t.co/hkgfoFoB9O)
 - [Probabilistic Machine Learning  Philipp Hennig 2021](https://t.co/Z76gVxeI3d)
-- [Deep Unsupervised Learning - University Of California, Berkeley Spring 2020](https://t.co/ywkSKC5r5w)
+- [Deep Unsupervised Learning - University of California, Berkeley Spring 2020](https://t.co/ywkSKC5r5w)
 - [Foundation Models](https://t.co/owLqaDXAwj)
-- [Stanford University Cs25 - Transformers United](https://t.co/nkTtSCG854)
+- [Stanford University CS25 - Transformers United](https://t.co/nkTtSCG854)
 
 ## Others
 ### Writing
