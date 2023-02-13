@@ -36,6 +36,46 @@ Don't forget to hit the :star: if you like this repo.
 12. [Basics of Machine Learning](https://lnkd.in/dNTMQPM9)
 13. [Data Science with Python](https://lnkd.in/dkr4KGHD)
 
+[Google Project Management](https://lnkd.in/dBKUUBgt)
+
+[Agile Project Management](https://lnkd.in/dMBKgSBV)
+
+[Project Execution: Running the Project](https://lnkd.in/dZiESFRK)
+
+[Foundations of Project Management](https://lnkd.in/dRdNhVhK)
+
+[Project Initiation: Starting a Successful Project](https://lnkd.in/dDKzVPnX)
+
+[Project Planning: Putting It All Together](https://lnkd.in/dtDB9xDA)
+
+[Google Analytics for Power Users](https://lnkd.in/dQiZiB5m)
+
+[Fundamentals of digital marketing](https://lnkd.in/dsqp646j)
+
+[Python Basics for Data Analysis](https://lnkd.in/dkSXX5EU)
+
+[Data Science Foundations](https://lnkd.in/dNjwx6uJ)
+
+[Google Analytics for Beginners](https://lnkd.in/dTeE2c9n)
+
+[Advanced Google Analytics](https://lnkd.in/d4dAz8k)
+
+[Get started with Google Maps Platform](https://lnkd.in/dn3PkapX)
+
+[Google Cloud Computing Foundations](https://lnkd.in/dUFj-gGn)
+
+[Google Cloud Computing Foundations](https://lnkd.in/ds7uM8jj)
+
+[Data, ML, and AI in Google Cloud](https://lnkd.in/d8Ctes66)
+
+[Google Cloud Computing Foundations: Networking and Security in Google Cloud](https://lnkd.in/d4Pbk5ns)
+
+[Machine Learning Crash Course](https://lnkd.in/dgHKX7UD)
+
+[Basics of Machine Learning](https://lnkd.in/dcYBku7i)
+
+[Data Science with Python](https://lnkd.in/d5BE_D3F)
+
 ## Best Websites to learn Python
 
 1. [W3Schools.com](https://lnkd.in/dxDE3jWb)
