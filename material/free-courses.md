@@ -34,7 +34,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Google Analytics for Beginners](https://lnkd.in/dTeE2c9n)
 - [Google Analytics for Power Users](https://lnkd.in/dQiZiB5m)
 - [Google Cloud Computing Foundations: Networking and Security in Google Cloud](https://lnkd.in/d4Pbk5ns)
-- [Google Cloud Computing Foundations](https://lnkd.in/dYW5FF_B)
+- [Google Cloud Computing Foundations: Cloud Computing Fundamentals](https://lnkd.in/dYW5FF_B)
 - [Google Project Management](https://lnkd.in/dBKUUBgt)
 - [Machine Learning Crash Course](https://lnkd.in/dmZinF4p)
 - [Project Execution: Running the Project](https://lnkd.in/dZiESFRK)
