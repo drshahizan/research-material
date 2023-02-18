@@ -54,6 +54,11 @@ Elicit is a research assistant using language models like GPT-3 to automate part
 - [Writing Research paper by chat gpt | Elicit| AI Tool for Paper writing](https://youtu.be/mAsI_yDUIZk)
 - [Write a Research Proposal in 2 Days with Elicit](https://youtu.be/YO9UiBWx6jw)
 
+## <img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"> SciSpace
+- [SciSpace](https://typeset.io/)
+- [Introducing SciSpace](https://youtu.be/-pnbXQufCro)
+- [Best AI Research Assistant: CoPilot from SciSpace](https://youtu.be/GVh3p-8Pae8)
+
 ## <img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"> Lex.AI 
 - [Use LEX A.I. to write amazing literature reviews, fast and easy!](https://youtu.be/OVyvOuMojzQ)
 
@@ -64,6 +69,10 @@ VOSviewer is a software tool for constructing and visualizing bibliometric netwo
 - [Getting Started](https://www.vosviewer.com/getting-started)
 - [VOSviewer Online](https://app.vosviewer.com/)
 - [Features - Examples](https://www.vosviewer.com/features/examples)
+
+### Google Scholar and Zotero
+- [How to Find Review Articles and Organize them with Google Scholar and Zotero](https://youtu.be/4_9ltNgVkfE)
+
 
 ### Obtaining Content from Databases
 #### Scopus
