@@ -47,6 +47,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Penjanamaan semula CICT](./KERTAS%20KERJA%20CADANGAN%20PENJENAMAAN%20SEMULA%20NAMA%20CICT.pdf)
 - [Baik pulih ruang kerja](./Kertas%20Kerja%20Ruang%20Terbuka%20UTMDigital.pdf)
   - [Infografik ruang kerja](./Inforgraphic%20DDA%202020.pdf)
+  - [Proposal renovasi](./RENOVATION%20PROPOSAL%20CICT%20UTM.pdf)
 - [Latihan Pembangunan Aplikasi](./UTMSmart%20Slide%20Completed.pptx)
 - [Pembelian Kerteta Jabatan: 2 biji kereta X70 & 1 biji kereta Toyota Innova](./Kereta%20X70.jpeg)
 - [Team building Staf 2019](https://people.utm.my/harliza/2019/12/30/team-building-2019/)
