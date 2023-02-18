@@ -29,6 +29,18 @@ Don't forget to hit the :star: if you like this repo.
 - [Tajaan banner Trend Micro](./entrance.pdf)
 - [Penajaan aplikasi - EXA Shuttle System](./Estimate_UTM_20180424_01_2018-05-24.pdf)
 
+# Penjanaan Kewangan
+- Sistem Pengurusan Maklumat Bersepadu (SPMB), Akademi Pencegahan Rasuah Malaysia - RM 2,639,400
+- Projek Analitik Data, Kementerian Pendidikan Tinggi - RM 997,460	
+- Key PerfoRMance Indicator (KPI) Dashboard  For Universiti Tun Hussein Onn Malaysia - RM 159,321
+- Projek Penyelenggaraan E-IPTS 1.0 - RM 249,480
+- Projek Perkhidmatan Sistem Pengurusan Penjualan Nombor Plat Eksklusif Universiti Utara Malaysia - RM 150,000
+- Perkhidmatan Pengurusan Kandungan Aplikasi Mudah Alih Jabatan Perikanan Malaysia: MyDOF – RM 20,000
+- Perkhidmatan Naik Taraf PlatfoRM E-Learning Di Bawah Pakej Ransangan Ekonomi (PRE) Bagi Tahun 2020 untuk Kegunaan Pusat Pembangunan Akademik Universiti Pertahanan Nasional Malaysia (UPNM). RM 47,000
+- Kajian Keperluan Pengguna Dan Spesifikasi Keperluan Teknikal Sistem E-IPTS 2.0. RM 50,000
+- Pembangunan PlatfoRM Mooc Berasaskan Moodle bagi Universiti Pertahanan Nasional Malaysia (UPNM). RM 48,000
+
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-material/issues) for any improvements, suggestions or errors in the content.
 
