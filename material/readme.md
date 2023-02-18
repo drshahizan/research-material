@@ -30,9 +30,13 @@ paper and navigating the peer review process](https://drive.google.com/file/d/15
 - [Awesome CS-Ja PhD Life](https://github.com/Kei18/awesome_cs-ja_phd_life)
 - [Collection of advice for prospective and current PhD students](https://github.com/pliang279/awesome-phd-advice)
 
-# Others
+# Research Gap
 - [Four types of research gaps (with examples)](https://youtu.be/AKKyeOJkv-c)
 - [How To Find The Research Gap FAST (Updated For 2023)](https://youtu.be/dJA2sXXTTVo)
+- [Find the research gap just by reading one manuscript](https://youtu.be/lzIx6Z1hfQc)
+- [How to Identify Research Gaps? How to Start Research? Findings the Right Research Topic](https://youtu.be/vqdq63EoIZ0)
+- [How to Identify a Research Gap? (See link below for our video on "How to Write a Thesis Proposal?")](https://youtu.be/vBJhYYsw5gA)
+
 
 # The top list of academic research databases
 Whether you are writing a thesis, dissertation, or research paper it is a key task to survey prior literature and research findings. More likely than not, you will be looking for trusted resources, most likely peer-reviewed research articles. Academic research databases make it easy to locate the literature you are looking for. We have compiled the top list of trusted academic resources to help you get started with your research:
