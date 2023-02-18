@@ -36,7 +36,9 @@ In PRISMA 2020, there are now expanded options depending on where you search and
 - [Research and Writing, Dr Lyndon Walker](https://youtube.com/playlist?list=PL4Brb3wh2n0w2ucHQmmSZtY8SuwBifzuw)
 - [The Most Useful PhD Apps / Software That You Haven't Heard Of | Essential PhD Student Tools](https://youtu.be/thp8tovZtzY)
 
-## <img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"> ChatGPT 
+## <img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"> ChatGPT
+ChatGPT (Chat Generative Pre-trained Transformer) is a chatbot developed by OpenAI and launched in November 2022. It is built on top of OpenAI's GPT-3 family of large language models and has been fine-tuned (an approach to transfer learning) using both supervised and reinforcement learning techniques.
+
 - [ChatGPT Tutorial: Write a systematic review under 1 hour](https://youtu.be/RgzBIQfi1nI)
 - [Using ChatGPT for writing in research](https://youtu.be/tEdM9e_ycFU)
 - [Using ChatGPT to analyze data and write report](https://youtu.be/EI7Anh79oa0)
