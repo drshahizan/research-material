@@ -31,6 +31,7 @@ In PRISMA 2020, there are now expanded options depending on where you search and
 # Awesome tools for systematic review
 - [ChatGPT, LEX A.I, ELICIT: These AI tools will make literature review and research fast](https://youtu.be/mAsI_yDUIZk)
 - [AI for scientific work [Galactica, Explain Paper, Elicit]](https://youtu.be/v-E7xLi_-mk)
+- [Exploring AI Research Tools (ChatGPT, Elicit, SciSpace)](https://youtu.be/Jz-mW3azUMw)
 - [Research and Writing, Dr Lyndon Walker](https://youtube.com/playlist?list=PL4Brb3wh2n0w2ucHQmmSZtY8SuwBifzuw)
 
 ## <img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"> ChatGPT 
