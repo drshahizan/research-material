@@ -39,6 +39,7 @@ In PRISMA 2020, there are now expanded options depending on where you search and
 - [Synthesis table for literature reviews](https://youtu.be/WG6uKQjOhaU)
 - [Creating a research proposal using ChatGPT in 5 minutes. Results checked for plagiarism later](https://youtu.be/dPIkvjFnTkw)
 - [How ChatGPT Can Improve Your Writing: A Hands-On Demonstration](https://youtu.be/lSpT87IdFoE)
+- [Writing Research paper by chat gpt | Elicit| AI Tool for Paper writing](https://youtu.be/mAsI_yDUIZk)
 
 
 ## [VOSviewer - Visualizing scientific landscapes](https://www.vosviewer.com/)
