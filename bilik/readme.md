@@ -11,6 +11,8 @@ Don't forget to hit the :star: if you like this repo.
 # Penajaan bilik
 
 ## Bilik Ideation Space TM-Huawei
+- [Surat niat](./�Untitled.pdf)
+- [Proposal bilik](./IdeationSpace_UTM.pdf)
 - [Pelan perabot](./3d%20drawing)
 - [Pemasangan alatan](./Bilik%20Penajaan%20TM.pdf)
 
