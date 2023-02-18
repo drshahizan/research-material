@@ -1,4 +1,13 @@
-## PhD students — Do this and 90% of your PhD problems will disappear.
+<a href="https://github.com/drshahizan/research-material/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/research-material" alt="Stars Badge"/></a>
+<a href="https://github.com/drshahizan/research-material/network/members"><img src="https://img.shields.io/github/forks/drshahizan/research-material" alt="Forks Badge"/></a>
+<a href="https://github.com/drshahizan/research-material/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/research-material" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/drshahizan/research-material/issues"><img src="https://img.shields.io/github/issues/drshahizan/research-material" alt="Issues Badge"/></a>
+<a href="https://github.com/drshahizan/research-material/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/research-material?color=2b9348"></a>
+![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/research-material)
+
+Don't forget to hit the :star: if you like this repo.
+
+## PhD students — Do this and 90% of your PhD problems will disappear
 
 𝟏. 𝐓𝐡𝐞𝐫𝐞 𝐢𝐬 𝐧𝐨 𝐚𝐥𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐯𝐞 𝐭𝐨 𝐡𝐚𝐫𝐝 𝐰𝐨𝐫𝐤: When you put your blood and sweat into it, you will be rewarded. The same goes true for PhD. Hard work always pays off. It's not easy but it's worth it - this you will find out after successfully completing a solid PhD.
 
