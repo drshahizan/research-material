@@ -48,6 +48,8 @@ In PRISMA 2020, there are now expanded options depending on where you search and
 - [How to write Introduction part of your Research Paper using chat GPT & QuillBot| Without Plagarism](https://youtu.be/mAsI_yDUIZk)
 
 ## <img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"> Elicit.org
+Elicit is a research assistant using language models like GPT-3 to automate parts of researchers’ workflows. Currently, the main workflow in Elicit is Literature Review. If you ask a question, Elicit will show relevant papers and summaries of key information about those papers in an easy-to-use table.
+
 - [How to Use AI for Research: Elicit.org for writing a literature review](https://youtu.be/Oy2myE76ZfY)
 - [Writing Research paper by chat gpt | Elicit| AI Tool for Paper writing](https://youtu.be/mAsI_yDUIZk)
 - [Write a Research Proposal in 2 Days with Elicit](https://youtu.be/YO9UiBWx6jw)
