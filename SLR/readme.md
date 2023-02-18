@@ -47,6 +47,7 @@ In PRISMA 2020, there are now expanded options depending on where you search and
 ## <img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"> Elicit.org
 - [How to Use AI for Research: Elicit.org for writing a literature review](https://youtu.be/Oy2myE76ZfY)
 - [Writing Research paper by chat gpt | Elicit| AI Tool for Paper writing](https://youtu.be/mAsI_yDUIZk)
+- [Write a Research Proposal in 2 Days with Elicit](https://youtu.be/YO9UiBWx6jw)
 
 ## <img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"> Lex.AI 
 - [Use LEX A.I. to write amazing literature reviews, fast and easy!](https://youtu.be/OVyvOuMojzQ)
