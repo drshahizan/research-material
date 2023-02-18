@@ -32,6 +32,7 @@ In PRISMA 2020, there are now expanded options depending on where you search and
 - [ChatGPT, LEX A.I, ELICIT: These AI tools will make literature review and research fast](https://youtu.be/mAsI_yDUIZk)
 - [AI for scientific work [Galactica, Explain Paper, Elicit]](https://youtu.be/v-E7xLi_-mk)
 - [Exploring AI Research Tools (ChatGPT, Elicit, SciSpace)](https://youtu.be/Jz-mW3azUMw)
+- [10 Top Free Software and Apps for Graduate Students in 2023 || Use software to be more efficient!](https://youtu.be/uYUNzvwTkhs)
 - [Research and Writing, Dr Lyndon Walker](https://youtube.com/playlist?list=PL4Brb3wh2n0w2ucHQmmSZtY8SuwBifzuw)
 - [The Most Useful PhD Apps / Software That You Haven't Heard Of | Essential PhD Student Tools](https://youtu.be/thp8tovZtzY)
 
