@@ -40,6 +40,10 @@ In PRISMA 2020, there are now expanded options depending on where you search and
 - [Creating a research proposal using ChatGPT in 5 minutes. Results checked for plagiarism later](https://youtu.be/dPIkvjFnTkw)
 - [How ChatGPT Can Improve Your Writing: A Hands-On Demonstration](https://youtu.be/lSpT87IdFoE)
 - [How to write Introduction part of your Research Paper using chat GPT & QuillBot| Without Plagarism](https://youtu.be/mAsI_yDUIZk)
+
+## <img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"> Elicit.org and systematic review
+- [ChatGPT, LEX A.I, ELICIT: These AI tools will make literature review and research fast](https://youtu.be/mAsI_yDUIZk)
+- [How to Use AI for Research: Elicit.org for writing a literature review](https://youtu.be/Oy2myE76ZfY)
 - [Writing Research paper by chat gpt | Elicit| AI Tool for Paper writing](https://youtu.be/mAsI_yDUIZk)
 
 ## [VOSviewer - Visualizing scientific landscapes](https://www.vosviewer.com/)
