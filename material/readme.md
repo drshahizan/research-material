@@ -19,6 +19,7 @@ paper and navigating the peer review process](https://drive.google.com/file/d/15
 8. [Research impact: A guide to creating, capturing, and evaluating the impact of your research](https://drive.google.com/file/d/1iuUjimPzo8KePTl6wJDoB2crBYFYfmGe/view?usp=share_link)
 9. [Choosing the right journal for your research: A comprehensive guide for researchers](https://drive.google.com/file/d/1agG6Yw3fPbaw1nstjOBvtv2o6dTWqYJo/view?usp=share_link)
 10. [The Three-Pass Method: The Most Efficient Way to Read Research Papers](./read-research-paper.md)
+11. [PhD students — Do this and 90% of your PhD problems will disappear](./motivation.md)
 
 
 # Awesome thesis
