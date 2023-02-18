@@ -33,6 +33,7 @@ In PRISMA 2020, there are now expanded options depending on where you search and
 - [AI for scientific work [Galactica, Explain Paper, Elicit]](https://youtu.be/v-E7xLi_-mk)
 - [Exploring AI Research Tools (ChatGPT, Elicit, SciSpace)](https://youtu.be/Jz-mW3azUMw)
 - [Research and Writing, Dr Lyndon Walker](https://youtube.com/playlist?list=PL4Brb3wh2n0w2ucHQmmSZtY8SuwBifzuw)
+- [The Most Useful PhD Apps / Software That You Haven't Heard Of | Essential PhD Student Tools](https://youtu.be/thp8tovZtzY)
 
 ## <img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"> ChatGPT 
 - [ChatGPT Tutorial: Write a systematic review under 1 hour](https://youtu.be/RgzBIQfi1nI)
