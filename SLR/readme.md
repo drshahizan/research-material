@@ -28,7 +28,10 @@ In PRISMA 2020, there are now expanded options depending on where you search and
 
 [More info: Creating a PRISMA flow diagram](https://guides.lib.unc.edu/prisma)
 
-## <img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"> ChatGPT and systematic review
+# Awesome tools for systematic review
+- [ChatGPT, LEX A.I, ELICIT: These AI tools will make literature review and research fast](https://youtu.be/mAsI_yDUIZk)
+
+## <img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"> ChatGPT 
 - [ChatGPT Tutorial: Write a systematic review under 1 hour](https://youtu.be/RgzBIQfi1nI)
 - [Using ChatGPT for writing in research](https://youtu.be/tEdM9e_ycFU)
 - [Using ChatGPT to analyze data and write report](https://youtu.be/EI7Anh79oa0)
@@ -41,10 +44,12 @@ In PRISMA 2020, there are now expanded options depending on where you search and
 - [How ChatGPT Can Improve Your Writing: A Hands-On Demonstration](https://youtu.be/lSpT87IdFoE)
 - [How to write Introduction part of your Research Paper using chat GPT & QuillBot| Without Plagarism](https://youtu.be/mAsI_yDUIZk)
 
-## <img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"> Elicit.org and systematic review
-- [ChatGPT, LEX A.I, ELICIT: These AI tools will make literature review and research fast](https://youtu.be/mAsI_yDUIZk)
+## <img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"> Elicit.org
 - [How to Use AI for Research: Elicit.org for writing a literature review](https://youtu.be/Oy2myE76ZfY)
 - [Writing Research paper by chat gpt | Elicit| AI Tool for Paper writing](https://youtu.be/mAsI_yDUIZk)
+
+## <img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"> Lex.AI 
+- [Use LEX A.I. to write amazing literature reviews, fast and easy!](https://youtu.be/OVyvOuMojzQ)
 
 ## [VOSviewer - Visualizing scientific landscapes](https://www.vosviewer.com/)
 VOSviewer is a software tool for constructing and visualizing bibliometric networks. These networks may for instance include journals, researchers, or individual publications, and they can be constructed based on citation, bibliographic coupling, co-citation, or co-authorship relations. VOSviewer also offers text mining functionality that can be used to construct and visualize co-occurrence networks of important terms extracted from a body of scientific literature.
