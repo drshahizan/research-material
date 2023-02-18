@@ -13,17 +13,6 @@ Regular literature reviews are simply summaries of the literature on a particula
 
 Other types of what are known as "evidence syntheses," such as scoping, rapid, and integrative reviews, have varying methodologies. While systematic reviews originated with and continue to be a popular publication type in medicine and other health sciences fields, more and more researchers in other disciplines are choosing to conduct evidence syntheses. 
 
-- [ChatGPT Tutorial: Write a systematic review under 1 hour](https://youtu.be/RgzBIQfi1nI)
-- [Using ChatGPT for writing in research](https://youtu.be/tEdM9e_ycFU)
-- [Using ChatGPT to analyze data and write report](https://youtu.be/EI7Anh79oa0)
-- [Can ChatGPT Write Your Next Scientific Paper?](https://youtu.be/wnGPt030IG4)
-- [Using ChatGPT to Generate and Export Data for Analysis](https://youtu.be/kcehSSwGABE)
-- [Watch Now and See if ChatGPT Can Write a Scientific Literature Review!](https://youtu.be/B9m-aV51Xdo)
-- [Computer Science: Systematic Reviews](https://guides.library.unr.edu/c.php?g=51145&p=7853775#:~:text=A%20systematic%20review%2C%20however%2C%20is,unbiased%20and%20well%2Ddocumented%20manner.)
-- [Synthesis table for literature reviews](https://youtu.be/WG6uKQjOhaU)
-- [Creating a research proposal using ChatGPT in 5 minutes. Results checked for plagiarism later](https://youtu.be/dPIkvjFnTkw)
-- [How ChatGPT Can Improve Your Writing: A Hands-On Demonstration](https://youtu.be/lSpT87IdFoE)
-
 ## Which PRISMA 2020 Flow Diagram should I use?
 In PRISMA 2020, there are now expanded options depending on where you search and whether you are updating a review. Version 1 of PRISMA 2020 includes databases and clinical trial or preprint registers.  Version 2 includes additional sections for elaborating on your grey literature search, such as searches on websites or in citation lists.  Both versions are available for new and updated reviews from the Equator Network's PRISMA Flow Diagram page.
 
@@ -38,6 +27,18 @@ In PRISMA 2020, there are now expanded options depending on where you search and
 | PRISMA 2020 Explanation and Elaboration | <a href="./PRISMA_2020_checklist.docx" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a> |
 
 [More info: Creating a PRISMA flow diagram](https://guides.lib.unc.edu/prisma)
+
+## ChatGPT and systematic review
+- [ChatGPT Tutorial: Write a systematic review under 1 hour](https://youtu.be/RgzBIQfi1nI)
+- [Using ChatGPT for writing in research](https://youtu.be/tEdM9e_ycFU)
+- [Using ChatGPT to analyze data and write report](https://youtu.be/EI7Anh79oa0)
+- [Can ChatGPT Write Your Next Scientific Paper?](https://youtu.be/wnGPt030IG4)
+- [Using ChatGPT to Generate and Export Data for Analysis](https://youtu.be/kcehSSwGABE)
+- [Watch Now and See if ChatGPT Can Write a Scientific Literature Review!](https://youtu.be/B9m-aV51Xdo)
+- [Computer Science: Systematic Reviews](https://guides.library.unr.edu/c.php?g=51145&p=7853775#:~:text=A%20systematic%20review%2C%20however%2C%20is,unbiased%20and%20well%2Ddocumented%20manner.)
+- [Synthesis table for literature reviews](https://youtu.be/WG6uKQjOhaU)
+- [Creating a research proposal using ChatGPT in 5 minutes. Results checked for plagiarism later](https://youtu.be/dPIkvjFnTkw)
+- [How ChatGPT Can Improve Your Writing: A Hands-On Demonstration](https://youtu.be/lSpT87IdFoE)
 
 
 ## [VOSviewer - Visualizing scientific landscapes](https://www.vosviewer.com/)
