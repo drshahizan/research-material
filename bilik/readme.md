@@ -10,9 +10,9 @@ Don't forget to hit the :star: if you like this repo.
 
 # Penajaan bilik
 
-## Bilik Ideation TM-Huawei
-- [Pelan perabot](./3d drawing.pdf)
-
+## Bilik Ideation Space TM-Huawei
+- [Pelan perabot](./3d%20drawing)
+- [Pemasangan alatan](./Bilik%20Penajaan%20TM.pdf)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-material/issues) for any improvements, suggestions or errors in the content.
