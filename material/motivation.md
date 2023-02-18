@@ -26,3 +26,10 @@ Don't forget to hit the :star: if you like this repo.
 8. 𝐔𝐭𝐢𝐥𝐢𝐳𝐞 𝐲𝐨𝐮𝐫 𝐬𝐮𝐩𝐞𝐫𝐯𝐢𝐬𝐨𝐫𝐬 𝐭𝐨 𝐭𝐡𝐞 𝐦𝐚𝐱: Seek concrete feedback from your supervisors. Learn how they modify your paper draft or slides. Ask explicit questions - should I use method X or Y for data analysis and why?
 
 9. 𝐏𝐡𝐃 𝐢𝐬 𝐩𝐚𝐫𝐭 𝐨𝐟 𝐲𝐨𝐮𝐫 𝐥𝐢𝐟𝐞, 𝐧𝐨𝐭 𝐲𝐨𝐮𝐫 𝐞𝐧𝐭𝐢𝐫𝐞 𝐥𝐢𝐟𝐞: Don't overburden yourself with PhD activities. Keep a good balance. If you are happy and healthy, it will contribute to your PhD too. So, be happy and make others around you feel the same.
+
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/research-material/issues) for any improvements, suggestions or errors in the content.
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+
+![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
