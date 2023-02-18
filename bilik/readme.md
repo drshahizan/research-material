@@ -22,6 +22,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Bilik penajaan HP](./Bilik%20Penajaan%20HP.pdf)
 
 ## Lain-lain
+- [Pelan Lantai aras 1](./new%20plan.pdf)
 - [Sumbangan santapan di raja - Huawei](./SUMBANGAN%20UNTUK%20MAJLIS%20SANTAPAN%20DIRAJA%20UNIVERSITI%20TEKNOLOGI%20MALAYSIA%20(UTM).pdf)
 - [Surat tajaan - Radmik](./Surat%20Tajaan%20-%20Draf.pdf)
 - [Surat tajaan - Aruba](./8822%20ARUBA%20Interactive%20Room.pdf)
