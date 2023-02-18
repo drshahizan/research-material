@@ -39,8 +39,8 @@ In PRISMA 2020, there are now expanded options depending on where you search and
 - [Synthesis table for literature reviews](https://youtu.be/WG6uKQjOhaU)
 - [Creating a research proposal using ChatGPT in 5 minutes. Results checked for plagiarism later](https://youtu.be/dPIkvjFnTkw)
 - [How ChatGPT Can Improve Your Writing: A Hands-On Demonstration](https://youtu.be/lSpT87IdFoE)
+- [How to write Introduction part of your Research Paper using chat GPT & QuillBot| Without Plagarism](https://youtu.be/mAsI_yDUIZk)
 - [Writing Research paper by chat gpt | Elicit| AI Tool for Paper writing](https://youtu.be/mAsI_yDUIZk)
-
 
 ## [VOSviewer - Visualizing scientific landscapes](https://www.vosviewer.com/)
 VOSviewer is a software tool for constructing and visualizing bibliometric networks. These networks may for instance include journals, researchers, or individual publications, and they can be constructed based on citation, bibliographic coupling, co-citation, or co-authorship relations. VOSviewer also offers text mining functionality that can be used to construct and visualize co-occurrence networks of important terms extracted from a body of scientific literature.
