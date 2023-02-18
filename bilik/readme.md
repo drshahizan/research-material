@@ -17,6 +17,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Pemasangan alatan](./Bilik%20Penajaan%20TM.pdf)
 
 ## Bilik HP
+- [Surat sumbangan bilik](./Surat%20Sumbangan%20UTM.pdf)
 - [Lukisan 3D](./HP%20%40%20JB_R1B.pdf)
 - [Bilik penajaan HP](./Bilik%20Penajaan%20HP.pdf)
 
@@ -24,7 +25,6 @@ Don't forget to hit the :star: if you like this repo.
 - [Sumbangan santapan di raja - Huawei](./SUMBANGAN%20UNTUK%20MAJLIS%20SANTAPAN%20DIRAJA%20UNIVERSITI%20TEKNOLOGI%20MALAYSIA%20(UTM).pdf)
 - [Surat tajaan - Radmik](./Surat%20Tajaan%20-%20Draf.pdf)
 - [Tajaan banner Trend Micro](./entrance.pdf)
-- 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-material/issues) for any improvements, suggestions or errors in the content.
