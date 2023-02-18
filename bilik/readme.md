@@ -9,7 +9,8 @@ Don't forget to hit the :star: if you like this repo.
 
 
 # Penajaan Bilik
-
+- [Kertas kerja Pemberian Sumbangan Endowmen Bagi Penajaan Ruang](Kertas%20Kerja%20Pemberian%20Sumbangan%20Endowmen%20Bagi%20Penajaan%20Ruang.pdf)
+ 
 ## Bilik Ideation Space TM-Huawei
 - [Surat niat](./�Untitled.pdf)
 - [Proposal bilik](./IdeationSpace_UTM.pdf)
@@ -44,7 +45,7 @@ Don't forget to hit the :star: if you like this repo.
 - Pembangunan PlatfoRM Mooc Berasaskan Moodle bagi Universiti Pertahanan Nasional Malaysia (UPNM). RM 48,000
 
 # Penggunaan Sumber Penjanaan
-- [Penjanamaan semula CICT](./KERTAS%20KERJA%20CADANGAN%20PENJENAMAAN%20SEMULA%20NAMA%20CICT.pdf)
+- [Penjenamaan semula CICT](./KERTAS%20KERJA%20CADANGAN%20PENJENAMAAN%20SEMULA%20NAMA%20CICT.pdf)
 - [Baik pulih ruang kerja](./Kertas%20Kerja%20Ruang%20Terbuka%20UTMDigital.pdf)
   - [Infografik ruang kerja](./Inforgraphic%20DDA%202020.pdf)
   - [Proposal renovasi](./RENOVATION%20PROPOSAL%20CICT%20UTM.pdf)
