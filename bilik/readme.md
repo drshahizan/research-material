@@ -41,6 +41,11 @@ Don't forget to hit the :star: if you like this repo.
 - Kajian Keperluan Pengguna Dan Spesifikasi Keperluan Teknikal Sistem E-IPTS 2.0. RM 50,000
 - Pembangunan PlatfoRM Mooc Berasaskan Moodle bagi Universiti Pertahanan Nasional Malaysia (UPNM). RM 48,000
 
+# Penggunaan Sumber Penjanaan
+- [Pembelian Kerteta Jabatan: 2 biji kereta X70 & 1 biji kereta Toyota Innova]()
+
+- [Team building Staf 2019](https://people.utm.my/harliza/2019/12/30/team-building-2019/)
+- [Team building Staf 2018](https://people.utm.my/njannah/2018/team-building-cict-2018)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-material/issues) for any improvements, suggestions or errors in the content.
