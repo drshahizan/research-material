@@ -32,6 +32,7 @@ paper and navigating the peer review process](https://drive.google.com/file/d/15
 
 # Research Gap
 - [Four types of research gaps (with examples)](https://youtu.be/AKKyeOJkv-c)
+- [How to identify a research gap EASILY [Sanity-saving tools]](https://youtu.be/Mvj1Q5WoGb8)
 - [How To Find The Research Gap FAST (Updated For 2023)](https://youtu.be/dJA2sXXTTVo)
 - [Find the research gap just by reading one manuscript](https://youtu.be/lzIx6Z1hfQc)
 - [How to Identify Research Gaps? How to Start Research? Findings the Right Research Topic](https://youtu.be/vqdq63EoIZ0)
