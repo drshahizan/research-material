@@ -58,6 +58,7 @@ Elicit is a research assistant using language models like GPT-3 to automate part
 - [SciSpace](https://typeset.io/)
 - [Introducing SciSpace](https://youtu.be/-pnbXQufCro)
 - [Best AI Research Assistant: CoPilot from SciSpace](https://youtu.be/GVh3p-8Pae8)
+- [SciSpace Copilot — Your AI Assistant for reading and understanding research papers](https://www.youtube.com/live/3yqT-zREgjA?feature=share)
 
 ## <img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"> Lex.AI 
 - [Use LEX A.I. to write amazing literature reviews, fast and easy!](https://youtu.be/OVyvOuMojzQ)
