@@ -29,6 +29,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Surat tajaan - Radmik](./Surat%20Tajaan%20-%20Draf.pdf)
 - [Surat tajaan - Aruba](./8822%20ARUBA%20Interactive%20Room.pdf)
 - [Tajaan banner Trend Micro](./entrance.pdf)
+- [Bilik TRend Micro](./Bilik%20Trend%20Micro.pdf)
 - [Penajaan aplikasi - EXA Shuttle System](./Estimate_UTM_20180424_01_2018-05-24.pdf)
 
 # Penjanaan Kewangan
