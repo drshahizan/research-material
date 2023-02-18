@@ -57,6 +57,7 @@ Elicit is a research assistant using language models like GPT-3 to automate part
 - [Write a Research Proposal in 2 Days with Elicit](https://youtu.be/YO9UiBWx6jw)
 
 ## <img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"> SciSpace
+SciSpace is the easiest way to find, understand, and learn any research paper. For every paper you read, get simple explanations and answers from AI and discover a network of connected and relevant papers — all in one place.
 - [SciSpace](https://typeset.io/)
 - [Introducing SciSpace](https://youtu.be/-pnbXQufCro)
 - [Best AI Research Assistant: CoPilot from SciSpace](https://youtu.be/GVh3p-8Pae8)
