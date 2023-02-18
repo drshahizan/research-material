@@ -46,7 +46,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Baik pulih ruang kerja](./Kertas%20Kerja%20Ruang%20Terbuka%20UTMDigital.pdf)
   - [Infografik ruang kerja](./Inforgraphic%20DDA%202020.pdf)
 - [Latihan Pembangunan Aplikasi](./UTMSmart%20Slide%20Completed.pptx)
-- [Pembelian Kerteta Jabatan: 2 biji kereta X70 & 1 biji kereta Toyota Innova]./(Kereta%20X70.jpeg)
+- [Pembelian Kerteta Jabatan: 2 biji kereta X70 & 1 biji kereta Toyota Innova](./Kereta%20X70.jpeg)
 - [Team building Staf 2019](https://people.utm.my/harliza/2019/12/30/team-building-2019/)
 - [Team building Staf 2018](https://people.utm.my/njannah/2018/team-building-cict-2018)
 
