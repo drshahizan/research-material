@@ -62,6 +62,9 @@ Elicit is a research assistant using language models like GPT-3 to automate part
 ## <img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"> Lex.AI 
 - [Use LEX A.I. to write amazing literature reviews, fast and easy!](https://youtu.be/OVyvOuMojzQ)
 
+### Google Scholar and Zotero
+- [How to Find Review Articles and Organize them with Google Scholar and Zotero](https://youtu.be/4_9ltNgVkfE)
+
 ## [VOSviewer - Visualizing scientific landscapes](https://www.vosviewer.com/)
 VOSviewer is a software tool for constructing and visualizing bibliometric networks. These networks may for instance include journals, researchers, or individual publications, and they can be constructed based on citation, bibliographic coupling, co-citation, or co-authorship relations. VOSviewer also offers text mining functionality that can be used to construct and visualize co-occurrence networks of important terms extracted from a body of scientific literature.
 - [Youtube: Introduction to VOSviewer](https://youtu.be/9dTWkNRxUtw)
@@ -69,10 +72,6 @@ VOSviewer is a software tool for constructing and visualizing bibliometric netwo
 - [Getting Started](https://www.vosviewer.com/getting-started)
 - [VOSviewer Online](https://app.vosviewer.com/)
 - [Features - Examples](https://www.vosviewer.com/features/examples)
-
-### Google Scholar and Zotero
-- [How to Find Review Articles and Organize them with Google Scholar and Zotero](https://youtu.be/4_9ltNgVkfE)
-
 
 ### Obtaining Content from Databases
 #### Scopus
