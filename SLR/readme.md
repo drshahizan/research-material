@@ -28,7 +28,7 @@ In PRISMA 2020, there are now expanded options depending on where you search and
 
 [More info: Creating a PRISMA flow diagram](https://guides.lib.unc.edu/prisma)
 
-##![image](https://user-images.githubusercontent.com/81284918/219847265-bc77e09a-6352-4fdc-8484-cc3671962b08.png) ChatGPT and systematic review
+## <img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"> ChatGPT and systematic review
 - [ChatGPT Tutorial: Write a systematic review under 1 hour](https://youtu.be/RgzBIQfi1nI)
 - [Using ChatGPT for writing in research](https://youtu.be/tEdM9e_ycFU)
 - [Using ChatGPT to analyze data and write report](https://youtu.be/EI7Anh79oa0)
