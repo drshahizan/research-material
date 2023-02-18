@@ -62,7 +62,7 @@ Elicit is a research assistant using language models like GPT-3 to automate part
 ## <img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube"> Lex.AI 
 - [Use LEX A.I. to write amazing literature reviews, fast and easy!](https://youtu.be/OVyvOuMojzQ)
 
-### Google Scholar and Zotero
+### <img src="https://cdn3.emoji.gg/emojis/YouTube.png" width="24px" height="24px" alt="YouTube">Google Scholar and Zotero
 - [How to Find Review Articles and Organize them with Google Scholar and Zotero](https://youtu.be/4_9ltNgVkfE)
 
 ## [VOSviewer - Visualizing scientific landscapes](https://www.vosviewer.com/)
