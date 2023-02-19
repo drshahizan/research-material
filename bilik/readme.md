@@ -38,9 +38,9 @@ Don't forget to hit the :star: if you like this repo.
 - Projek Penyelenggaraan E-IPTS 1.0 - RM 249,480
 - Projek Perkhidmatan Sistem Pengurusan Penjualan Nombor Plat Eksklusif Universiti Utara Malaysia - RM 150,000
 - Perkhidmatan Pengurusan Kandungan Aplikasi Mudah Alih Jabatan Perikanan Malaysia: MyDOF – RM 20,000
-- Perkhidmatan Naik Taraf PlatfoRM E-Learning Di Bawah Pakej Ransangan Ekonomi (PRE) Bagi Tahun 2020 untuk Kegunaan Pusat Pembangunan Akademik Universiti Pertahanan Nasional Malaysia (UPNM). RM 47,000
+- Perkhidmatan Naik Taraf Platform E-Learning Di Bawah Pakej Ransangan Ekonomi (PRE) Bagi Tahun 2020 untuk Kegunaan Pusat Pembangunan Akademik Universiti Pertahanan Nasional Malaysia (UPNM). RM 47,000
 - Kajian Keperluan Pengguna Dan Spesifikasi Keperluan Teknikal Sistem E-IPTS 2.0. RM 50,000
-- Pembangunan PlatfoRM Mooc Berasaskan Moodle bagi Universiti Pertahanan Nasional Malaysia (UPNM). RM 48,000
+- Pembangunan Platform MOOC Berasaskan Moodle bagi Universiti Pertahanan Nasional Malaysia (UPNM). RM 48,000
 
 # Penggunaan Sumber Penjanaan
 - Penjenamaan semula CICT
