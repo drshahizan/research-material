@@ -9,29 +9,29 @@ Don't forget to hit the :star: if you like this repo.
 
 
 # Penajaan Bilik
-- [Kertas kerja Pemberian Sumbangan Endowmen Bagi Penajaan Ruang](Kertas%20Kerja%20Pemberian%20Sumbangan%20Endowmen%20Bagi%20Penajaan%20Ruang.pdf)
+- Kertas kerja Pemberian Sumbangan Endowmen Bagi Penajaan Ruang
  
 ## Bilik Ideation Space TM-Huawei
-- [Surat niat](./�Untitled.pdf)
+- Surat niat
 - [Proposal bilik](./IdeationSpace_UTM.pdf)
 - [Pelan perabot](./3d%20drawing)
 - [Material board](./MATERIAL%20BOARD%20TM.pdf)
 - [Pemasangan alatan](./Bilik%20Penajaan%20TM.pdf)
 
 ## Bilik HP
-- [Surat sumbangan bilik](./Surat%20Sumbangan%20UTM.pdf)
+- Surat sumbangan bilik
 - [Pelan Lantai aras 1](./new%20plan.pdf)
 - [Lukisan 3D](./HP%20%40%20JB_R1B.pdf)
 - [Bilik penajaan HP](./Bilik%20Penajaan%20HP.pdf)
 
 ## Lain-lain
-- [Sumbangan santapan di raja - Huawei](./SUMBANGAN%20UNTUK%20MAJLIS%20SANTAPAN%20DIRAJA%20UNIVERSITI%20TEKNOLOGI%20MALAYSIA%20(UTM).pdf)
+- Sumbangan santapan di raja - Huawei
 - [Tajaan peralatan untuk smart classroom- Cisco](Smart%20Classroom-UTM-Cisco.pdf)
-- [Surat tajaan - Radmik](./Surat%20Tajaan%20-%20Draf.pdf)
-- [Surat tajaan - Aruba](./8822%20ARUBA%20Interactive%20Room.pdf)
-- [Tajaan banner Trend Micro](./entrance.pdf)
+- [Surat tajaan - Radmik
+- Surat tajaan - Aruba
+- Tajaan banner Trend Micro](./entrance.pdf)
 - [Bilik Trend Micro](./Bilik%20Trend%20Micro.pdf)
-- [Penajaan aplikasi - EXA Shuttle System](./Estimate_UTM_20180424_01_2018-05-24.pdf)
+- Penajaan aplikasi - EXA Shuttle System
 
 # Penjanaan Kewangan
 - Sistem Pengurusan Maklumat Bersepadu (SPMB), Akademi Pencegahan Rasuah Malaysia - RM 2,639,400
@@ -45,8 +45,8 @@ Don't forget to hit the :star: if you like this repo.
 - Pembangunan PlatfoRM Mooc Berasaskan Moodle bagi Universiti Pertahanan Nasional Malaysia (UPNM). RM 48,000
 
 # Penggunaan Sumber Penjanaan
-- [Penjenamaan semula CICT](./KERTAS%20KERJA%20CADANGAN%20PENJENAMAAN%20SEMULA%20NAMA%20CICT.pdf)
-- [Baik pulih ruang kerja](./Kertas%20Kerja%20Ruang%20Terbuka%20UTMDigital.pdf)
+- Penjenamaan semula CICT
+- Baik pulih ruang kerja
   - [Infografik ruang kerja](./Inforgraphic%20DDA%202020.pdf)
   - [Proposal renovasi](./RENOVATION%20PROPOSAL%20CICT%20UTM.pdf)
 - [Latihan Pembangunan Aplikasi](./UTMSmart%20Slide%20Completed.pptx)
