@@ -13,7 +13,7 @@ Don't forget to hit the :star: if you like this repo.
 ## Bilik Ideation Space TM-Huawei
 - Surat niat
 - [Proposal bilik](./IdeationSpace_UTM.pdf)
-- [Pelan perabot](./3d%20drawing)
+- [Pelan perabot](./3d%20drawing.pdf)
 - [Material board](./MATERIAL%20BOARD%20TM.pdf)
 - [Pemasangan alatan](./Bilik%20Penajaan%20TM.pdf)
 
