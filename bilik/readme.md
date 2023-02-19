@@ -7,7 +7,6 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-
 # Penajaan Bilik
 - Kertas kerja Pemberian Sumbangan Endowmen Bagi Penajaan Ruang
  
@@ -27,7 +26,7 @@ Don't forget to hit the :star: if you like this repo.
 ## Lain-lain
 - Sumbangan santapan di raja - Huawei
 - [Tajaan peralatan untuk smart classroom- Cisco](Smart%20Classroom-UTM-Cisco.pdf)
-- [Surat tajaan - Radmik
+- Surat tajaan - Radmik
 - Surat tajaan - Aruba
 - Tajaan banner Trend Micro](./entrance.pdf)
 - [Bilik Trend Micro](./Bilik%20Trend%20Micro.pdf)
