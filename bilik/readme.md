@@ -45,7 +45,7 @@ Don't forget to hit the :star: if you like this repo.
 # Penggunaan Sumber Penjanaan
 - Penjenamaan semula CICT
 - Baik pulih ruang kerja
-  - [Infografik ruang kerja](./Inforgraphic%20DDA%202020.pdf)
+  - Infografik ruang kerja
   - [Proposal renovasi](./RENOVATION%20PROPOSAL%20CICT%20UTM.pdf)
 - [Latihan Pembangunan Aplikasi](./UTMSmart%20Slide%20Completed.pptx)
 - Pembelian Kereta Jabatan: 2 biji kereta X70 & 1 biji kereta Toyota Innova
