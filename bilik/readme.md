@@ -48,7 +48,7 @@ Don't forget to hit the :star: if you like this repo.
   - [Infografik ruang kerja](./Inforgraphic%20DDA%202020.pdf)
   - [Proposal renovasi](./RENOVATION%20PROPOSAL%20CICT%20UTM.pdf)
 - [Latihan Pembangunan Aplikasi](./UTMSmart%20Slide%20Completed.pptx)
-- [Pembelian Kereta Jabatan: 2 biji kereta X70 & 1 biji kereta Toyota Innova](./Kereta%20X70.jpeg)
+- Pembelian Kereta Jabatan: 2 biji kereta X70 & 1 biji kereta Toyota Innova
 - [Team building Staf 2019](https://people.utm.my/harliza/2019/12/30/team-building-2019/)
 - [Team building Staf 2018](https://people.utm.my/njannah/2018/team-building-cict-2018)
 
