@@ -41,7 +41,7 @@ Don't forget to hit the :star: if you like this repo.
 - Pembangunan Platform MOOC Berasaskan Moodle bagi Universiti Pertahanan Nasional Malaysia (UPNM). RM 48,000
 
 # Penggunaan Sumber Penjanaan
-- Penjenamaan semula CICT
+- [Penjenamaan semula CICT](./KERTAS%20KERJA%20CADANGAN%20PENJENAMAAN%20SEMULA%20NAMA%20CICT.pdf)
 - [Baik pulih ruang kerja](./Kertas%20Kerja%20Ruang%20Terbuka%20UTMDigital.pdf)
   - [Infografik ruang kerja](./Inforgraphic%20DDA%202020.pdf)
   - [Proposal renovasi](./RENOVATION%20PROPOSAL%20CICT%20UTM.pdf)
