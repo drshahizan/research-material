@@ -17,7 +17,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Pemasangan alatan](./Bilik%20Penajaan%20TM.pdf)
 
 ## Bilik HP
-- Surat sumbangan bilik
+- [Surat sumbangan bilik](./Surat%20Sumbangan%20UTM.pdf)
 - [Pelan Lantai aras 1](./new%20plan.pdf)
 - [Lukisan 3D](./HP%20%40%20JB_R1B.pdf)
 - [Bilik penajaan HP](./Bilik%20Penajaan%20HP.pdf)
@@ -26,7 +26,7 @@ Don't forget to hit the :star: if you like this repo.
 - Sumbangan santapan di raja - Huawei
 - [Tajaan peralatan untuk smart classroom- Cisco](Smart%20Classroom-UTM-Cisco.pdf)
 - Surat tajaan - Radmik
-- Surat tajaan - Aruba
+- [Surat tajaan - Aruba](./sponsor.pdf)
 - Tajaan banner Trend Micro](./entrance.pdf)
 - [Bilik Trend Micro](./Bilik%20Trend%20Micro.pdf)
 - Penajaan aplikasi - EXA Shuttle System
@@ -45,7 +45,7 @@ Don't forget to hit the :star: if you like this repo.
 # Penggunaan Sumber Penjanaan
 - Penjenamaan semula CICT
 - Baik pulih ruang kerja
-  - Infografik ruang kerja
+  - [Infografik ruang kerja](./Inforgraphic%20DDA%202020.pdf)
   - [Proposal renovasi](./RENOVATION%20PROPOSAL%20CICT%20UTM.pdf)
 - [Latihan Pembangunan Aplikasi](./UTMSmart%20Slide%20Completed.pptx)
 - Pembelian Kereta Jabatan: 2 biji kereta X70 & 1 biji kereta Toyota Innova
