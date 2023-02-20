@@ -27,7 +27,6 @@ Don't forget to hit the :star: if you like this repo.
 - [Tajaan peralatan untuk smart classroom- Cisco](Smart%20Classroom-UTM-Cisco.pdf)
 - Surat tajaan - Radmik
 - [Surat tajaan - Aruba](./sponsor.pdf)
-- Tajaan banner Trend Micro](./entrance.pdf)
 - [Bilik Trend Micro](./Bilik%20Trend%20Micro.pdf)
 - Penajaan aplikasi - EXA Shuttle System
 
