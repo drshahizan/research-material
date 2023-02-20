@@ -44,7 +44,7 @@ Don't forget to hit the :star: if you like this repo.
 
 # Penggunaan Sumber Penjanaan
 - Penjenamaan semula CICT
-- Baik pulih ruang kerja
+- [Baik pulih ruang kerja](./Kertas%20Kerja%20Ruang%20Terbuka%20UTMDigital.pdf)
   - [Infografik ruang kerja](./Inforgraphic%20DDA%202020.pdf)
   - [Proposal renovasi](./RENOVATION%20PROPOSAL%20CICT%20UTM.pdf)
 - [Latihan Pembangunan Aplikasi](./UTMSmart%20Slide%20Completed.pptx)
