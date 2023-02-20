@@ -8,7 +8,7 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Penajaan Bilik
-- Kertas kerja Pemberian Sumbangan Endowmen Bagi Penajaan Ruang
+- [Kertas kerja Pemberian Sumbangan Endowmen Bagi Penajaan Ruang](./Kertas%20Kerja%20Pemberian%20Sumbangan%20Endowmen%20Bagi%20Penajaan%20Ruang.pdf)
  
 ## Bilik Ideation Space TM-Huawei
 - [Surat niat](./surat%20niat%20TM.pdf)
