@@ -25,10 +25,9 @@ Don't forget to hit the :star: if you like this repo.
 ## Lain-lain
 - [Sumbangan santapan di raja - Huawei](./SUMBANGAN%20UNTUK%20MAJLIS%20SANTAPAN%20DIRAJA.pdf)
 - [Tajaan peralatan untuk smart classroom- Cisco](Smart%20Classroom-UTM-Cisco.pdf)
-- Surat tajaan - Radmik
 - [Surat tajaan - Aruba](./sponsor.pdf)
 - [Bilik Trend Micro](./Bilik%20Trend%20Micro.pdf)
-- Penajaan aplikasi - EXA Shuttle System
+- [Penajaan aplikasi - EXA Shuttle System](./Estimate_UTM_20180424_01_2018-05-24.pdf)
 
 # Penjanaan Kewangan
 - Sistem Pengurusan Maklumat Bersepadu (SPMB), Akademi Pencegahan Rasuah Malaysia - RM 2,639,400
