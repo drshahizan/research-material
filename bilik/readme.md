@@ -11,7 +11,7 @@ Don't forget to hit the :star: if you like this repo.
 - Kertas kerja Pemberian Sumbangan Endowmen Bagi Penajaan Ruang
  
 ## Bilik Ideation Space TM-Huawei
-- [Surat niat](./)
+- [Surat niat](./surat%20niat%20TM.pdf)
 - [Proposal bilik](./IdeationSpace_UTM.pdf)
 - [Pelan perabot](./3d%20drawing.pdf)
 - [Pemasangan alatan](./Bilik%20Penajaan%20TM.pdf)
