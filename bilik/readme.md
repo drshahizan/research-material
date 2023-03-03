@@ -8,22 +8,22 @@
 Don't forget to hit the :star: if you like this repo.
 
 # Penajaan Bilik
-- [Kertas kerja Pemberian Sumbangan Endowmen Bagi Penajaan Ruang](./Kertas%20Kerja%20Pemberian%20Sumbangan%20Endowmen%20Bagi%20Penajaan%20Ruang.pdf)
+- Kertas kerja Pemberian Sumbangan Endowmen Bagi Penajaan Ruang
  
 ## Bilik Ideation Space TM-Huawei
-- [Surat niat](./surat%20niat%20TM.pdf)
+- Surat niat
 - [Proposal bilik](./IdeationSpace_UTM.pdf)
 - [Pelan perabot](./3d%20drawing.pdf)
 - [Pemasangan alatan](./Bilik%20Penajaan%20TM.pdf)
 
 ## Bilik HP
-- [Surat sumbangan bilik](./Surat%20Sumbangan%20UTM.pdf)
+- Surat sumbangan bilik
 - [Pelan Lantai aras 1](./new%20plan.pdf)
 - [Lukisan 3D](./HP%20%40%20JB_R1B.pdf)
 - [Bilik penajaan HP](./Bilik%20Penajaan%20HP.pdf)
 
 ## Lain-lain
-- [Sumbangan santapan di raja - Huawei](./SUMBANGAN%20UNTUK%20MAJLIS%20SANTAPAN%20DIRAJA.pdf)
+- Sumbangan santapan di raja - Huawei
 - [Tajaan peralatan untuk smart classroom- Cisco](Smart%20Classroom-UTM-Cisco.pdf)
 - [Surat tajaan - Aruba](./sponsor.pdf)
 - [Bilik Trend Micro](./Bilik%20Trend%20Micro.pdf)
@@ -41,12 +41,12 @@ Don't forget to hit the :star: if you like this repo.
 - Pembangunan Platform MOOC Berasaskan Moodle bagi Universiti Pertahanan Nasional Malaysia (UPNM). RM 48,000
 
 # Penggunaan Sumber Penjanaan
-- [Penjenamaan semula CICT](./KERTAS%20KERJA%20CADANGAN%20PENJENAMAAN%20SEMULA%20NAMA%20CICT.pdf)
-- [Baik pulih ruang kerja](./Kertas%20Kerja%20Ruang%20Terbuka%20UTMDigital.pdf)
-  - [Infografik ruang kerja](./Inforgraphic%20DDA%202020.pdf)
+- Penjenamaan semula CICT
+- Baik pulih ruang kerja
+  - Infografik ruang kerja
   - [Proposal renovasi](./RENOVATION%20PROPOSAL%20CICT%20UTM.pdf)
 - [Latihan Pembangunan Aplikasi](./UTMSmart%20Slide%20Completed.pptx)
-- [Pembelian Kereta Jabatan: 2 biji kereta X70 & 1 biji kereta Toyota Innova](./Kereta%20X70.jpeg)
+- Pembelian Kereta Jabatan: 2 biji kereta X70 & 1 biji kereta Toyota Innova
 - [Team building Staf 2019](https://people.utm.my/harliza/2019/12/30/team-building-2019/)
 - [Team building Staf 2018](https://people.utm.my/njannah/2018/team-building-cict-2018)
 
