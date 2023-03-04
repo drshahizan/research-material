@@ -1,3 +1,6 @@
+
+# Applied Machine learning
+
 Machine learning is a powerful tool for extracting insights from data and making predictions. Applied machine learning refers to the use of machine learning techniques to solve real-world problems. This can involve building models to predict customer behavior, identify fraud, or diagnose medical conditions, among other applications. In this article, we will discuss the steps involved in applied machine learning.
 
 Step 1: Problem Definition
