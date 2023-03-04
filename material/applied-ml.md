@@ -27,3 +27,10 @@ Once you have trained and validated the model, the next step is to deploy it in 
 
 **Step 6: Model Maintenance**
 Finally, it is important to monitor and maintain the model over time to ensure that it continues to perform well. This may involve retraining the model periodically as new data becomes available, updating the model architecture or hyperparameters, and monitoring the model's performance for signs of degradation or bias. Model maintenance is critical to ensure that the model remains accurate and relevant to the problem it is solving.
+
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/research-material/issues) for any improvements, suggestions or errors in the content.
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+
+![](https://visitor-badge.glitch.me/badge?page_id=drshahizan)
