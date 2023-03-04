@@ -10,6 +10,10 @@ Don't forget to hit the :star: if you like this repo.
 
 Machine learning is a powerful tool for extracting insights from data and making predictions. Applied machine learning refers to the use of machine learning techniques to solve real-world problems. This can involve building models to predict customer behavior, identify fraud, or diagnose medical conditions, among other applications. In this article, we will discuss the steps involved in applied machine learning.
 
+<p align="center">
+<img src="https://github.com/drshahizan/learn-aspnet/blob/main/image/tp3a.jpeg"  height="200" />
+</p>
+
 **Step 1: Problem Definition**
 The first step in applied machine learning is to define the problem you want to solve. This involves identifying the business or research problem, defining the scope of the problem, and specifying the data sources that will be used
 
