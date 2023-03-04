@@ -15,6 +15,7 @@ Don't forget to hit the :star: if you like this repo.
    - [Social Science](#social-science)
 - [Phd Material](https://github.com/drshahizan/research-material/tree/main/material)
 - [Systematic Review: PRISMA 2020](./SLR)
+- [Applied Machine Learning](https://github.com/drshahizan/research-material/blob/main/material/applied-ml.md)
 - [Free courses](https://github.com/drshahizan/research-material/blob/main/material/free-courses.md)
 - [Postgraduate Kit](https://github.com/drshahizan/research-material/blob/main/material/utm-kit.md)
    - Online system
