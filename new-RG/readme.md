@@ -14,7 +14,9 @@ On the other hand, research in Computational Informatics is the study of how com
 
 Both AI and Computational Informatics are highly interdisciplinary fields that require expertise in computer science, mathematics, statistics, and other disciplines. The goal of research in both fields is to develop new technologies, tools, and methods that can be used to address complex problems and improve our understanding of the world around us.
 
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/81284918/229422959-43afc8ed-7ef4-4294-a286-f07a2b67b375.png"  height="500" />
+</p>
 
 ## Justifications
 There are several justifications for doing research in Artificial Intelligence (AI) and Computational Informatics. Here are some of the most important ones:
@@ -34,8 +36,6 @@ There are several justifications for doing research in Artificial Intelligence (
 7. Addressing Societal Challenges: AI and Computational Informatics have the potential to address societal challenges, such as healthcare, climate change, and social inequality.
 
 Overall, research in AI and Computational Informatics has the potential to lead to significant advancements in technology, improved decision-making, better understanding of complex systems, personalization, cost savings and increased efficiency, interdisciplinary collaboration, and addressing societal challenges. These are compelling justifications for pursuing research in these fields.
-
-https://www.apu.edu.my/sites/default/files/infographic_-_master_of_science_in_artificial_intelligence-32-01_0.png
 
 ## Strength
 
