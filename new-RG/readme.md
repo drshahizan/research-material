@@ -33,6 +33,24 @@ There are several justifications for doing research in Artificial Intelligence (
 
 Overall, research in AI and Computational Informatics has the potential to lead to significant advancements in technology, improved decision-making, better understanding of complex systems, personalization, cost savings and increased efficiency, interdisciplinary collaboration, and addressing societal challenges. These are compelling justifications for pursuing research in these fields.
 
+## Strength
+
+The strength of research in Artificial Intelligence (AI) and Computational Informatics lies in the following areas:
+
+1. Automation: AI and Computational Informatics have the potential to automate complex tasks, leading to increased efficiency and productivity. This can be applied to a wide range of industries, including healthcare, manufacturing, finance, and transportation.
+
+2. Prediction and Decision-Making: AI and Computational Informatics can be used to analyze large datasets and make predictions and decisions based on the patterns and relationships found in the data. This can lead to more informed and accurate decision-making in various fields.
+
+3. Personalization: AI and Computational Informatics can be used to personalize products and services based on individual preferences and behaviors, leading to a better user experience.
+
+4. Optimization: AI and Computational Informatics can be used to optimize systems and processes, leading to cost savings and increased efficiency.
+
+5. Innovation: AI and Computational Informatics have the potential to lead to new technologies and innovations that can address societal challenges and improve quality of life.
+
+6. Interdisciplinary: AI and Computational Informatics require collaboration across different disciplines, leading to new insights and innovations that may not be possible in a single discipline.
+
+Overall, the strength of research in AI and Computational Informatics lies in the potential for automation, prediction and decision-making, personalization, optimization, innovation, and interdisciplinary collaboration. These strengths have the potential to impact a wide range of fields and lead to significant advancements in technology and society.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-material/issues) for any improvements, suggestions or errors in the content.
 
