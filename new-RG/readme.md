@@ -5,18 +5,26 @@
 <a href="https://github.com/drshahizan/research-material/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/research-material?color=2b9348"></a>
 ![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/research-material)
 
-# Research Group: Artificial intelligence & Computational Informatics (AICI)
+# Research Group: Artificial intelligence & Computational Informatics
+
+## Executive summary
+Both AI and Computational Informatics are highly interdisciplinary fields that require expertise in computer science, mathematics, statistics, and other disciplines. The goal of research in both fields is to develop new technologies, tools, and methods that can be used to address complex problems and improve our understanding of the world around us.
+
+Artificial Intelligence (AI) is a field of computer science that aims to create intelligent machines that can perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and natural language processing. AI systems can be classified into three categories: supervised learning, unsupervised learning, and reinforcement learning.
+
+Supervised learning involves training an AI model with labeled data to predict outcomes based on input data. Unsupervised learning involves discovering patterns and relationships in unlabelled data without prior knowledge of the outcomes. Reinforcement learning involves an AI model learning to make decisions by trial and error, receiving feedback from the environment in the form of rewards or punishments.
+
+Computational Informatics is a multidisciplinary field that combines computer science, mathematics, statistics, and engineering to study the representation, processing, and communication of information. It involves the development of algorithms, mathematical models, and computational tools to analyze large datasets and extract meaningful information.
+
+Computational informatics has many applications in various fields, such as bioinformatics, genomics, proteomics, drug discovery, finance, and social media analysis. It plays a crucial role in the advancement of scientific research, decision-making, and the automation of complex processes.
+
+In summary, while artificial intelligence focuses on creating intelligent machines that can perform tasks that require human intelligence, computational informatics focuses on developing mathematical models and computational tools to analyze data and extract meaningful information. Both fields are important for advancing technology and improving our understanding of complex systems.
 
 ## Definition
 Research in Artificial Intelligence (AI) is the study of intelligent agents, which can include software and machines, that can perceive their environment, reason about it, and take actions to achieve specific goals. The goal of AI research is to develop algorithms, models, and systems that can perform tasks that typically require human-level intelligence, such as perception, reasoning, and decision-making.
 
 On the other hand, research in Computational Informatics is the study of how computational methods and tools can be used to analyze and understand complex data, including biological data, social networks, and large datasets. This research aims to develop algorithms and models that can extract meaningful information and insights from data, and to develop tools and technologies that can be used to analyze and visualize data.
 
-Both AI and Computational Informatics are highly interdisciplinary fields that require expertise in computer science, mathematics, statistics, and other disciplines. The goal of research in both fields is to develop new technologies, tools, and methods that can be used to address complex problems and improve our understanding of the world around us.
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/81284918/229422959-43afc8ed-7ef4-4294-a286-f07a2b67b375.png"  height="500" />
-</p>
 
 ## Justifications
 There are several justifications for doing research in Artificial Intelligence (AI) and Computational Informatics. Here are some of the most important ones:
