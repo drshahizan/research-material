@@ -71,8 +71,7 @@ These are just a few examples of the research domains that can join AI and Compu
 ## Research fields
 Here are some research fields in Artificial Intelligence (AI) and Computational Informatics:
 
-Artificial Intelligence:
-
+### Artificial Intelligence:
 1. Natural language processing
 2. Computer vision
 3. Robotics
@@ -84,8 +83,7 @@ Artificial Intelligence:
 9. Multi-agent systems
 10. Game AI
 
-Computational Informatics:
-
+### Computational Informatics:
 1. Bioinformatics
 2. Genomics
 3. Proteomics
