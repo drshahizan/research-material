@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/research-material/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/research-material?color=2b9348"></a>
 ![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/research-material)
 
-# Research Group: Artificial intelligence & Computational Informatics
+# Research Group: Artificial intelligence & Computational Informatics (AICI)
 
 ## Definition
 Research in Artificial Intelligence (AI) is the study of intelligent agents, which can include software and machines, that can perceive their environment, reason about it, and take actions to achieve specific goals. The goal of AI research is to develop algorithms, models, and systems that can perform tasks that typically require human-level intelligence, such as perception, reasoning, and decision-making.
