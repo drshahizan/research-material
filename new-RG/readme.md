@@ -26,7 +26,7 @@ Research in Artificial Intelligence (AI) is the study of intelligent agents, whi
 On the other hand, research in Computational Informatics is the study of how computational methods and tools can be used to analyze and understand complex data, including biological data, social networks, and large datasets. This research aims to develop algorithms and models that can extract meaningful information and insights from data, and to develop tools and technologies that can be used to analyze and visualize data.
 
 <p align="center">
-<img src="hhttps://www.apu.edu.my/our-courses/postgraduate-studies/masters-degree-programmes/master-science-artificial-intelligence"  height="500" />
+<img src="https://www.apu.edu.my/sites/default/files/infographic_-_master_of_science_in_artificial_intelligence-32-01_0.png"  height="500" />
 </p>
 
 ## Justifications
