@@ -51,6 +51,23 @@ The strength of research in Artificial Intelligence (AI) and Computational Infor
 
 Overall, the strength of research in AI and Computational Informatics lies in the potential for automation, prediction and decision-making, personalization, optimization, innovation, and interdisciplinary collaboration. These strengths have the potential to impact a wide range of fields and lead to significant advancements in technology and society.
 
+## Research Domains
+Artificial intelligence (AI) and Computational Informatics are multidisciplinary fields that can be pursued by researchers from various domains. Here are some research domains that can join AI and Computational Informatics:
+
+1. Computer Science: Computer scientists are well-suited to work in AI and Computational Informatics as they possess the necessary skills to develop algorithms, software, and computational tools required in these fields.
+
+2. Mathematics and Statistics: Researchers with a background in mathematics and statistics can contribute to AI and Computational Informatics by developing mathematical models and statistical methods to analyze data and extract meaningful information.
+
+3. Engineering: Engineers can apply their skills in AI and Computational Informatics to design and develop new systems and technologies in areas such as robotics, automation, and control systems.
+
+4. Biology and Medicine: Researchers in the fields of biology and medicine can work in AI and Computational Informatics to analyze complex biological data and develop models to predict disease outcomes, drug responses, and gene functions.
+
+5. Social Sciences: Researchers in social sciences can work in AI and Computational Informatics to study social media, network analysis, and other social phenomena using computational methods.
+
+6. Business and Economics: Researchers in the fields of business and economics can work in AI and Computational Informatics to analyze large datasets, predict market trends, and develop financial models.
+
+These are just a few examples of the research domains that can join AI and Computational Informatics. Both fields are highly interdisciplinary, and collaboration across different domains is essential to advance research and develop new technologies.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-material/issues) for any improvements, suggestions or errors in the content.
 
