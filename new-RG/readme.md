@@ -68,6 +68,37 @@ Artificial intelligence (AI) and Computational Informatics are multidisciplinary
 
 These are just a few examples of the research domains that can join AI and Computational Informatics. Both fields are highly interdisciplinary, and collaboration across different domains is essential to advance research and develop new technologies.
 
+## Research fields
+Here are some research fields in Artificial Intelligence (AI) and Computational Informatics:
+
+Artificial Intelligence:
+
+1. Natural language processing
+2. Computer vision
+3. Robotics
+4. Machine learning
+5. Deep learning
+6. Reinforcement learning
+7. Explainable AI
+8. Cognitive computing
+9. Multi-agent systems
+10. Game AI
+
+Computational Informatics:
+
+1. Bioinformatics
+2. Genomics
+3. Proteomics
+4. Systems biology
+5. Computational chemistry
+6. Computational physics
+7. Data mining
+8. Machine learning
+9. Image processing
+10. Social network analysis
+
+These are just a few examples of the many research fields in AI and Computational Informatics. Both fields are constantly evolving, and new research areas emerge as technology advances and new challenges arise.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-material/issues) for any improvements, suggestions or errors in the content.
 
