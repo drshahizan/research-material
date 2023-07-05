@@ -116,44 +116,43 @@ Here's the updated table with the new "No." column added:
 
 ### Coursera - Johns Hopkins
 
-| Number | Course Title                               | Link                                         |
-|--------|--------------------------------------------|----------------------------------------------|
+| No. | Course Title                               | Link                                         |
+|-------:|--------------------------------------------|----------------------------------------------|
 | 1      | Advanced Statistics for Data Science Specialization | [Link](https://lnkd.in/g_n-3Wn5)             |
 | 2      | Johns Hopkins - Biostatistics in Public Health Specialization | [Link](https://lnkd.in/g2bGxxet)             |
 
 ### Youtube - Learn Machine Learning
 
-| Channel                                                       | Link                                         |
-|----------------------------------------------------------------|----------------------------------------------|
-| Stanford University CS229: Machine Learning                    | [Link](https://t.co/cMLzvsdIcT)               |
-| Making Friends With Machine Learning                           | [Link](https://t.co/LiujYMWFbT)               |
-| Neural Networks: Zero to Hero                                  | [Link](https://t.co/WaYzmyHYKU)               |
-| Massachusetts Institute of Technology Deep Learning For Art, Aesthetics, And Creativity | [Link](https://t.co/cANOWM1M2B)               |
-| Stanford University CS230: Deep Learning (2018)                | [Link](https://t.co/F1jBHejS5k)               |
-| Applied Machine Learning (Cornell Tech Cs 5787, Fall 2020)      | [Link](https://t.co/2znEMgrJvf)               |
-| Practical Deep Learning for Coders 2022                        | [Link](https://t.co/xTg00k7wrt)               |
-| Practical Deep Learning for Coders 2022 - Part 2               | [Link](https://t.co/82AHonifNK)               |
-| Machine Learning With Graphs                                   | [Link](https://t.co/hkgfoFoB9O)               |
-| Probabilistic Machine Learning Philipp Hennig 2021              | [Link](https://t.co/Z76gVxeI3d)               |
-| Deep Unsupervised Learning - University of California, Berkeley Spring 2020 | [Link](https://t.co/ywkSKC5r5w)               |
-| Foundation Models                                              | [Link](https://t.co/owLqaDXAwj)               |
-| Stanford University CS25 - Transformers United                 | [Link](https://t.co/nkTtSCG854)               |
+| No. | Channel                                                       | Link                                         |
+|-----:|----------------------------------------------------------------|----------------------------------------------|
+| 1   | Stanford University CS229: Machine Learning                    | [Link](https://t.co/cMLzvsdIcT)               |
+| 2   | Making Friends With Machine Learning                           | [Link](https://t.co/LiujYMWFbT)               |
+| 3   | Neural Networks: Zero to Hero                                  | [Link](https://t.co/WaYzmyHYKU)               |
+| 4   | Massachusetts Institute of Technology Deep Learning For Art, Aesthetics, And Creativity | [Link](https://t.co/cANOWM1M2B)               |
+| 5   | Stanford University CS230: Deep Learning (2018)                | [Link](https://t.co/F1jBHejS5k)               |
+| 6   | Applied Machine Learning (Cornell Tech Cs 5787, Fall 2020)      | [Link](https://t.co/2znEMgrJvf)               |
+| 7   | Practical Deep Learning for Coders 2022                        | [Link](https://t.co/xTg00k7wrt)               |
+| 8   | Practical Deep Learning for Coders 2022 - Part 2               | [Link](https://t.co/82AHonifNK)               |
+| 9   | Machine Learning With Graphs                                   | [Link](https://t.co/hkgfoFoB9O)               |
+| 10  | Probabilistic Machine Learning Philipp Hennig 2021              | [Link](https://t.co/Z76gVxeI3d)               |
+| 11  | Deep Unsupervised Learning - University of California, Berkeley Spring 2020 | [Link](https://t.co/ywkSKC5r5w)               |
+| 12  | Foundation Models                                              | [Link](https://t.co/owLqaDXAwj)               |
+| 13  | Stanford University CS25 - Transformers United                 | [Link](https://t.co/nkTtSCG854)               |
 
 ### Others
 
-| Course Title                               | Link                                         |
-|--------------------------------------------|----------------------------------------------|
-| Lund - Writing in English at University     | [Link](https://lnkd.in/gpMSRaAE)               |
-| Ecole Polytechnique: How to Write and Publish a Scientific Paper | [Link](https://lnkd.in/gPfSdCSv)               |
-| Stanford - Writing in the Sciences          | [Link](https://lnkd.in/gSK3HbPn)               |
-| NUS - Quantitative and Qualitative Research for Beginners | [Link](https://lnkd.in/ggfRpway)               |
-| Imperial - Study Designs in Epidemiology        | [Link](https://lnkd.in/gay73vX8)               |
-| UCT - Understanding Clinical Research: Behind the Statistics | [Link](https://lnkd.in/g6nhZjt6)               |
-| Johns Hopkins - Introduction to Systematic Review and Meta-Analysis | [Link](https://lnkd.in/gvA5cfbT)               |
-| Harvard - Rhetoric: The Art of Persuasive Writing and Public Speaking | [Link](https://lnkd.in/gxsf9KgA)               |
-| Udemy - Just Start Grant Writing                | [Link](https://lnkd.in/gT2v9peW)               |
-| UCI - Project Management: The Basics for Success | [Link](https://lnkd.in/gRpf7NuB)               |
-
+| No. | Course Title                               | Link                                         |
+|----:|--------------------------------------------|----------------------------------------------|
+| 1   | Lund - Writing in English at University     | [Link](https://lnkd.in/gpMSRaAE)               |
+| 2   | Ecole Polytechnique: How to Write and Publish a Scientific Paper | [Link](https://lnkd.in/gPfSdCSv)               |
+| 3   | Stanford - Writing in the Sciences          | [Link](https://lnkd.in/gSK3HbPn)               |
+| 4   | NUS - Quantitative and Qualitative Research for Beginners | [Link](https://lnkd.in/ggfRpway)               |
+| 5   | Imperial - Study Designs in Epidemiology        | [Link](https://lnkd.in/gay73vX8)               |
+| 6   | UCT - Understanding Clinical Research: Behind the Statistics | [Link](https://lnkd.in/g6nhZjt6)               |
+| 7   | Johns Hopkins - Introduction to Systematic Review and Meta-Analysis | [Link](https://lnkd.in/gvA5cfbT)               |
+| 8   | Harvard - Rhetoric: The Art of Persuasive Writing and Public Speaking | [Link](https://lnkd.in/gxsf9KgA)               |
+| 9   | Udemy - Just Start Grant Writing                | [Link](https://lnkd.in/gT2v9peW)               |
+| 10  | UCI - Project Management: The Basics for Success | [Link](https://lnkd.in/gRpf7NuB)               |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-material/issues) for any improvements, suggestions or errors in the content.
