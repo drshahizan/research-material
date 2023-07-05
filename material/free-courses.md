@@ -69,19 +69,23 @@ Empowering higher education institutions to prepare students for industry-recogn
 | Project Planning: Putting It All Together                             | [Link](https://lnkd.in/dtDB9xDA)            |
 | Python Basics for Data Analysis                                       | [Link](https://lnkd.in/dkSXX5EU)            |
 
-## Best Websites to learn Python
+## Learn Python
 
-1. [W3Schools.com](https://lnkd.in/dxDE3jWb)
-2. [freeCodeCamp](https://lnkd.in/dcH_w-hy)
-3. [Kaggle](https://lnkd.in/d2Rh4HPA)
-4. [GeeksforGeeks](https://lnkd.in/dcuV2MzN)
-5. [Google](https://lnkd.in/d9yFJYXP)
-6. [Sololearn]( https://lnkd.in/dZrUNB4s)
-7. [Programiz](https://lnkd.in/d_wmDppZ)
-8. [Thinkful](https://lnkd.in/dp3dJC3C)
-9. [Simpliv LLC]( https://lnkd.in/dR_M9smM)
-10. [Codecademy](https://lnkd.in/d7HvnxqK)
-11. [LearnX](https://lnkd.in/djAvCF4Y)
+Here's the provided information in table format:
+
+| Platform                             | Link                                      |
+|--------------------------------------|-------------------------------------------|
+| W3Schools.com                        | [Link](https://lnkd.in/dxDE3jWb)          |
+| freeCodeCamp                         | [Link](https://lnkd.in/dcH_w-hy)          |
+| Kaggle                               | [Link](https://lnkd.in/d2Rh4HPA)          |
+| GeeksforGeeks                        | [Link](https://lnkd.in/dcuV2MzN)          |
+| Google                               | [Link](https://lnkd.in/d9yFJYXP)          |
+| Sololearn                            | [Link](https://lnkd.in/dZrUNB4s)          |
+| Programiz                            | [Link](https://lnkd.in/d_wmDppZ)          |
+| Thinkful                             | [Link](https://lnkd.in/dp3dJC3C)          |
+| Simpliv LLC                          | [Link](https://lnkd.in/dR_M9smM)          |
+| Codecademy                           | [Link](https://lnkd.in/d7HvnxqK)          |
+| LearnX                               | [Link](https://lnkd.in/djAvCF4Y)          |
 
 ## Top Companies and Universities💥
 
