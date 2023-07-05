@@ -32,7 +32,7 @@ Empowering higher education institutions to prepare students for industry-recogn
 ## Harvard Courses
 
 | No. | Course Name                                            | Link                                       |
-|-----|--------------------------------------------------------|--------------------------------------------|
+|-----:|--------------------------------------------------------|--------------------------------------------|
 | 1.  | Introduction to Computer Science                        | [Link](https://t.co/mIKQfC0QlT)             |
 | 2.  | Introduction to Programming with Scratch                | [Link](https://t.co/vRxv647Hqg)             |
 | 3.  | Web Programming with Python and JavaScript              | [Link](https://t.co/HzBmdTEdkT)             |
