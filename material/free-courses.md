@@ -140,39 +140,17 @@ Empowering higher education institutions to prepare students for industry-recogn
 
 ### Others
 
-#### Writing
-
 | Course Title                               | Link                                         |
 |--------------------------------------------|----------------------------------------------|
 | Lund - Writing in English at University     | [Link](https://lnkd.in/gpMSRaAE)               |
 | Ecole Polytechnique: How to Write and Publish a Scientific Paper | [Link](https://lnkd.in/gPfSdCSv)               |
 | Stanford - Writing in the Sciences          | [Link](https://lnkd.in/gSK3HbPn)               |
-
-#### Study Designs
-
-| Course Title                                   | Link                                         |
-|------------------------------------------------|----------------------------------------------|
 | NUS - Quantitative and Qualitative Research for Beginners | [Link](https://lnkd.in/ggfRpway)               |
 | Imperial - Study Designs in Epidemiology        | [Link](https://lnkd.in/gay73vX8)               |
 | UCT - Understanding Clinical Research: Behind the Statistics | [Link](https://lnkd.in/g6nhZjt6)               |
 | Johns Hopkins - Introduction to Systematic Review and Meta-Analysis | [Link](https://lnkd.in/gvA5cfbT)               |
-
-#### Communication Skills
-
-| Course Title                                   | Link                                         |
-|------------------------------------------------|----------------------------------------------|
 | Harvard - Rhetoric: The Art of Persuasive Writing and Public Speaking | [Link](https://lnkd.in/gxsf9KgA)               |
-
-#### Grant Writing
-
-| Course Title                                   | Link                                         |
-|------------------------------------------------|----------------------------------------------|
 | Udemy - Just Start Grant Writing                | [Link](https://lnkd.in/gT2v9peW)               |
-
-#### Project Management
-
-| Course Title                                   | Link                                         |
-|------------------------------------------------|----------------------------------------------|
 | UCI - Project Management: The Basics for Success | [Link](https://lnkd.in/gRpf7NuB)               |
 
 
