@@ -29,7 +29,7 @@ Empowering higher education institutions to prepare students for industry-recogn
 | Academy Lab Project - Cloud Web Application Builder   | Cloud Development     | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
 
 
-## Free Courses
+## Harvard Courses
 
 | No. | Course Name                                            | Link                                       |
 |-----|--------------------------------------------------------|--------------------------------------------|
@@ -44,40 +44,30 @@ Empowering higher education institutions to prepare students for industry-recogn
 | 9.  | CS50's Computer Science for Business Professionals      | [Link](https://t.co/w3IxVWTNnq)             |
 | 10. | Introduction to Data Science with Python                | [Link](https://t.co/jjrip2gHGj)             |
 
-The table includes the course number, course name, and the corresponding link to access each course. You can further modify the table to include additional information or formatting according to your needs.
 
-1. [Introduction to Computer Science](https://t.co/mIKQfC0QlT)
-2. [Introduction to Programming with Scratch](https://t.co/vRxv647Hqg)
-3. [Web Programming with Python and JavaScript](https://t.co/HzBmdTEdkT)
-4. [Introduction to Programming with Python](https://t.co/hRyuMNzlhM)
-5. [Understanding Technology](https://t.co/FDKXqMe4Pj)
-6. [Introduction to Artificial Intelligence with Python](https://t.co/VoINVOJQtb)
-7. [Introduction to Game Development](https://t.co/wXKNw24tz8)
-8. [Mobile App Development with React Native](https://t.co/e7L22cjRYn)
-9. [CS50's Computer Science for Business Professionals](https://t.co/w3IxVWTNnq)
-10. [Introduction to Data Science with Python](https://t.co/jjrip2gHGj)
+## Google Courses
 
-## Google Course
-
-- [Advanced Google Analytics](https://lnkd.in/d4dAz8k)
-- [Agile Project Management](https://lnkd.in/dMBKgSBV)
-- [Basics of Machine Learning](https://lnkd.in/dcYBku7i)
-- [Data Science Foundations](https://lnkd.in/d5Dz7q8Y)
-- [Data Science with Python](https://lnkd.in/d5BE_D3F)
-- [Data, ML, and AI in Google Cloud](https://lnkd.in/d8Ctes66)
-- [Foundations of Project Management](https://lnkd.in/dRdNhVhK)
-- [Fundamentals of digital marketing](https://lnkd.in/dsqp646j)
-- [Get started with Google Maps Platform](https://lnkd.in/dn3PkapX)
-- [Google Analytics for Beginners](https://lnkd.in/dTeE2c9n)
-- [Google Analytics for Power Users](https://lnkd.in/dQiZiB5m)
-- [Google Cloud Computing Foundations: Networking and Security in Google Cloud](https://lnkd.in/d4Pbk5ns)
-- [Google Cloud Computing Foundations: Cloud Computing Fundamentals](https://lnkd.in/dYW5FF_B)
-- [Google Project Management](https://lnkd.in/dBKUUBgt)
-- [Machine Learning Crash Course](https://lnkd.in/dmZinF4p)
-- [Project Execution: Running the Project](https://lnkd.in/dZiESFRK)
-- [Project Initiation: Starting a Successful Project](https://lnkd.in/dDKzVPnX)
-- [Project Planning: Putting It All Together](https://lnkd.in/dtDB9xDA)
-- [Python Basics for Data Analysis](https://lnkd.in/dkSXX5EU)
+| Course Name                                                          | Link                                         |
+|---------------------------------------------------------------------|----------------------------------------------|
+| Advanced Google Analytics                                             | [Link](https://lnkd.in/d4dAz8k)             |
+| Agile Project Management                                              | [Link](https://lnkd.in/dMBKgSBV)            |
+| Basics of Machine Learning                                            | [Link](https://lnkd.in/dcYBku7i)            |
+| Data Science Foundations                                              | [Link](https://lnkd.in/d5Dz7q8Y)            |
+| Data Science with Python                                              | [Link](https://lnkd.in/d5BE_D3F)            |
+| Data, ML, and AI in Google Cloud                                      | [Link](https://lnkd.in/d8Ctes66)            |
+| Foundations of Project Management                                     | [Link](https://lnkd.in/dRdNhVhK)            |
+| Fundamentals of digital marketing                                     | [Link](https://lnkd.in/dsqp646j)            |
+| Get started with Google Maps Platform                                 | [Link](https://lnkd.in/dn3PkapX)            |
+| Google Analytics for Beginners                                        | [Link](https://lnkd.in/dTeE2c9n)            |
+| Google Analytics for Power Users                                      | [Link](https://lnkd.in/dQiZiB5m)            |
+| Google Cloud Computing Foundations: Networking and Security in Google Cloud | [Link](https://lnkd.in/d4Pbk5ns)            |
+| Google Cloud Computing Foundations: Cloud Computing Fundamentals      | [Link](https://lnkd.in/dYW5FF_B)            |
+| Google Project Management                                            | [Link](https://lnkd.in/dBKUUBgt)            |
+| Machine Learning Crash Course                                         | [Link](https://lnkd.in/dmZinF4p)            |
+| Project Execution: Running the Project                                | [Link](https://lnkd.in/dZiESFRK)            |
+| Project Initiation: Starting a Successful Project                     | [Link](https://lnkd.in/dDKzVPnX)            |
+| Project Planning: Putting It All Together                             | [Link](https://lnkd.in/dtDB9xDA)            |
+| Python Basics for Data Analysis                                       | [Link](https://lnkd.in/dkSXX5EU)            |
 
 ## Best Websites to learn Python
 
