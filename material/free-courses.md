@@ -8,26 +8,27 @@
 Don't forget to hit the :star: if you like this repo.
 
 # AWS Academy
-Empowering higher education institutions to prepare students for industry-recognized certifications and careers in the cloud
+Empowering higher education institutions to prepare students for industry-recognized certifications and careers in the cloud.
 
-| Course Name                                          | Category              |  |
-|------------------------------------------------------|-----------------------|:----------:|
-| Academy Cloud Foundations                            | Cloud                 | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
-| Academy Cloud Architecting                           | Cloud                 | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
-| Academy Cloud Operations                             | Cloud                 | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
-| Academy Cloud Developing                             | Cloud                 | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
-| Academy Machine Learning Foundations                 | Machine Learning      | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
-| Academy Introduction to Cloud: Semester 1            | Cloud                 | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
-| Academy Machine Learning for Natural Language Processing | Machine Learning  | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
-| Academy Introduction to Cloud: Semester 2            | Cloud                 | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
-| Academy Engineering Operations Technician            | Cloud Operations      | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
-| Academy Data Center Technician                        | Cloud Operations      | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
-| Academy Learner Lab                                  | General               | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
-| Academy Cloud Security Foundations                   | Cloud Security        | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
-| Academy Data Engineering                             | Data Engineering      | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
-| Academy Lab Project - Cloud Data Pipeline Builder     | Cloud Development     |<a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
-| Academy Lab Project - Cloud Web Application Builder   | Cloud Development     | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
+Here's the updated table with the new "No." column added:
 
+| No. | Course Name                                          | Category              |  |
+|-----:|------------------------------------------------------|-----------------------|:----------:|
+| 1   | Academy Cloud Foundations                            | Cloud                 | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
+| 2   | Academy Cloud Architecting                           | Cloud                 | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
+| 3   | Academy Cloud Operations                             | Cloud                 | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
+| 4   | Academy Cloud Developing                             | Cloud                 | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
+| 5   | Academy Machine Learning Foundations                 | Machine Learning      | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
+| 6   | Academy Introduction to Cloud: Semester 1            | Cloud                 | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
+| 7   | Academy Machine Learning for Natural Language Processing | Machine Learning  | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
+| 8   | Academy Introduction to Cloud: Semester 2            | Cloud                 | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
+| 9   | Academy Engineering Operations Technician            | Cloud Operations      | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
+| 10  | Academy Data Center Technician                        | Cloud Operations      | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
+| 11  | Academy Learner Lab                                  | General               | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
+| 12  | Academy Cloud Security Foundations                   | Cloud Security        | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
+| 13  | Academy Data Engineering                             | Data Engineering      | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
+| 14  | Academy Lab Project - Cloud Data Pipeline Builder     | Cloud Development     |<a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
+| 15  | Academy Lab Project - Cloud Web Application Builder   | Cloud Development     | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
 
 ## Harvard Courses
 
@@ -47,27 +48,27 @@ Empowering higher education institutions to prepare students for industry-recogn
 
 ## Google Courses
 
-| Course Name                                                          | Link                                         |
-|---------------------------------------------------------------------|----------------------------------------------|
-| Advanced Google Analytics                                             | [Link](https://lnkd.in/d4dAz8k)             |
-| Agile Project Management                                              | [Link](https://lnkd.in/dMBKgSBV)            |
-| Basics of Machine Learning                                            | [Link](https://lnkd.in/dcYBku7i)            |
-| Data Science Foundations                                              | [Link](https://lnkd.in/d5Dz7q8Y)            |
-| Data Science with Python                                              | [Link](https://lnkd.in/d5BE_D3F)            |
-| Data, ML, and AI in Google Cloud                                      | [Link](https://lnkd.in/d8Ctes66)            |
-| Foundations of Project Management                                     | [Link](https://lnkd.in/dRdNhVhK)            |
-| Fundamentals of digital marketing                                     | [Link](https://lnkd.in/dsqp646j)            |
-| Get started with Google Maps Platform                                 | [Link](https://lnkd.in/dn3PkapX)            |
-| Google Analytics for Beginners                                        | [Link](https://lnkd.in/dTeE2c9n)            |
-| Google Analytics for Power Users                                      | [Link](https://lnkd.in/dQiZiB5m)            |
-| Google Cloud Computing Foundations: Networking and Security in Google Cloud | [Link](https://lnkd.in/d4Pbk5ns)            |
-| Google Cloud Computing Foundations: Cloud Computing Fundamentals      | [Link](https://lnkd.in/dYW5FF_B)            |
-| Google Project Management                                            | [Link](https://lnkd.in/dBKUUBgt)            |
-| Machine Learning Crash Course                                         | [Link](https://lnkd.in/dmZinF4p)            |
-| Project Execution: Running the Project                                | [Link](https://lnkd.in/dZiESFRK)            |
-| Project Initiation: Starting a Successful Project                     | [Link](https://lnkd.in/dDKzVPnX)            |
-| Project Planning: Putting It All Together                             | [Link](https://lnkd.in/dtDB9xDA)            |
-| Python Basics for Data Analysis                                       | [Link](https://lnkd.in/dkSXX5EU)            |
+| No. | Course Name                                                          | Link                                         |
+|-----:|---------------------------------------------------------------------|----------------------------------------------|
+| 1   | Advanced Google Analytics                                             | [Link](https://lnkd.in/d4dAz8k)             |
+| 2   | Agile Project Management                                              | [Link](https://lnkd.in/dMBKgSBV)            |
+| 3   | Basics of Machine Learning                                            | [Link](https://lnkd.in/dcYBku7i)            |
+| 4   | Data Science Foundations                                              | [Link](https://lnkd.in/d5Dz7q8Y)            |
+| 5   | Data Science with Python                                              | [Link](https://lnkd.in/d5BE_D3F)            |
+| 6   | Data, ML, and AI in Google Cloud                                      | [Link](https://lnkd.in/d8Ctes66)            |
+| 7   | Foundations of Project Management                                     | [Link](https://lnkd.in/dRdNhVhK)            |
+| 8   | Fundamentals of digital marketing                                     | [Link](https://lnkd.in/dsqp646j)            |
+| 9   | Get started with Google Maps Platform                                 | [Link](https://lnkd.in/dn3PkapX)            |
+| 10  | Google Analytics for Beginners                                        | [Link](https://lnkd.in/dTeE2c9n)            |
+| 11  | Google Analytics for Power Users                                      | [Link](https://lnkd.in/dQiZiB5m)            |
+| 12  | Google Cloud Computing Foundations: Networking and Security in Google Cloud | [Link](https://lnkd.in/d4Pbk5ns)            |
+| 13  | Google Cloud Computing Foundations: Cloud Computing Fundamentals      | [Link](https://lnkd.in/dYW5FF_B)            |
+| 14  | Google Project Management                                            | [Link](https://lnkd.in/dBKUUBgt)            |
+| 15  | Machine Learning Crash Course                                         | [Link](https://lnkd.in/dmZinF4p)            |
+| 16  | Project Execution: Running the Project                                | [Link](https://lnkd.in/dZiESFRK)            |
+| 17  | Project Initiation: Starting a Successful Project                     | [Link](https://lnkd.in/dDKzVPnX)            |
+| 18  | Project Planning: Putting It All Together                             | [Link](https://lnkd.in/dtDB9xDA)            |
+| 19  | Python Basics for Data Analysis                                       | [Link](https://lnkd.in/dkSXX5EU)            |
 
 ## Learn Python
 
