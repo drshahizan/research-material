@@ -7,7 +7,11 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Free Courses
+# AWS Academy
+Empowering higher education institutions to prepare students for industry-recognized certifications and careers in the cloud
+
+
+## Free Courses
 
 1. [Introduction to Computer Science](https://t.co/mIKQfC0QlT)
 2. [Introduction to Programming with Scratch](https://t.co/vRxv647Hqg)
