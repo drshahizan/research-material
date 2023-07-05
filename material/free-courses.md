@@ -10,6 +10,24 @@ Don't forget to hit the :star: if you like this repo.
 # AWS Academy
 Empowering higher education institutions to prepare students for industry-recognized certifications and careers in the cloud
 
+| Course Name                                          | Category              | Duration |
+|------------------------------------------------------|-----------------------|----------|
+| Academy Cloud Foundations                            | Cloud                 |    |
+| Academy Cloud Architecting                           | Cloud                 |       |
+| Academy Cloud Operations                             | Cloud                 |       |
+| Academy Cloud Developing                             | Cloud                 |       |
+| Academy Machine Learning Foundations                 | Machine Learning      |      |
+| Academy Introduction to Cloud: Semester 1            | Cloud                 |      |
+| Academy Machine Learning for Natural Language Processing | Machine Learning  |       |
+| Academy Introduction to Cloud: Semester 2            | Cloud                 |      |
+| Academy Engineering Operations Technician            | Cloud Operations      |      |
+| Academy Data Center Technician                        | Cloud Operations      |      |
+| Academy Learner Lab                                  | General               |       |
+| Academy Cloud Security Foundations                   | Cloud Security        |       |
+| Academy Data Engineering                             | Data Engineering      |       |
+| Academy Lab Project - Cloud Data Pipeline Builder     | Cloud Development     |      |
+| Academy Lab Project - Cloud Web Application Builder   | Cloud Development     |      |
+
 
 ## Free Courses
 
