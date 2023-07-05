@@ -10,8 +10,8 @@ Don't forget to hit the :star: if you like this repo.
 # AWS Academy
 Empowering higher education institutions to prepare students for industry-recognized certifications and careers in the cloud
 
-| Course Name                                          | Category              | Duration |
-|------------------------------------------------------|-----------------------|----------|
+| Course Name                                          | Category              |  |
+|------------------------------------------------------|-----------------------|:----------:|
 | Academy Cloud Foundations                            | Cloud                 | <a href="../images/document1.png"><img src="../images/document1.png" width="24px" height="24px"></a>   |
 | Academy Cloud Architecting                           | Cloud                 |       |
 | Academy Cloud Operations                             | Cloud                 |       |
