@@ -12,7 +12,7 @@ Empowering higher education institutions to prepare students for industry-recogn
 
 | Course Name                                          | Category              | Duration |
 |------------------------------------------------------|-----------------------|----------|
-| Academy Cloud Foundations                            | Cloud                 |    |
+| Academy Cloud Foundations                            | Cloud                 | <a href="./materials/notes/n1.md"><img src="./images/javascript.svg" width="24px" height="24px"></a>   |
 | Academy Cloud Architecting                           | Cloud                 |       |
 | Academy Cloud Operations                             | Cloud                 |       |
 | Academy Cloud Developing                             | Cloud                 |       |
