@@ -71,21 +71,109 @@ Empowering higher education institutions to prepare students for industry-recogn
 
 ## Learn Python
 
-Here's the provided information in table format:
+| Number | Platform                             | Link                                      |
+|--------|--------------------------------------|-------------------------------------------|
+| 1      | W3Schools.com                        | [Link](https://lnkd.in/dxDE3jWb)          |
+| 2      | freeCodeCamp                         | [Link](https://lnkd.in/dcH_w-hy)          |
+| 3      | Kaggle                               | [Link](https://lnkd.in/d2Rh4HPA)          |
+| 4      | GeeksforGeeks                        | [Link](https://lnkd.in/dcuV2MzN)          |
+| 5      | Google                               | [Link](https://lnkd.in/d9yFJYXP)          |
+| 6      | Sololearn                            | [Link](https://lnkd.in/dZrUNB4s)          |
+| 7      | Programiz                            | [Link](https://lnkd.in/d_wmDppZ)          |
+| 8      | Thinkful                             | [Link](https://lnkd.in/dp3dJC3C)          |
+| 9      | Simpliv LLC                          | [Link](https://lnkd.in/dR_M9smM)          |
+| 10     | Codecademy                           | [Link](https://lnkd.in/d7HvnxqK)          |
+| 11     | LearnX                               | [Link](https://lnkd.in/djAvCF4Y)          |
 
-| Platform                             | Link                                      |
-|--------------------------------------|-------------------------------------------|
-| W3Schools.com                        | [Link](https://lnkd.in/dxDE3jWb)          |
-| freeCodeCamp                         | [Link](https://lnkd.in/dcH_w-hy)          |
-| Kaggle                               | [Link](https://lnkd.in/d2Rh4HPA)          |
-| GeeksforGeeks                        | [Link](https://lnkd.in/dcuV2MzN)          |
-| Google                               | [Link](https://lnkd.in/d9yFJYXP)          |
-| Sololearn                            | [Link](https://lnkd.in/dZrUNB4s)          |
-| Programiz                            | [Link](https://lnkd.in/d_wmDppZ)          |
-| Thinkful                             | [Link](https://lnkd.in/dp3dJC3C)          |
-| Simpliv LLC                          | [Link](https://lnkd.in/dR_M9smM)          |
-| Codecademy                           | [Link](https://lnkd.in/d7HvnxqK)          |
-| LearnX                               | [Link](https://lnkd.in/djAvCF4Y)          |
+## Top Companies and Universities💥
+
+| Number | Organization                                                                              | Link                                       |
+|--------|------------------------------------------------------------------------------------------|--------------------------------------------|
+| 1      | Harvard University: Professional and Lifelong Learning                                    | [Link](https://pll.harvard.edu/)           |
+| 2      | Amazon: Start Building on AWS Today                                                       | [Link](https://aws.amazon.com/)            |
+| 3      | Google: Master the Google tools you use at work with online training                       | [Link](https://skillshop.withgoogle.com/)  |
+| 4      | Simplilearn                                                                              | [Link](https://www.simplilearn.com/)        |
+| 5      | Cisco Networking Academy                                                                 | [Link](https://www.cisco.com/c/m/en_sg/partners/cisco-networking-academy/index.html) |
+| 6      | Udemy                                                                                    | [Link](https://www.udemy.com/courses/search/?q=free%20courses) |
+
+### Coursera - Harvard Data Analysis
+
+| Number | Course Title                 | Link                                         |
+|--------|------------------------------|----------------------------------------------|
+| 1      | Statistics and R             | [Link](https://lnkd.in/ggwKPfH3)             |
+| 2      | Probability                  | [Link](https://lnkd.in/gRA-sCrU)             |
+| 3      | Linear Regression            | [Link](https://lnkd.in/gCqYdf_W)             |
+| 4      | Inference and Modelling      | [Link](https://lnkd.in/gSnuYTMW)             |
+| 5      | R Basics                     | [Link](https://lnkd.in/gzW8Z5jT)             |
+| 6      | Data Wrangling               | [Link](https://lnkd.in/gnArki9W)             |
+
+### Coursera - RICE
+
+| Course Title                        | Link                                         |
+|-------------------------------------|----------------------------------------------|
+| Introduction to Data Analysis with Excel | [Link](https://lnkd.in/gBVHWzvR)             |
+
+### Coursera - Johns Hopkins
+
+| Number | Course Title                               | Link                                         |
+|--------|--------------------------------------------|----------------------------------------------|
+| 1      | Advanced Statistics for Data Science Specialization | [Link](https://lnkd.in/g_n-3Wn5)             |
+| 2      | Johns Hopkins - Biostatistics in Public Health Specialization | [Link](https://lnkd.in/g2bGxxet)             |
+
+### Youtube - Learn Machine Learning
+
+| Channel                                                       | Link                                         |
+|----------------------------------------------------------------|----------------------------------------------|
+| Stanford University CS229: Machine Learning                    | [Link](https://t.co/cMLzvsdIcT)               |
+| Making Friends With Machine Learning                           | [Link](https://t.co/LiujYMWFbT)               |
+| Neural Networks: Zero to Hero                                  | [Link](https://t.co/WaYzmyHYKU)               |
+| Massachusetts Institute of Technology Deep Learning For Art, Aesthetics, And Creativity | [Link](https://t.co/cANOWM1M2B)               |
+| Stanford University CS230: Deep Learning (2018)                | [Link](https://t.co/F1jBHejS5k)               |
+| Applied Machine Learning (Cornell Tech Cs 5787, Fall 2020)      | [Link](https://t.co/2znEMgrJvf)               |
+| Practical Deep Learning for Coders 2022                        | [Link](https://t.co/xTg00k7wrt)               |
+| Practical Deep Learning for Coders 2022 - Part 2               | [Link](https://t.co/82AHonifNK)               |
+| Machine Learning With Graphs                                   | [Link](https://t.co/hkgfoFoB9O)               |
+| Probabilistic Machine Learning Philipp Hennig 2021              | [Link](https://t.co/Z76gVxeI3d)               |
+| Deep Unsupervised Learning - University of California, Berkeley Spring 2020 | [Link](https://t.co/ywkSKC5r5w)               |
+| Foundation Models                                              | [Link](https://t.co/owLqaDXAwj)               |
+| Stanford University CS25 - Transformers United                 | [Link](https://t.co/nkTtSCG854)               |
+
+### Others
+
+#### Writing
+
+| Course Title                               | Link                                         |
+|--------------------------------------------|----------------------------------------------|
+| Lund - Writing in English at University     | [Link](https://lnkd.in/gpMSRaAE)               |
+| Ecole Polytechnique: How to Write and Publish a Scientific Paper | [Link](https://lnkd.in/gPfSdCSv)               |
+| Stanford - Writing in the Sciences          | [Link](https://lnkd.in/gSK3HbPn)               |
+
+#### Study Designs
+
+| Course Title                                   | Link                                         |
+|------------------------------------------------|----------------------------------------------|
+| NUS - Quantitative and Qualitative Research for Beginners | [Link](https://lnkd.in/ggfRpway)               |
+| Imperial - Study Designs in Epidemiology        | [Link](https://lnkd.in/gay73vX8)               |
+| UCT - Understanding Clinical Research: Behind the Statistics | [Link](https://lnkd.in/g6nhZjt6)               |
+| Johns Hopkins - Introduction to Systematic Review and Meta-Analysis | [Link](https://lnkd.in/gvA5cfbT)               |
+
+#### Communication Skills
+
+| Course Title                                   | Link                                         |
+|------------------------------------------------|----------------------------------------------|
+| Harvard - Rhetoric: The Art of Persuasive Writing and Public Speaking | [Link](https://lnkd.in/gxsf9KgA)               |
+
+#### Grant Writing
+
+| Course Title                                   | Link                                         |
+|------------------------------------------------|----------------------------------------------|
+| Udemy - Just Start Grant Writing                | [Link](https://lnkd.in/gT2v9peW)               |
+
+#### Project Management
+
+| Course Title                                   | Link                                         |
+|------------------------------------------------|----------------------------------------------|
+| UCI - Project Management: The Basics for Success | [Link](https://lnkd.in/gRpf7NuB)               |
 
 ## Top Companies and Universities💥
 
