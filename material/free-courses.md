@@ -71,8 +71,8 @@ Empowering higher education institutions to prepare students for industry-recogn
 
 ## Learn Python
 
-| Number | Platform                             | Link                                      |
-|--------|--------------------------------------|-------------------------------------------|
+| No. | Platform                             | Link                                      |
+|--------:|--------------------------------------|-------------------------------------------|
 | 1      | W3Schools.com                        | [Link](https://lnkd.in/dxDE3jWb)          |
 | 2      | freeCodeCamp                         | [Link](https://lnkd.in/dcH_w-hy)          |
 | 3      | Kaggle                               | [Link](https://lnkd.in/d2Rh4HPA)          |
@@ -87,8 +87,8 @@ Empowering higher education institutions to prepare students for industry-recogn
 
 ## Top Companies and Universities💥
 
-| Number | Organization                                                                              | Link                                       |
-|--------|------------------------------------------------------------------------------------------|--------------------------------------------|
+| No. | Organization                                                                              | Link                                       |
+|--------:|------------------------------------------------------------------------------------------|--------------------------------------------|
 | 1      | Harvard University: Professional and Lifelong Learning                                    | [Link](https://pll.harvard.edu/)           |
 | 2      | Amazon: Start Building on AWS Today                                                       | [Link](https://aws.amazon.com/)            |
 | 3      | Google: Master the Google tools you use at work with online training                       | [Link](https://skillshop.withgoogle.com/)  |
@@ -98,8 +98,8 @@ Empowering higher education institutions to prepare students for industry-recogn
 
 ### Coursera - Harvard Data Analysis
 
-| Number | Course Title                 | Link                                         |
-|--------|------------------------------|----------------------------------------------|
+| No. | Course Title                 | Link                                         |
+|-------:|------------------------------|----------------------------------------------|
 | 1      | Statistics and R             | [Link](https://lnkd.in/ggwKPfH3)             |
 | 2      | Probability                  | [Link](https://lnkd.in/gRA-sCrU)             |
 | 3      | Linear Regression            | [Link](https://lnkd.in/gCqYdf_W)             |
@@ -175,69 +175,6 @@ Empowering higher education institutions to prepare students for industry-recogn
 |------------------------------------------------|----------------------------------------------|
 | UCI - Project Management: The Basics for Success | [Link](https://lnkd.in/gRpf7NuB)               |
 
-## Top Companies and Universities💥
-
-1. [Harvard University: Professional and Lifelong Learning](https://pll.harvard.edu/)
-2. [Amazon: Start Building on AWS Today](https://aws.amazon.com/)
-3. [Google: Master the Google tools you use at work with online training](https://skillshop.withgoogle.com/)
-4. [Simplilearn](https://www.simplilearn.com/)
-5. [Cisco Networking Academy](https://www.cisco.com/c/m/en_sg/partners/cisco-networking-academy/index.html)
-6. [Udemy](https://www.udemy.com/courses/search/?q=free%20courses)
-
-## Coursera
-
-### Harvard - Data Analysis
-1. [Statistics and R](https://lnkd.in/ggwKPfH3)
-2. [Probability](https://lnkd.in/gRA-sCrU)
-3. [Linear Regression](https://lnkd.in/gCqYdf_W)
-4. [Inference and Modelling](https://lnkd.in/gSnuYTMW)
-5. [R Basics](https://lnkd.in/gzW8Z5jT)
-6. [Data Wrangling](https://lnkd.in/gnArki9W)
-
-### RICE
-[Introduction to Data Analysis with Excel](https://lnkd.in/gBVHWzvR)
- 
-### Johns Hopkins
-1. [Advanced Statistics for Data Science Specialization](https://lnkd.in/g_n-3Wn5)
-2. [Johns Hopkins - Biostatistics in Public Health Specialization](https://lnkd.in/g2bGxxet)
-
-## Youtube: Learn Machine Learning
-👉 Here are 13 Youtube channels that will teach you more than the paid one.
-
-- [Stanford University CS229: Machine Learning](https://t.co/cMLzvsdIcT)
-- [Making Friends With Machine Learning](https://t.co/LiujYMWFbT)
-- [Neural Networks: Zero to Hero](https://t.co/WaYzmyHYKU)
-- [Massachusetts Institute of Technology Deep Learning For Art, Aesthetics, And Creativity](https://t.co/cANOWM1M2B)
-- [Stanford University CS230: Deep Learning (2018)](https://t.co/F1jBHejS5k)
-- [Applied Machine Learning (Cornell Tech Cs 5787, Fall 2020)](https://t.co/2znEMgrJvf)
-- [Practical Deep Learning for Coders 2022](https://t.co/xTg00k7wrt)
-- [Practical Deep Learning for Coders 2022 - Part 2](https://t.co/82AHonifNK)
-- [Machine Learning With Graphs](https://t.co/hkgfoFoB9O)
-- [Probabilistic Machine Learning  Philipp Hennig 2021](https://t.co/Z76gVxeI3d)
-- [Deep Unsupervised Learning - University of California, Berkeley Spring 2020](https://t.co/ywkSKC5r5w)
-- [Foundation Models](https://t.co/owLqaDXAwj)
-- [Stanford University CS25 - Transformers United](https://t.co/nkTtSCG854)
-
-## Others
-### Writing
-1. [Lund - Writing in English at University](https://lnkd.in/gpMSRaAE)
-2. [Ecole Polytechnique: How to Write and Publish a Scientific Paper](https://lnkd.in/gPfSdCSv)
-3. [Stanford - Writing in the Sciences](https://lnkd.in/gSK3HbPn)
-
-### Study Designs
-1. [NUS - Quantitative and Qualitative Research for Beginners](https://lnkd.in/ggfRpway)
-2. [Imperial - Study Designs in Epidemiology](https://lnkd.in/gay73vX8)
-3. [UCT - Understanding Clinical Research: Behind the Statistics](https://lnkd.in/g6nhZjt6)
-4. [Johns Hopkins - Introduction to Systematic Review and Meta-Analysis](https://lnkd.in/gvA5cfbT)
-
-### Communication skills
-[Harvard - Rhetoric: The Art of Persuasive Writing and Public Speaking](https://lnkd.in/gxsf9KgA)
-
-### Grant writing
-[Udemy - Just Start Grant Writing](https://lnkd.in/gT2v9peW)
-
-### Project Management
-[UCI - Project Management: The Basics for Success](https://lnkd.in/gRpf7NuB)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-material/issues) for any improvements, suggestions or errors in the content.
