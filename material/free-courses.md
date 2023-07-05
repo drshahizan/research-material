@@ -12,21 +12,21 @@ Empowering higher education institutions to prepare students for industry-recogn
 
 | Course Name                                          | Category              |  |
 |------------------------------------------------------|-----------------------|:----------:|
-| Academy Cloud Foundations                            | Cloud                 | <a href="../images/document1.png"><img src="../images/document1.png" width="24px" height="24px"></a>   |
-| Academy Cloud Architecting                           | Cloud                 |       |
-| Academy Cloud Operations                             | Cloud                 |       |
-| Academy Cloud Developing                             | Cloud                 |       |
-| Academy Machine Learning Foundations                 | Machine Learning      |      |
-| Academy Introduction to Cloud: Semester 1            | Cloud                 |      |
-| Academy Machine Learning for Natural Language Processing | Machine Learning  |       |
-| Academy Introduction to Cloud: Semester 2            | Cloud                 |      |
-| Academy Engineering Operations Technician            | Cloud Operations      |      |
-| Academy Data Center Technician                        | Cloud Operations      |      |
-| Academy Learner Lab                                  | General               |       |
-| Academy Cloud Security Foundations                   | Cloud Security        |       |
-| Academy Data Engineering                             | Data Engineering      |       |
-| Academy Lab Project - Cloud Data Pipeline Builder     | Cloud Development     |      |
-| Academy Lab Project - Cloud Web Application Builder   | Cloud Development     |      |
+| Academy Cloud Foundations                            | Cloud                 | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
+| Academy Cloud Architecting                           | Cloud                 | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
+| Academy Cloud Operations                             | Cloud                 | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
+| Academy Cloud Developing                             | Cloud                 | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
+| Academy Machine Learning Foundations                 | Machine Learning      | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
+| Academy Introduction to Cloud: Semester 1            | Cloud                 | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
+| Academy Machine Learning for Natural Language Processing | Machine Learning  | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
+| Academy Introduction to Cloud: Semester 2            | Cloud                 | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
+| Academy Engineering Operations Technician            | Cloud Operations      | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
+| Academy Data Center Technician                        | Cloud Operations      | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
+| Academy Learner Lab                                  | General               | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
+| Academy Cloud Security Foundations                   | Cloud Security        | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
+| Academy Data Engineering                             | Data Engineering      | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
+| Academy Lab Project - Cloud Data Pipeline Builder     | Cloud Development     |<a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
+| Academy Lab Project - Cloud Web Application Builder   | Cloud Development     | <a href="https://aws.amazon.com/training/awsacademy/"><img src="../images/document1.png" width="24px" height="24px"></a>   |
 
 
 ## Free Courses
