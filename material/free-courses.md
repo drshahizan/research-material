@@ -31,6 +31,21 @@ Empowering higher education institutions to prepare students for industry-recogn
 
 ## Free Courses
 
+| No. | Course Name                                            | Link                                       |
+|-----|--------------------------------------------------------|--------------------------------------------|
+| 1.  | Introduction to Computer Science                        | [Link](https://t.co/mIKQfC0QlT)             |
+| 2.  | Introduction to Programming with Scratch                | [Link](https://t.co/vRxv647Hqg)             |
+| 3.  | Web Programming with Python and JavaScript              | [Link](https://t.co/HzBmdTEdkT)             |
+| 4.  | Introduction to Programming with Python                 | [Link](https://t.co/hRyuMNzlhM)             |
+| 5.  | Understanding Technology                                | [Link](https://t.co/FDKXqMe4Pj)             |
+| 6.  | Introduction to Artificial Intelligence with Python     | [Link](https://t.co/VoINVOJQtb)             |
+| 7.  | Introduction to Game Development                        | [Link](https://t.co/wXKNw24tz8)             |
+| 8.  | Mobile App Development with React Native                | [Link](https://t.co/e7L22cjRYn)             |
+| 9.  | CS50's Computer Science for Business Professionals      | [Link](https://t.co/w3IxVWTNnq)             |
+| 10. | Introduction to Data Science with Python                | [Link](https://t.co/jjrip2gHGj)             |
+
+The table includes the course number, course name, and the corresponding link to access each course. You can further modify the table to include additional information or formatting according to your needs.
+
 1. [Introduction to Computer Science](https://t.co/mIKQfC0QlT)
 2. [Introduction to Programming with Scratch](https://t.co/vRxv647Hqg)
 3. [Web Programming with Python and JavaScript](https://t.co/HzBmdTEdkT)
