@@ -4,7 +4,7 @@ AI tools have revolutionized the process of literature review by offering advanc
 
 ### Paper Search
 
-| AI Tool         | Description                                                                                                                                                                                                                    | Website Link                                                     |
+| AI Tool         | Description | Website Link |
 |-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
 | Elicit          | Elicit is an AI-powered tool that assists researchers in searching for relevant research papers. It uses advanced algorithms to analyze and understand the content of papers, making it easier to find specific information.         | [Elicit Website](https://www.elicit.ai/)                         |
 | Evidence Hunt   | Evidence Hunt is an AI-powered tool that streamlines the process of finding research papers. It utilizes natural language processing and machine learning techniques to identify and prioritize papers based on their relevance to your research. | [Evidence Hunt Website](https://evidence-hunt.com/)              |
@@ -14,7 +14,7 @@ AI tools have revolutionized the process of literature review by offering advanc
 
 ### Paper Discovery
 
-| AI Tool         | Description                                                                                                                                                                                                                    | Website Link                                                     |
+| AI Tool         | Description | Website Link |
 |-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
 | Connected Papers | Connected Papers is an AI tool that helps researchers discover relevant articles by visualizing the connections between papers. It generates a visual graph based on a seed paper, allowing researchers to explore related articles and scholarly connections.     | [Connected Papers Website](https://www.connectedpapers.com/)     |
 | Iris            | Iris is an AI tool that offers various features to aid in literature review. One of its notable functionalities is the "concept maps" feature, which visualizes relationships between research papers and helps researchers identify related papers.    | [Iris Website](https://iris.ai/)                                 |
@@ -25,14 +25,14 @@ AI tools have revolutionized the process of literature review by offering advanc
 
 ### Paper Visualization
 
-| AI Tool         | Description                                                                                                                                                                                                                    | Website Link                                                     |
+| AI Tool         | Description | Website Link |
 |-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
 | Inciteful       | Inciteful is an AI tool that assists researchers in visualizing the relationships between research papers. By creating interactive graphs, it helps researchers understand how a paper is connected to others, facilitating a comprehensive literature review. | [Inciteful Website](https://inciteful.com/)                     |
 | SciSpace        | SciSpace is an AI-powered platform that helps researchers visualize scientific knowledge and explore relationships between research papers. It uses interactive visualizations and network graphs to provide insights into the structure and connections within the scientific literature. | [SciSpace Website](https://www.scispace.ai/)                     |
 
 ### Chatbot and Assistance
 
-| AI Tool         | Description                                                                                                                                                                                                                    | Website Link                                                     |
+| AI Tool         | Description | Website Link |
 |-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
 | Bing Chat AI    | Bing Chat AI is an AI-powered chatbot that can provide assistance with literature search queries, answer questions, and offer guidance during the research process. It leverages natural language processing to understand user queries and provide relevant information. | [Bing Chat AI](https://www.bing.com/chat/)                      |
 | PaperPal        | PaperPal is an AI tool that assists researchers in organizing and managing their research papers. It provides features such as automatic metadata extraction, smart tagging, and search capabilities to streamline the process of storing and retrieving papers for literature review. | [PaperPal Website](https://www.paperpal.ai/)                     |
