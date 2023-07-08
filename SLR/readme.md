@@ -29,7 +29,12 @@ In PRISMA 2020, there are now expanded options depending on where you search and
 
 [More info: Creating a PRISMA flow diagram](https://guides.lib.unc.edu/prisma)
 
-# Awesome tools for systematic review
+## SLR concept
+- [Systematic literature review](https://bdavison.napier.ac.uk/projects/methods/details/slr/)
+- [Systematic reviews](https://kib.ki.se/en/search-evaluate/systematic-reviews)
+- [Systematic review tools](http://systematicreviewtools.com/index.php)
+
+## Awesome tools for systematic review
 - [ChatGPT, LEX A.I, ELICIT: These AI tools will make literature review and research fast](https://youtu.be/mAsI_yDUIZk)
 - [AI for scientific work [Galactica, Explain Paper, Elicit]](https://youtu.be/v-E7xLi_-mk)
 - [Exploring AI Research Tools (ChatGPT, Elicit, SciSpace)](https://youtu.be/Jz-mW3azUMw)
