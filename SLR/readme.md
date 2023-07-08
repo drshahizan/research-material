@@ -34,6 +34,7 @@ In PRISMA 2020, there are now expanded options depending on where you search and
 - [Systematic reviews](https://kib.ki.se/en/search-evaluate/systematic-reviews)
 - [Systematic review tools](http://systematicreviewtools.com/index.php)
 - [Systematic and Literature Reviews](https://libguides.calstatela.edu/c.php?g=1069421&p=8731607)
+- [Artificial intelligence maturity model: a systematic literature review](https://peerj.com/articles/cs-661/)
 
 ## Awesome tools for systematic review
 - [ChatGPT, LEX A.I, ELICIT: These AI tools will make literature review and research fast](https://youtu.be/mAsI_yDUIZk)
