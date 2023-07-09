@@ -14,8 +14,8 @@ AI tools have revolutionized the process of literature review by offering advanc
 
 ### Paper Discovery
 
-| AI Tool         | Description | Website Link |
-|-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| AI Tool         | Description | Link |
+|-----------------|-------------------------|:---------------------:|
 | Connected Papers | Connected Papers is an AI tool that helps researchers discover relevant articles by visualizing the connections between papers. It generates a visual graph based on a seed paper, allowing researchers to explore related articles and scholarly connections.     | [Connected Papers Website](https://www.connectedpapers.com/)     |
 | Iris            | Iris is an AI tool that offers various features to aid in literature review. One of its notable functionalities is the "concept maps" feature, which visualizes relationships between research papers and helps researchers identify related papers.    | [Iris Website](https://iris.ai/)                                 |
 | R Discovery     | R Discovery is an AI-powered platform that helps researchers stay up to date with the latest research. Its smartphone app uses AI algorithms to find and recommend recent papers in your field, and it allows for creating paper collections that sync with reference management tools. | [R Discovery Website](https://www.rdiscovery.ai/)                |
@@ -25,15 +25,15 @@ AI tools have revolutionized the process of literature review by offering advanc
 
 ### Paper Visualization
 
-| AI Tool         | Description | Website Link |
-|-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| AI Tool         | Description | Link |
+|-----------------|-------------------------|:---------------------:|
 | Inciteful       | Inciteful is an AI tool that assists researchers in visualizing the relationships between research papers. By creating interactive graphs, it helps researchers understand how a paper is connected to others, facilitating a comprehensive literature review. | [Inciteful Website](https://inciteful.com/)                     |
 | SciSpace        | SciSpace is an AI-powered platform that helps researchers visualize scientific knowledge and explore relationships between research papers. It uses interactive visualizations and network graphs to provide insights into the structure and connections within the scientific literature. | [SciSpace Website](https://www.scispace.ai/)                     |
 
 ### Chatbot and Assistance
 
-| AI Tool         | Description | Website Link |
-|-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| AI Tool         | Description | Link |
+|-----------------|-------------------------|:---------------------:|
 | Bing Chat AI    | Bing Chat AI is an AI-powered chatbot that can provide assistance with literature search queries, answer questions, and offer guidance during the research process. It leverages natural language processing to understand user queries and provide relevant information. | [Bing Chat AI](https://www.bing.com/chat/)                      |
 | PaperPal        | PaperPal is an AI tool that assists researchers in organizing and managing their research papers. It provides features such as automatic metadata extraction, smart tagging, and search capabilities to streamline the process of storing and retrieving papers for literature review. | [PaperPal Website](https://www.paperpal.ai/)                     |
 | Paper Brain     | Paper Brain is an AI tool that assists researchers in organizing and managing their research papers. It offers features such as automated tagging, advanced search, and personalized recommendations, making it easier to navigate and find relevant papers for literature review. | [Paper Brain Website](https://www.paperbrain.app/)               |
