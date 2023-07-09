@@ -29,8 +29,8 @@ AI tools have revolutionized the process of literature review by offering advanc
 
 | AI Tool         | Description | Link |
 |-----------------|-------------------------|:---------------------:|
-| Inciteful       | Inciteful is an AI tool that assists researchers in visualizing the relationships between research papers. By creating interactive graphs, it helps researchers understand how a paper is connected to others, facilitating a comprehensive literature review. | <a href="" ><img src="/images/document1.png" width="24px" height="24px" ></a>|
-| SciSpace        | SciSpace is an AI-powered platform that helps researchers visualize scientific knowledge and explore relationships between research papers. It uses interactive visualizations and network graphs to provide insights into the structure and connections within the scientific literature. | <a href="" ><img src="/images/document1.png" width="24px" height="24px" ></a>|
+| Inciteful       | Inciteful is an AI tool that assists researchers in visualizing the relationships between research papers. By creating interactive graphs, it helps researchers understand how a paper is connected to others, facilitating a comprehensive literature review. | <a href="https://inciteful.xyz/" ><img src="/images/document1.png" width="24px" height="24px" ></a>|
+| SciSpace        | SciSpace is an AI-powered platform that helps researchers visualize scientific knowledge and explore relationships between research papers. It uses interactive visualizations and network graphs to provide insights into the structure and connections within the scientific literature. | <a href="https://typeset.io/" ><img src="/images/document1.png" width="24px" height="24px" ></a>|
 
 ### Chatbot and Assistance
 
