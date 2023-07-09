@@ -4,9 +4,9 @@ AI tools have revolutionized the process of literature review by offering advanc
 
 ### Paper Search
 
-| AI Tool         | Description | Website Link |
+| AI Tool         | Description | Link |
 |-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
-| Elicit          | Elicit is an AI-powered tool that assists researchers in searching for relevant research papers. It uses advanced algorithms to analyze and understand the content of papers, making it easier to find specific information.         | [Elicit](https://elicit.org/)                         |
+| Elicit          | Elicit is an AI-powered tool that assists researchers in searching for relevant research papers. It uses advanced algorithms to analyze and understand the content of papers, making it easier to find specific information. | <a href="https://elicit.org" ><img src="/images/document1.png" width="24px" height="24px" ></a>|
 | Evidence Hunt   | Evidence Hunt is an AI-powered tool that streamlines the process of finding research papers. It utilizes natural language processing and machine learning techniques to identify and prioritize papers based on their relevance to your research. | [Evidence Hunt Website](https://evidence-hunt.com/)              |
 | Litmaps         | Litmaps is an AI-powered platform that offers comprehensive literature search capabilities. It analyzes millions of scholarly articles and provides visualizations and summaries to help researchers find relevant papers and understand key concepts.         | [Litmaps Website](https://litmaps.co/)                           |
 | SciTe AI        | SciTe AI is an AI tool that simplifies the process of finding scientific articles. It employs natural language processing and machine learning techniques to analyze the content of papers and provide accurate search results. SciTe AI helps researchers locate relevant papers quickly. | [SciTe AI Website](https://www.scite.ai/)                        |
