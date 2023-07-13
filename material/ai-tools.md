@@ -1,3 +1,12 @@
+<a href="https://github.com/drshahizan/research-material/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/research-material" alt="Stars Badge"/></a>
+<a href="https://github.com/drshahizan/research-material/network/members"><img src="https://img.shields.io/github/forks/drshahizan/research-material" alt="Forks Badge"/></a>
+<a href="https://github.com/drshahizan/research-material/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/research-material" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/drshahizan/research-material/issues"><img src="https://img.shields.io/github/issues/drshahizan/research-material" alt="Issues Badge"/></a>
+<a href="https://github.com/drshahizan/research-material/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/research-material?color=2b9348"></a>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fresearch-material&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
+
+Don't forget to hit the :star: if you like this repo.
+
 # AI tools for Literature Review
 
 AI tools have revolutionized the process of literature review by offering advanced capabilities to researchers. These tools leverage artificial intelligence, machine learning, and natural language processing to enhance the efficiency and effectiveness of searching, organizing, and analyzing research papers. From intelligent search algorithms to visualizing paper connections, these AI tools empower researchers to accelerate their literature review process and gain valuable insights from vast repositories of scholarly articles.
@@ -46,3 +55,12 @@ AI tools have revolutionized the process of literature review by offering advanc
 | ChatPDF    | ChatPDF is a web application that allows you to chat with your PDF documents. It uses AI to understand the content of your PDFs and answer your questions in a natural language conversation. | <a href="https://www.chatpdf.com" ><img src="/images/document1.png" width="24px" height="24px" ></a>|
 | PaperPal        | PaperPal is an AI-powered writing assistant that helps researchers and students with their academic writing. It can help you with grammar, style, and clarity, as well as with finding relevant sources and citations. PaperPal is available as a web app and as a Microsoft Word add-in. | <a href="https://paperpal.com/" ><img src="/images/document1.png" width="24px" height="24px" ></a>|
 | Paper Brain     | Paper Brain is an AI tool that assists researchers in organizing and managing their research papers. It offers features such as automated tagging, advanced search, and personalized recommendations, making it easier to navigate and find relevant papers for literature review. | <a href="https://www.paperbrain.study/" ><img src="/images/document1.png" width="24px" height="24px" ></a>|
+
+
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/research-material/issues) for any improvements, suggestions or errors in the content.
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
