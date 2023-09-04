@@ -29,6 +29,9 @@ In PRISMA 2020, there are now expanded options depending on where you search and
 
 [More info: Creating a PRISMA flow diagram](https://guides.lib.unc.edu/prisma)
 
+## Materials: Li Jing
+[A Systematic Literature Review on Feature Selection for Machine Learning based Attack Classification for IoT Security](https://github.com/drshahizan/research-material/blob/main/SLR/lijing/A%20Systematic%20Literature%20Review%20on%20Feature%20Selection%20for%20Machine%20Learning%20based%20Attack%20Classification%20for%20IoT%20Security_2023-02-19.pdf)
+
 ## SLR concept
 - [Systematic literature review](https://bdavison.napier.ac.uk/projects/methods/details/slr/)
 - [Systematic reviews](https://kib.ki.se/en/search-evaluate/systematic-reviews)
