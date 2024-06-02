@@ -65,6 +65,12 @@ Don't forget to hit the :star: if you like this repo.
 | 4 | Zhu Chaihua | A Model of Customer Stickiness for Cross-Border Import Social E-Commerce Platform in China | <a href="https://drive.google.com/drive/folders/138Pj_MnAxx2Q-CVd36ks9HtUE0DbM40N?usp=drive_link" ><img src="/images/document1.png" width="24px" height="24px" ></a> |
 | 5 | Anwar Said Salim Al Talaii | Artificial Intelligence to Enhance Development and Increase Harvest Production for Agriculture in Sultant of Oman using drones |   |
 
+## 📖 Msc Data Science: Proposal
+| No | Name | Title |  File |
+| -----: | ----- | ------ | ------ | 
+| 1 | Afrina | Enhanced Attack Detection and Classification Techniques Based on Feature Manipulation of IOT Data for IOT Security | <a href="https://drive.google.com/drive/u/1/folders/1htEHWofGPdG0_bB_OxUMkcLycj0pf5DZ" ><img src="/images/document1.png" width="24px" height="24px" ></a>
+
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-material/issues) for any improvements, suggestions or errors in the content.
 
