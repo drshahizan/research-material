@@ -68,7 +68,7 @@ Don't forget to hit the :star: if you like this repo.
 ## 📖 Msc Data Science: Proposal
 | No | Name | Title |  File |
 | -----: | ----- | ------ | ------ | 
-| 1 | Afrina | Cooking Oil Price Forecasting Using Sarima and LSTM in Malaysia | <a href="https://drive.google.com/drive/u/1/folders/1htEHWofGPdG0_bB_OxUMkcLycj0pf5DZ" ><img src="/images/document1.png" width="24px" height="24px" ></a>
+| 1 | Afrina | Cooking Oil Price Forecasting Using Sarima and LSTM in Malaysia | <a href="https://drive.google.com/drive/folders/1mXXjKQLtTxGbJWc_3y46TWzW_oQSeHSD?usp=sharing" ><img src="/images/document1.png" width="24px" height="24px" ></a>
 
 
 ## Contribution 🛠️
