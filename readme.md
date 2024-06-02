@@ -62,9 +62,8 @@ Don't forget to hit the :star: if you like this repo.
 | 1 | Li Jing | Enhanced Attack Detection and Classification Techniques Based on Feature Manipulation of IOT Data for IOT Security | <a href="https://drive.google.com/drive/u/1/folders/1htEHWofGPdG0_bB_OxUMkcLycj0pf5DZ" ><img src="/images/document1.png" width="24px" height="24px" ></a>
 | 2 | Saleh Dhekre Saber Saleh | A Predictive Analysis Framework of Thyroid Disease Using Machine Learning Approaches | <a href="https://drive.google.com/drive/u/1/folders/128OOMGs6TJEXIsu1Xetfx19ZKxeekUXS" ><img src="/images/document1.png" width="24px" height="24px" ></a> |
 | 3 | Zhu Linnan | User-Level Determinants of Effective Use of Management Information Systems in Ordinary Universities in China's Higher Education Industry | <a href="https://drive.google.com/drive/folders/138Pj_MnAxx2Q-CVd36ks9HtUE0DbM40N?usp=drive_link" ><img src="/images/document1.png" width="24px" height="24px" ></a> |
-
-
-| 3 | Anwar Said Salim Al Talaii | Artificial Intelligence to Enhance Development and Increase Harvest Production for Agriculture in Sultant of Oman using drones |   |
+| 4 | Zhu Chaihua | A Model of Customer Stickiness for Cross-Border Import Social E-Commerce Platform in China | <a href="https://drive.google.com/drive/folders/138Pj_MnAxx2Q-CVd36ks9HtUE0DbM40N?usp=drive_link" ><img src="/images/document1.png" width="24px" height="24px" ></a> |
+| 5 | Anwar Said Salim Al Talaii | Artificial Intelligence to Enhance Development and Increase Harvest Production for Agriculture in Sultant of Oman using drones |   |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-material/issues) for any improvements, suggestions or errors in the content.
