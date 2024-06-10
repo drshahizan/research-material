@@ -68,8 +68,8 @@ Don't forget to hit the :star: if you like this repo.
 ## 📖 Msc Data Science: Proposal
 | No | Name | Title |  File |
 | -----: | ----- | ------ | ------ | 
-| 1 | Afrina | Cooking Oil Price Forecasting Using Sarima and LSTM in Malaysia | <a href="https://drive.google.com/drive/folders/1mXXjKQLtTxGbJWc_3y46TWzW_oQSeHSD?usp=sharing" ><img src="/images/document1.png" width="24px" height="24px" ></a>
-
+| 1 | Afrina | Cooking Oil Price Forecasting Using Sarima and LSTM in Malaysia | <a href="https://drive.google.com/drive/folders/1mXXjKQLtTxGbJWc_3y46TWzW_oQSeHSD?usp=sharing" ><img src="/images/document1.png" width="24px" height="24px" ></a>|
+| 2 | Afrina | Proposal (Slide presentation) Performance Analysis Between Linear Regression and XGboost Regression Algorithms in Forecasting Demand Inventory | <a href="https://drive.google.com/drive/folders/1mXXjKQLtTxGbJWc_3y46TWzW_oQSeHSD?usp=sharing" ><img src="/images/document1.png" width="24px" height="24px" ></a>|
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-material/issues) for any improvements, suggestions or errors in the content.
