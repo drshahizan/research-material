@@ -65,11 +65,12 @@ Don't forget to hit the :star: if you like this repo.
 | 4 | Zhu Chaihua | A Model of Customer Stickiness for Cross-Border Import Social E-Commerce Platform in China | <a href="https://drive.google.com/drive/folders/138Pj_MnAxx2Q-CVd36ks9HtUE0DbM40N?usp=drive_link" ><img src="/images/document1.png" width="24px" height="24px" ></a> |
 | 5 | Anwar Said Salim Al Talaii | Artificial Intelligence to Enhance Development and Increase Harvest Production for Agriculture in Sultant of Oman using drones |   |
 
-## 📖 Msc Data Science: Proposal
-| No | Name | Title |  File |
-| -----: | ----- | ------ | ------ | 
-| 1 | Afrina | Cooking Oil Price Forecasting Using Sarima and LSTM in Malaysia | <a href="https://drive.google.com/drive/folders/1mXXjKQLtTxGbJWc_3y46TWzW_oQSeHSD?usp=sharing" ><img src="/images/document1.png" width="24px" height="24px" ></a>|
-| 2 | Afrina | Proposal (Slide presentation) Performance Analysis Between Linear Regression and XGboost Regression Algorithms in Forecasting Demand Inventory | <a href="https://drive.google.com/drive/folders/1mXXjKQLtTxGbJWc_3y46TWzW_oQSeHSD?usp=sharing" ><img src="/images/document1.png" width="24px" height="24px" ></a>|
+## 📖 Msc Data Science
+| No | Name | Type|Title |  File |
+| -----: | ----- |-----| ------ | ------ | 
+| 1 | Nur Afrina Binti Mohamad Abdul Ghafar | Project 1 | Cooking Oil Price Forecasting Using Sarima and LSTM in Malaysia | <a href="https://drive.google.com/drive/folders/1mXXjKQLtTxGbJWc_3y46TWzW_oQSeHSD?usp=sharing" ><img src="/images/document1.png" width="24px" height="24px" ></a>|
+| 2 | Nur Afrina Binti Mohamad Abdul Ghafar| Proposal (Slide) | Performance Analysis Between Linear Regression and XGboost Regression Algorithms in Forecasting Demand Inventory | <a href="https://docs.google.com/presentation/d/1G7XHu6WjwB6ZWWPbmUtFaMB8mr2E594o/edit?usp=sharing&ouid=116754994049085925053&rtpof=true&sd=true" ><img src="/images/document1.png" width="24px" height="24px" ></a>|
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-material/issues) for any improvements, suggestions or errors in the content.
