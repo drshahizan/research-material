@@ -73,8 +73,6 @@ Don't forget to hit the :star: if you like this repo.
 | 3. | Ng Sze Yao| Project 2 | Music Recommendation System Based on LightGBM and Random Forest Algorithms | <a href="https://drive.google.com/file/d/10UQ26tfHMfw6bXMmC77osdKDTJo6Jq5B/view?usp=drive_link" ><img src="/images/document1.png" width="24px" height="24px" ></a>|
 | 4. | Nur Qurratul A’dliah Rozaimee | Project 2 | Prediction of Demand for Inventory Management using Machine Learning Approach | <a href="https://drive.google.com/file/d/10iGQjLyE37rn2xsj0kxSTzJ9nLVCY1xt/view?usp=drive_link" ><img src="/images/document1.png" width="24px" height="24px" ></a>|
 
-NG SZE YAO
-
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-material/issues) for any improvements, suggestions or errors in the content.
 
