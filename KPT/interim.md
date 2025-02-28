@@ -107,7 +107,7 @@ Kajian lanjut akan diteruskan dengan analisis lebih mendalam bagi memperincikan 
 
 **Lampiran:**  
 - Jadual lawatan tapak  
-- Transkrip temu bual  
+- Borang senarai kehadiran
 - Dokumentasi sistem sedia ada  
 - Laporan dan rujukan berkaitan
 
