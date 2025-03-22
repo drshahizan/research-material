@@ -9,17 +9,18 @@
 
 Pursuing a PhD in Computer Science demands access to structured, high-quality, and comprehensive resources. This curated collection of research materials is specifically tailored to support postgraduate students at various stages of their academic journey — from literature review and data collection to thesis writing and publication.
 
+## 👨‍🎓 PhD Students  
 
-## 📌 Contents Overview:
+A PhD journey requires focused, field-specific resources that support academic excellence and innovation. The materials provided are thoughtfully categorized by area of study to guide students through every phase — from proposal development to thesis completion.
 
-### 👨‍🎓 PhD Students  
-Resources are categorized based on fields of study:
+- **[Thesis – Computer Science](/material/student.md#computer-science)** 🖥️  
+  A comprehensive suite of resources dedicated to Computer Science, including technical references, curated datasets, machine learning applications, and detailed thesis preparation guides.
 
-- **[Computer Science](/material/student.md#computer-science)** 🖥️  
-  Access technical materials, datasets, machine learning resources, and thesis guidelines tailored for CS students.
+- **[Thesis – Information Systems](/material/student.md#social-science)** 📘  
+  Tailored for students in Information Systems and interdisciplinary domains, this section offers relevant research materials, frameworks, and methodological support for thesis writing.
 
-- **[Social Science](/material/student.md#social-science)** 📘  
-  Though the primary focus is on CS, materials are also extended to support interdisciplinary research.
+- **[PhD Proposal Resources](/material/student.md#-phd-proposal)** ✍️  
+  A step-by-step guide to crafting a compelling and well-structured PhD proposal — covering research problem formulation, literature review strategies, and methodology design.
 
 ## 🧾 Research Materials  
 
