@@ -80,9 +80,6 @@ A must-have collection of tools, guidelines, and templates to streamline your po
 - **[Journal Resources](https://github.com/drshahizan/research-material/blob/main/material/readme.md)** 📝  
   Tips on identifying reputable journals, submission processes, and maintaining publication ethics.
 
-This collection aims to empower PhD candidates with the right tools and information to excel in their research and academic contributions. Whether you're just starting or in the final stages of your doctorate, these materials provide the structure and support needed to succeed.
-
-
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-material/issues) for any improvements, suggestions or errors in the content.
 
