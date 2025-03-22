@@ -43,8 +43,8 @@ Accessing the right resources is crucial for academic excellence and successful 
 
 - **🧠 GitHub Repository**  
   Practical repositories for hands-on research activities and literature exploration:  
-  - [📄 Literature Review Exercises](./materials/lr.md)  
-  - [📊 Data Science Resources](./materials/ds.md)
+  - [📄 Literature Review Exercises](https://github.com/drshahizan/research-design/blob/main/materials/lr.md)  
+  - [📊 Data Science Resources](https://github.com/drshahizan/research-design/blob/main/materials/ds.md)
 
 - **[🎓 Free Courses and Learning Platforms](https://github.com/drshahizan/research-material/blob/main/material/free-courses.md)**  
   A curated list of high-quality, free online courses from globally recognized institutions — enabling students to deepen their expertise across a range of research-related topics and emerging technologies.
