@@ -24,19 +24,25 @@ A PhD journey requires focused, field-specific resources that support academic e
 
 ## 🧾 Research Materials  
 
-- **[Complete PhD Material Repository](https://github.com/drshahizan/research-material/tree/main/material)**  
-  A comprehensive GitHub repository with categorized materials to assist at every stage of your PhD.
+Accessing the right resources is crucial for academic excellence and successful research outcomes. The following curated materials are designed to support PhD candidates in developing strong research foundations, mastering advanced techniques, and producing high-impact scholarly work.
 
-- [Mastering Academic Writing with AI Assistance](https://github.com/drshahizan/short-course/tree/main/workshop/25AIwriting)
+- **[📚 Complete PhD Material Repository](https://github.com/drshahizan/research-material/tree/main/material)**  
+  A well-structured and categorized GitHub repository offering essential materials to guide PhD students through each stage of their research journey — from planning and execution to documentation and publication.
 
-- **[Systematic Literature Review (SLR)](https://github.com/drshahizan/short-course/tree/main/workshop/25slr)** 🔍  
-  Guidance on conducting systematic literature reviews using the PRISMA 2020 framework — essential for high-quality research synthesis.
+- **[🎥 Research Methodology Video Series](https://github.com/drshahizan/research-design/blob/main/materials/slides.md)**  
+  A comprehensive video-based resource that introduces key concepts in research methodology, including study design, data collection strategies, and analysis frameworks.
 
-- **[Applied Machine Learning](https://github.com/drshahizan/research-material/blob/main/material/applied-ml.md)** 🤖  
-  A focused collection of resources and notes to help apply machine learning techniques in real-world research.
+- **[✍️ Mastering Academic Writing with AI Assistance](https://github.com/drshahizan/short-course/tree/main/workshop/25AIwriting)**  
+  An innovative guide on enhancing academic writing through AI-powered tools — ideal for drafting, refining, and improving thesis chapters and journal articles.
 
-- **[Free Courses](https://github.com/drshahizan/research-material/blob/main/material/free-courses.md)** 🎓  
-  Upskill with carefully selected free online courses from reputable platforms.
+- **[🔍 Systematic Literature Review (SLR)](https://github.com/drshahizan/short-course/tree/main/workshop/25slr)**  
+  A complete toolkit for conducting systematic literature reviews using the PRISMA 2020 framework — including protocols, templates, and best practices for synthesizing research evidence with academic rigor.
+
+- **[🤖 Applied Machine Learning](https://github.com/drshahizan/research-material/blob/main/material/applied-ml.md)**  
+  A focused resource that equips students with practical knowledge and examples of implementing machine learning models in research, including data preprocessing, model selection, and evaluation.
+
+- **[🎓 Free Courses and Learning Platforms](https://github.com/drshahizan/research-material/blob/main/material/free-courses.md)**  
+  A curated list of high-quality, free online courses from globally recognized institutions — enabling students to deepen their expertise across a range of research-related topics and emerging technologies.
 
 
 ## 🎒 Postgraduate Kit
