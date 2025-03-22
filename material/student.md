@@ -46,6 +46,16 @@
 | :-----: | ----- | ------ | :------: | 
 | 1. | Nur Afrina Binti Mohamad Abdul Ghafar| Cooking Oil Price Forecasting Using SARIMA and LSTM in Malaysia | <a href="https://drive.google.com/drive/folders/1mXXjKQLtTxGbJWc_3y46TWzW_oQSeHSD?usp=drive_link" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a>|
 | 2. | Abubakar Sadiq Muahammad | Sentiment Analysis and Rating Prediction  for an E-Commerce Platforms in Malaysia using CNN and LSTM | <a href="https://drive.google.com/drive/folders/1qWTab1CFhBv_eBgr2tHIYP-ma-8tIt2b?usp=drive_link" ><img src="https://github.com/drshahizan/courses/blob/main/ULRS1012/images/pdf64.png" width="24px" height="24px" ></a>|
+## 📖 Msc Data Science
+| No | Name | Type|Title |  File |
+| -----: | ----- |-----| ------ | ------ | 
+| 1. | Nur Afrina Binti Mohamad Abdul Ghafar | Project 1 | Cooking Oil Price Forecasting Using Sarima and LSTM in Malaysia | <a href="https://drive.google.com/drive/folders/1mXXjKQLtTxGbJWc_3y46TWzW_oQSeHSD?usp=sharing" ><img src="/images/document1.png" width="24px" height="24px" ></a>|
+| 2. | Nur Afrina Binti Mohamad Abdul Ghafar| Proposal (Slide) | Performance Analysis Between Linear Regression and XGboost Regression Algorithms in Forecasting Demand Inventory | <a href="https://docs.google.com/presentation/d/1G7XHu6WjwB6ZWWPbmUtFaMB8mr2E594o/edit?usp=sharing&ouid=116754994049085925053&rtpof=true&sd=true" ><img src="/images/document1.png" width="24px" height="24px" ></a>|
+| 3. | Ng Sze Yao| Project 2 | Music Recommendation System Based on LightGBM and Random Forest Algorithms | <a href="https://drive.google.com/file/d/10UQ26tfHMfw6bXMmC77osdKDTJo6Jq5B/view?usp=drive_link" ><img src="/images/document1.png" width="24px" height="24px" ></a>|
+| 4. | Nur Qurratul A’dliah Rozaimee | Project 2 | Prediction of Demand for Inventory Management using Machine Learning Approach | <a href="https://drive.google.com/file/d/10iGQjLyE37rn2xsj0kxSTzJ9nLVCY1xt/view?usp=drive_link" ><img src="/images/document1.png" width="24px" height="24px" ></a>|
+
+
+
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
