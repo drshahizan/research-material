@@ -18,7 +18,7 @@ Resources are categorized based on fields of study:
 - **[Computer Science](/material/student.md#computer-science)** 🖥️  
   Access technical materials, datasets, machine learning resources, and thesis guidelines tailored for CS students.
 
-- **[Social Science](#)** 📘  
+- **[Social Science](/material/student.md#social-science)** 📘  
   Though the primary focus is on CS, materials are also extended to support interdisciplinary research.
 
 ## 🧾 Research Materials  
