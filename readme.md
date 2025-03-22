@@ -77,7 +77,7 @@ A must-have collection of tools, guidelines, and templates to streamline your po
 
 ## 📖 Journal and Publication Resources
 
-- **[Journal Resources](https://github.com/drshahizan/research-material/blob/main/material/readme.md)** 📝  
+- **[Journal Resources]()** 📝  
   Tips on identifying reputable journals, submission processes, and maintaining publication ethics.
 
 ## Contribution 🛠️
