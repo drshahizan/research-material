@@ -15,7 +15,7 @@ Pursuing a PhD in Computer Science demands access to structured, high-quality, a
 ### 👨‍🎓 PhD Students  
 Resources are categorized based on fields of study:
 
-- **[Computer Science](#)** 🖥️  
+- **[Computer Science](/material/student.md#computer-science)** 🖥️  
   Access technical materials, datasets, machine learning resources, and thesis guidelines tailored for CS students.
 
 - **[Social Science](#)** 📘  
