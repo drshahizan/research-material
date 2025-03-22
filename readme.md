@@ -27,7 +27,9 @@ A PhD journey requires focused, field-specific resources that support academic e
 - **[Complete PhD Material Repository](https://github.com/drshahizan/research-material/tree/main/material)**  
   A comprehensive GitHub repository with categorized materials to assist at every stage of your PhD.
 
-- **[Systematic Review: PRISMA 2020](./SLR)** 🔍  
+- [Mastering Academic Writing with AI Assistance](https://github.com/drshahizan/short-course/tree/main/workshop/25AIwriting)
+
+- **[Systematic Literature Review (SLR)](https://github.com/drshahizan/short-course/tree/main/workshop/25slr)** 🔍  
   Guidance on conducting systematic literature reviews using the PRISMA 2020 framework — essential for high-quality research synthesis.
 
 - **[Applied Machine Learning](https://github.com/drshahizan/research-material/blob/main/material/applied-ml.md)** 🤖  
